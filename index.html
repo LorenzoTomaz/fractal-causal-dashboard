@@ -17,7 +17,7 @@
 <body>
 <header><div class="container"><h1>Causal Prediction Daily</h1></div></header>
 <div id="content" class="container"></div>
-<script>
+<!-- <script>
 function esc(t) {
   return t
     .replace(/&/g,'&amp;')
@@ -56,6 +56,80 @@ fetch('data.json')
       root.appendChild(art);
     });
   });
+</script> -->
+  <script>
+/* tiny HTML-escape helper */
+const esc = str =>
+  String(str || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+
+fetch('data.json')
+  .then(r => r.json())
+  .then(json => {
+    const root = document.getElementById('content');
+    json
+      .sort((a, b) => new Date(b.runTime) - new Date(a.runTime)) // newest first
+      .forEach(run => {
+        const art = document.createElement('article');
+
+        /* HEADLINE / SUMMARY */
+        const headline = run.aiHeadline || (run.summary && run.summary.aiHeadline) || 'Report';
+        const blurb    = run.aiBlurb    || (run.summary && run.summary.aiBlurb)    || '';
+
+        art.innerHTML = `<h2>${esc(headline)}</h2>`;
+
+        /* -------- render predictions ---------- */
+        const preds = run.predictions
+          ? run.predictions                       // array style
+          : [                                     // single-prediction style
+              {
+                article:       run.article,
+                prediction:    run.prediction,
+                evidenceFound: run.evidenceFound,
+                evidenceLinks: run.evidenceLinks || []
+              }
+            ];
+
+        preds.forEach(p => {
+          const sect = document.createElement('section');
+          sect.innerHTML = `
+            <b>Headline:</b> ${esc(p.article)}<br>
+            <b>Prediction:</b> ${esc(p.prediction)}<br>
+            <b>Outcome:</b> ${p.evidenceFound ? 'Hit' : 'Miss'}<br>
+          `;
+
+          if (p.evidenceLinks && p.evidenceLinks.length) {
+            sect.innerHTML +=
+              '<b>Evidence:</b><ul>' +
+              p.evidenceLinks
+                .map(l => `<li><a href="${l}" target="_blank">${esc(l)}</a></li>`)
+                .join('') +
+              '</ul>';
+          }
+          art.appendChild(sect);
+        });
+
+        /* SUMMARY TEXT */
+        if (blurb) {
+          art.innerHTML += `
+            <div class="summary"><b>Summary:</b> ${esc(blurb)}</div>
+          `;
+        }
+
+        /* RUN TIME FOOTER (optional) */
+        art.innerHTML += `<div class="time">Run @ ${esc(run.runTime)}</div>`;
+        root.appendChild(art);
+      });
+  })
+  .catch(err => {
+    document.getElementById('content').innerText =
+      'Error loading data.json: ' + err.message;
+  });
 </script>
+
 </body>
 </html>
