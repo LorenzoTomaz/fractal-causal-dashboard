@@ -1,1 +1,190 @@
-[{"runTime": "2025-03-07", "predictions": [{"article": "Grain markets dip weighed by fallout from US tariff moves", "prediction": "The imposition of additional tariffs on imported chicken, wheat, corn, and cotton will lead to an increase in domestic prices for these commodities by at least 5% within the next month.", "evidenceFound": true, "evidenceLinks": ["https://www.feednavigator.com/Article/2025/03/05/grain-markets-dip-weighed-by-fallout-from-us-tariff-moves/"]}, {"article": "Outlook for U.S. Agricultural Trade", "prediction": "The projected trade deficit and new tariffs will result in a decrease in US agricultural export volumes by at least 10% by the end of the second quarter of 2025.", "evidenceFound": false, "evidenceLinks": ["http
+[
+  {
+    "runTime": "2025-02-08",
+    "predictions": [
+      {
+        "article": "Farmers retain optimistic outlook for 2025 despite ag trade uncertainty",
+        "prediction": "Given the rise in crop prices and improved financial performance indices, U.S. farm income will increase by at least 5% in the first quarter of 2025 compared to the same period in 2024.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Tariff risks to agriculture aired during Senate hearing",
+        "prediction": "The announcement of potential tariffs will lead to a 10% increase in the cost of agricultural inputs like fertilizers within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA freezes farmer funding for some programs",
+        "prediction": "The USDA funding freeze will result in a 15% decrease in the number of new conservation contracts signed in the first half of 2025 compared to the first half of 2024.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "summary": {
+      "aiHeadline": "Esonomic Optimism and Policy Challenges Shape U.S. Agriculture in Early 2025",
+      "aiBlurb": "Despite trade uncertainties, U.S. farmers enter 2025 with optimism driven by rising crop prices and improved financial indices. However, potential tariffs and a USDA funding freeze pose significant challenges, impacting input costs and conservation efforts."
+    }
+},
+  {
+    "runTime": "2025-02-08",
+    "predictions": [
+      {
+        "article": "10 Charts to Explain What's Shaping the Ag Economy at the Start of 2025",
+        "prediction": "The significant increase in government payments will lead to a temporary boost in net farm income, but concerns about sustainability will prompt discussions on reforming farm safety nets within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "New Tariffs Will Impact America's Farmers",
+        "prediction": "The imposition of new tariffs will result in a measurable decrease in U.S. agricultural exports to China, Mexico, and Canada by at least 10% within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDa freezes farmer funding for some programs, conservation contracts",
+        "prediction": "The USDA's funding freeze will lead to a 5% reduction in the implementation of new conservation practices by U.S. farmers within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "summary": {
+      "aiHeadline": "Economic and Policy Shifts in U.S. Agriculture: Government Payments, Tariffs, and Funding Freezes",
+      "aiBlurb": "Recent developments in U.S. agriculture include a surge in government payments, new tarifs impacting exports, and a USDA funding freeze affecting conservation efforts. These changes are expected to influence farm income, export levels, and conservation practices in the coming months."
+    }
+},
+  {
+    "runTime": "2025-02-08",
+    "predictions": [
+      {
+        "article": "10 Charts to Explain What's Shaping the Ag Economy in 2025",
+        "prediction": "The U.S. agricultural trade deficit will widen to $49 billion in 2025 due to increased imports and reduced exports, particularly in oilseeds like soybeans.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "AFFBF: New Tariffs Will Impact America's Farmers",
+        "prediction":"The imposition of new tariffs will lead to a10% increase in input costs for U.S. farmers, particularly affecting fertilizer prices due to reliance on Canadian imports.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Government Payments Drive U.S. Farm Income Surge in 2025",
+        "prediction": "U.S. net farm income will increase by nearly 30% in 2025, reaching $180.1 billion, primarily due to a 345% increase in government payments.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "summary": {
+      "aiHeadline": "U.S. Agriculture Faces Trade Deficit and Tariff Challenges Amid Government Payment Surge",
+      "aiBlurb": "In 2025, U.S. agriculture is navigating a complex landscape with a widening trade deficit, increased input costs due to tariffs, and a significant boost in farm income driven by government payments. These dynamics highlight the sector's reliance on policy measures and the challenges of maintaining global competitiveness."
+    }
+},
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "USDA Prepares to Protect Farmers in a Trade War",
+        "prediction": "The implementation of the Emergency Commodity Assistance Program (ECAP) will lead to a temporary stabilization of farmer sentiment as measured by the Purdue University-CME Group Ag Economy Barometer within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "The imposition of tariffs and subsequent retaliatory measures will result in a 10% increase in the price of agricultural inputs such as fertilizers and machinery within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "The reduction of the potash tariff from 25% to 10% will lead to a 5% decrease in potash prices within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "summary": {
+      "aiHeadline": "USDA's Emergency Measures and Trade War Tariffs: Impacts on US Agriculture",
+      "aiBlurb": "In March 2025, the USDA announced emergency measures to protect farmers amid escalating trade tensions. The imposition of tariffs and retaliatory actions have increased input costs and threatened export markets, prompting concerns about the economic stability of the agricultural sector."
+    }
+},
+  {
+    "runTime": "2025-02-08",
+    "predictions": [
+      {
+        "article": "10 Charts to Explain What's Shaping the Ag Economy at the Start of 2025",
+        "prediction": "The U.S. agricultural trade deficit will widen to $49 billion in 2025 due to increased imports of horticultural products, coffee, and processed foods.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "AFFBF: New Tariffs Will Impact America's Farmers",
+        "prediction":"The imposition of tariffs will lead to a decrease in U.S. agricultural exports to China, Mexico, and Canada by at least 10% within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA Freezes Farmer Funding for Conservation Contracts in 2025",
+        "prediction": "The freeze on USDA funding will result in at least a 20% reduction in the number of active conservation projects by mid-2025.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "summary": {
+      "aiHeadline": "Tariffs and Funding Freezes Pose Challenges for U.S. Agriculture in 2025",
+      "aiBlurb": "As 2025 unfolds, U.S. agriculture faces significant hurdles with widening trade deficits, reduced exports due to new tariffs, and a freeze on critical USDA funding impacting conservation efforts."
+    }
+},
+  {
+    "runTime": "2025-02-08",
+    "predictions": [
+      {
+        "article": "10 Charts to Explain What's Shaping the Ag Economy Start 2025",
+        "prediction": "The significant increase in government payments will lead to a temporary boost in net farm income, but the decline in cash receipts will result in financial strain for farmers by mid-2025.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "AFBF: New Tariffs Will Impact America's Farmers",
+        "prediction": "The imposition of tariffs on imports from Mexico, Canada, and China will lead to increased fertilizer prices in the U.S., causing a rise in overall farming costs by at least 10% within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA freezes farmer funding for some programs",
+        "prediction": "The freeze on USDA funding for conservation programs will result in a delay or cancellation of planned environmentally friendly farming projects, leading to a decrease in the adoption of sustainable practices by at least 20% in 2025.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "summary": {
+      "aiHeadline": "Economic Shifts and Policy Changes Pose Challenges for U.S. Agriculture in 2025",
+      "aiBlurb": "As 2025 unfolds, U.S. agriculture faces significant challenges due to increasing government payments, new tariffs, and a freeze on critical USDA funding impacting conservation efforts."
+    }
+},
+  {
+    "runTime": "2025-02-08",
+    "predictions": [
+      {
+        "article": "10 Charts to Explain What's Shaping the Ag Economy Start 2025",
+        "prediction": "The significant increase in government payments will lead to a temporary boost in net farm income, but the decline in cash receipts will result in financial strain for farmers by mid-2025.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "AFBF: New Tariffs Will Impact America's Farmers",
+        "prediction":"The imposition of tariffs on imports from Mexico, Canada, and China will lead to increased fertilizer prices in the U.S., causing a rise in overall farming costs by at least 10% within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA Freezes Farmer Funding for Conservation Contracts in 2025",
+        "prediction": "The freeze on USDA funding for conservation programs will result in at least a 20% reduction in the number of active conservation projects by mid-2025.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "summary": {
+      "aiHeadline": "Evidence found predictions for this run",
+      "aiBlurb": "Simple automated blurb for the dashboard."
+    }
+}]
