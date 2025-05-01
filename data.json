@@ -1,13 +1,28 @@
-[{
-  "runTime": "2025-05-01T18:00:01.670Z",
-  "article": "USDA Forecasts Sharpest Decline in U.S. Farm Income",
-  "prediction": "U.S. net farm income will decline by at least 4% in 2024 compared to 2023, primarily due to decreased cash receipts and lower commodity prices.",
-  "evidenceFound": true,
-  "evidenceLinks": [
-    "https://www.fb.org/market-intel/2024-farm-income-decline-confirmed-in-usda-update",
-    "https://www.gfb.org/news/ag-news/post/net-farm-income-expected-to-drop-again-in-2024-",
-    "https://www.agweek.com/news/policy/us-farm-incomes-to-fall-sharply-in-2024-as-crop-prices-plunge-usda"
-  ],
-  "aiHeadline": "US Farm Income Decline Projected",
-  "aiBlurb": "The USDA forecasts a significant drop of 4% in farm income for 2024, with evidence from multiple agricultural news sources."
-}]
+[
+  {
+    "runTime": "2025-05-01T18:10:00.641Z",
+    "article": "USDA Forecasts Sharpest Decline in U.S. Farm Income",
+    "prediction": "U.S. net farm income will decrease by at least 20% in 2024 compared to 2023, leading to increased financial distress among farmers and a rise in farm bankruptcies by at least 10% within the year.",
+    "evidenceFound": true,
+    "evidenceLinks": [
+      "https://www.fb.org/market-intel/2024-farm-bankruptcies-highlight-worsening-farm-credit",
+      "https://www.agweb.com/news/policy/ag-economy/another-sign-trouble-ag-economy-farm-bankruptcies-are-rise",
+      "https://www.michiganfarmnews.com/usda-trims-expected-declines-in-2024-farm-income-forecast-update"
+    ],
+    "aiHeadline": "USDA Predicts Major Drop in US Farm Income for 2024",
+    "aiBlurb": "Recent news analysis forecasts a sharp decline in US farm income and crop prices for 2024, with supporting evidence from multiple sources. The agricultural sector may face increased bankruptcies and reduced exports."
+  },
+  {
+    "runTime": "2025-05-01T18:00:01.670Z",
+    "article": "USDA Forecasts Sharpest Decline in U.S. Farm Income",
+    "prediction": "U.S. net farm income will decline by at least 4% in 2024 compared to 2023, primarily due to decreased cash receipts and lower commodity prices.",
+    "evidenceFound": true,
+    "evidenceLinks": [
+      "https://www.fb.org/market-intel/2024-farm-income-decline-confirmed-in-usda-update",
+      "https://www.gfb.org/news/ag-news/post/net-farm-income-expected-to-drop-again-in-2024-",
+      "https://www.agweek.com/news/policy/us-farm-incomes-to-fall-sharply-in-2024-as-crop-prices-plunge-usda"
+    ],
+    "aiHeadline": "US Farm Income Decline Projected",
+    "aiBlurb": "The USDA forecasts a significant drop of 4% in farm income for 2024, with evidence from multiple agricultural news sources."
+  }
+]
