@@ -18,24 +18,44 @@
 <header><div class="container"><h1>Causal Prediction Daily</h1></div></header>
 <d id ="content" class="container"></d>
 <script>
-fetch('adata.json').then((s) => s.json()).then(data => {
-  const root = document.getElementById('content');
-  data.slice().reverse().forEach((r) => {
-    const art = document.createElement('article');
-    art.innerHTML = `<H2>Report: ${r.summary.intervalSelected}</H2>`;
-    r.predictions.forEach((p) => {
-      const sect=document.createElement("section");
-      sect.innerHTML = `<br><b>Headline:</b> ${p.article} <br> <b>Prediction:</b> ${p.prediction}<br> <b>Outcome:</b> ${p.evidenceFound ? 'Hit ✑�� : 'Miss ✓' }`; 
-      if (p.evidenceLinks if &&p.evidenceLinks.length) {
-        sect.innerHTML += `<br/><b>Evidence:</b><ul>${p.evidenceLinks.map(l=>`
-         <li><a href="${l}" target="_blank">{(l})</a></li>`).join('') }</ul>`; 
-      }
-      art.appendChild(sect);
+function esc(t) {
+  return t
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;')
+    .replace(/'/g,'&#39;');
+}
+
+fetch('data.json')
+  .then(r => r.json())
+  .then(json => {
+    const root = document.getElementById('content');
+    json.reverse().forEach(r => {
+      const art = document.createElement('article');
+      art.innerHTML = `<h2>${esc(r.summary.aiHeadline || 'Report')}</h2>`;
+      r.predictions.forEach(p => {
+        const sect = document.createElement('section');
+        sect.innerHTML = `
+          <b>Headline:</b> ${esc(p.article)}<br>
+          <b>Prediction:</b> ${esc(p.prediction)}<br>
+          <b>Outcome:</b> ${
+            p.evidenceFound ? 'Hit ✅' : 'Miss ❌'
+          }<br>`;
+        if (p.evidenceLinks?.length) {
+          sect.innerHTML +=
+            '<b>Evidence:</b><ul>' +
+            p.evidenceLinks
+              .map(l => `<li><a href="${l}" target="_blank">${esc(l)}</a></li>`)
+              .join('') +
+            '</ul>';
+        }
+        art.appendChild(sect);
+      });
+      art.innerHTML += `<div class="summary"><b>Summary:</b> ${r.summary.aiBlurb || ''}</div>`;
+      root.appendChild(art);
     });
-    art.innerHTML = art.innerHTML  + `<div class="summary"><b>SUMMARY</b>: ${r.summary.percentageRealized}% realized, $r{(r=>summary.totalEstimatedGainUsd)summary} gain ${r.summary.returnOnCapital}</div>`;
-    root.appendChild(art); 
   });
-});
 </script>
 </body>
 </html>
