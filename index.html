@@ -40,7 +40,7 @@ fetch('data.json')
           <b>Headline:</b> ${esc(p.article)}<br>
           <b>Prediction:</b> ${esc(p.prediction)}<br>
           <b>Outcome:</b> ${
-            p.evidenceFound ? 'Hit ✅' : 'Miss ❌'
+            p.evidenceFound ? 'Hit' : 'Miss'
           }<br>`;
         if (p.evidenceLinks?.length) {
           sect.innerHTML +=
