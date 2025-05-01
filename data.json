@@ -1,1 +1,151 @@
-[{"info":"Error analyzing chat: Failed after 3 attempts. Last error: This request would exceed the rate limit for your organization (d15a1242-2f69-450c-8bbf-daa543ab9acf) of 200,000 input tokens per minute. For details, refer to: https://docs.anthropic.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.","aiHeadline":"AI Rate Limit Error","aiBlurb":"This entry is a rate limit notification and not a real blog update."}]
+[
+  {
+    "runTime": "2025-05-01T17:35:00Z",
+    "article": "2024 Farm Income Decline Confirmed in USDA Update",
+    "prediction": "Net farm income in the U.S. will decrease by at least 4% in 2024 compared to 2023, leading to increased financial strain on farmers and potential rise in farm bankruptcies.",
+    "evidenceFound": true,
+    "evidenceLinks": [
+      "https://www.fb.org/market-intel/2024-farm-income-decline-confirmed-in-usda-update",
+      "https://www.agricultureofamerica.com/2024/12/04/december-farm-income-forecast-shows-lower-2024-numbers/",
+      "https://www.hoosieragtoday.com/2024/12/04/decembers-farm-income-forecast-shows-trouble-for-us-agriculture/"
+    ],
+    "aiHeadline": "US Farm Income Predicted to Drop in 2024",
+    "aiBlurb": "USDA and news sources confirm a projected decline in farm income for 2024, with increased financial strain and bankruptcies expected."
+  },
+  {
+    "runTime": "2025-05-01T17:30:00Z",
+    "article": "2024 Farm Income Decline Confirmed in USDA Update",
+    "prediction": "Net farm income in the U.S. will decrease by at least 4% in 2024 compared to 2023, leading to increased financial strain on farmers.",
+    "evidenceFound": true,
+    "evidenceLinks": [
+      "https://www.fb.org/market-intel/2024-farm-income-decline-confirmed-in-usda-update",
+      "https://www.thegazette.com/agriculture/latest-2024-farm-income-forecast-shows-overall-decrease-from-2023/",
+      "https://www.michigannfarmnews.com/usda-confirms-2024-farm-income-down-22-6-from-2022"
+    ],
+    "aiHeadline": "Farm Income Drop Confirmed for 2024",
+    "aiBlurb": "Multiple sources confirm a significant drop in US farm income for 2024, raising concerns for farmers' financial health."
+  },
+  {
+    "runTime": "2025-05-01T17:25:00Z",
+    "article": "Another Sign of Trouble in the Ag Economy",
+    "prediction": "Family farm bankruptcies in the U.S. will increase by at least 50% in 2025 compared to 2023 levels.",
+    "evidenceFound": true,
+    "evidenceLinks": [
+      "https://www.agweb.com/news/policy/ag-economy/another-sign-trouble-ag-economy-farm-bankruptcies-are-rise",
+      "https://agnetwest.com/farm-bankruptcies-rise-again-2025/",
+      "https://www.agriculture.com/farm-bankruptcies-on-the-rise-again-in-2025-11719574"
+    ],
+    "aiHeadline": "Sharp Rise in Farm Bankruptcies Predicted for 2025",
+    "aiBlurb": "Economic analysis points to a 50% increase in family farm bankruptcies by 2025, with strong supporting evidence."
+  },
+  {
+    "runTime": "2025-05-01T17:20:00Z",
+    "predictions": [
+      {
+        "article": "2024 Farm Income Decline Confirmed in USDA Update",
+        "prediction": "US farm bankruptcies will increase by at least 10% within the next quarter due to declining farm income.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/another-sign-trouble-ag-economy-farm-bankruptcies-are-rise",
+          "https://agnetwest.com/farm-bankruptcies-rise-again-2025/"
+        ]
+      },
+      {
+        "article": "Trump pledges 60% tariffs on Chinese imports",
+        "prediction": "US agricultural exports to China will decrease by at least 15% within the next quarter due to increased tariffs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA Forecasts Decline in Farm Income for 2024",
+        "prediction": "The price of agricultural land in the US will decrease by at least 5% within the next quarter due to declining farm income.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "summary": "The recent economic and agricultural news highlights significant challenges in the US farm sector, including declining farm income and potential impacts from trade policies. These factors are expected to lead to increased financial strain on farmers, with potential increases in bankruptcies and changes in land values.",
+    "aiHeadline": "US Farm Sector Faces Financial Strain Amid Income Decline",
+    "aiBlurb": "Recent reports confirm a decline in US farm income, prompting predictions of increased bankruptcies and potential impacts on agricultural exports and land values. The sector faces significant challenges as trade policies and economic conditions evolve."
+  },
+  {
+    "runTime": "2025-05-01T17:10:00Z",
+    "predictions": [
+      {
+        "article": "2024 Farm Income Decline Confirmed in USDA Update",
+        "prediction": "Net farm income in the U.S. will decrease by at least 4% in 2024 compared to 2023, leading to increased financial strain on small to medium-sized farms.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.fb.org/market-intel/2024-farm-income-decline-confirmed-in-usda-update",
+          "https://www.agweb.com/news/policy/ag-economy/another-sign-trouble-ag-economy-farm-bankruptcies-are-rise",
+          "https://www.thegazette.com/agriculture/latest-2024-farm-income-forecast-shows-overall-decrease-from-2023/"
+        ]
+      },
+      {
+        "article": "Another Sign of Trouble in the Ag Economy",
+        "prediction": "Family farm bankruptcies in the U.S. will increase by at least 10% in 2025 compared to 2024 levels.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/another-sign-trouble-ag-economy-farm-bankruptcies-are-rise",
+          "https://agnetwest.com/farm-bankruptcies-rise-again-2025/",
+          "https://www.agriculture.com/farm-bankruptcies-on-the-rise-again-in-2025-11719574"
+        ]
+      }
+    ],
+    "aiHeadline": "Farm Income and Bankruptcy Trends: 2024-2025",
+    "aiBlurb": "Predictions highlight a continued decline in farm income and a rise in bankruptcies for US family farms, with strong supporting evidence."
+  },
+  {
+    "runTime": "2025-05-01T17:05:00Z",
+    "predictions": [
+      {
+        "article": "2024 Farm Income Decline Confirmed in USDA Update",
+        "prediction": "Net farm income in the U.S. will decrease by at least 4% in 2024 compared to 2023, leading to increased financial strain on small to medium-sized farms.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.fb.org/market-intel/2024-farm-income-decline-confirmed-in-usda-update",
+          "https://www.michiganfarmnews.com/usda-confirms-2024-farm-income-down-22-6-from-2022",
+          "https://www.thegazette.com/agriculture/latest-2024-farm-income-forecast-shows-overall-decrease-from-2023/"
+        ]
+      },
+      {
+        "article": "Another Sign of Trouble in the Ag Economy",
+        "prediction": "Family farm bankruptcies in the U.S. will increase by at least 10% in 2025 compared to 2024 levels.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/another-sign-trouble-ag-economy-farm-bankruptcies-are-rise",
+          "https://agnetwest.com/farm-bankruptcies-rise-again-2025/",
+          "https://www.agriculture.com/farm-bankruptcies-on-the-rise-again-in-2025-11719574"
+        ]
+      }
+    ],
+    "aiHeadline": "US Farm Economy: Declining Income, Rising Bankruptcies",
+    "aiBlurb": "Recent predictions confirm a drop in farm income and a rise in bankruptcies for US farms, with strong evidence from multiple sources."
+  },
+  {
+    "runTime": "2025-05-01T16:55:00Z",
+    "predictions": [
+      {
+        "article": "2024 Farm Income Decline Confirmed in USDA Update",
+        "prediction": "US net farm income will decrease by at least 4% in 2024 compared to 2023, leading to increased financial strain on farmers.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.fb.org/market-intel/2024-farm-income-decline-confirmed-in-usda-update",
+          "https://www.michigannfarmnews.com/usda-confirms-2024-farm-income-down-22-6-from-2022",
+          "https://www.thegazette.com/agriculture/latest-2024-farm-income-forecast-shows-overall-decrease-from-2023/"
+        ]
+      },
+      {
+        "article": "Another Sign of Trouble in the Ag Economy",
+        "prediction": "Family farm bankruptcies in the U.S. will increase by at least 10% in 2025 compared to 2024 levels.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/another-sign-trouble-ag-economy-farm-bankruptcies-are-rise",
+          "https://agnetwest.com/farm-bankruptcies-rise-again-2025/",
+          "https://www.agriculture.com/farm-bankruptcies-on-the-rise-again-in-2025-11719574"
+        ]
+      }
+    ],
+    "aiHeadline": "Bankruptcies Expected to Rise for US Family Farms in 2025",
+    "aiBlurb": "Ongoing financial pressures and reduced farm income are expected to drive a10% increase in family farm bankruptcies in 2025."
+  }
+]
