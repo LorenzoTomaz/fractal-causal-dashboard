@@ -34,7 +34,7 @@ fetch('data.json')
     json.reverse().forEach(r => {
       const art = document.createElement('article');
       art.innerHTML = `<h2>${esc('Report')}</h2>`;
-      r.predictions.forEach(p => {
+      r.forEach(p => {
         const sect = document.createElement('section');
         sect.innerHTML = `
           <b>Headline:</b> ${esc(p.article)}<br>
