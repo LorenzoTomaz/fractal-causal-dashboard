@@ -31,27 +31,26 @@ fetch('data.json')
   .then(r => r.json())
   .then(json => {
     const root = document.getElementById('content');
-    json.reverse().forEach(r => {
+    json.reverse().forEach(p => {
       const art = document.createElement('article');
       art.innerHTML = `<h2>${esc('Report')}</h2>`;
-      r.forEach(p => {
-        const sect = document.createElement('section');
-        sect.innerHTML = `
-          <b>Headline:</b> ${esc(p.article)}<br>
-          <b>Prediction:</b> ${esc(p.prediction)}<br>
-          <b>Outcome:</b> ${
-            p.evidenceFound ? 'Hit' : 'Miss'
-          }<br>`;
-        if (p.evidenceLinks?.length) {
-          sect.innerHTML +=
-            '<b>Evidence:</b><ul>' +
-            p.evidenceLinks
-              .map(l => `<li><a href="${l}" target="_blank">${esc(l)}</a></li>`)
-              .join('') +
-            '</ul>';
-        }
-        art.appendChild(sect);
-      });
+      console.log(p)
+      const sect = document.createElement('section');
+      sect.innerHTML = `
+        <b>Headline:</b> ${esc(p.article)}<br>
+        <b>Prediction:</b> ${esc(p.prediction)}<br>
+        <b>Outcome:</b> ${
+          p.evidenceFound ? 'Hit' : 'Miss'
+        }<br>`;
+      if (p.evidenceLinks?.length) {
+        sect.innerHTML +=
+          '<b>Evidence:</b><ul>' +
+          p.evidenceLinks
+            .map(l => `<li><a href="${l}" target="_blank">${esc(l)}</a></li>`)
+            .join('') +
+          '</ul>';
+      }
+      art.appendChild(sect);
       //art.innerHTML += `<div class="summary"><b>Summary:</b> ${r.summary.aiBlurb || ''}</div>`;
       root.appendChild(art);
     });
