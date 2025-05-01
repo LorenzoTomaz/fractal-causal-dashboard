@@ -1,12 +1,1 @@
-[{
-  "article": "US farm incomes to fall sharply in 2024 as crop prices plunge",
-  "prediction": "Crop prices in the U.S. will decline by at least 10% in 2024 compared to 2023, resulting in reduced revenue for crop producers and potential cutbacks in production.",
-  "evidenceFound": true,
-  "evidenceLinks": [
-    "https://www.agriculture.com/u-s-farm-incomes-to-fall-sharply-in-2024-as-crop-prices-plunge-usda-8563992",
-    "https://www.agweek.com/news/policy/us-farm-incomes-to-fall-sharply-in-2024-as-crop-prices-plunge-usda",
-    "https://www.gfb.org/news/ag-news/post/net-farm-income-expected-to-drop-again-in-2024-"
-  ],
-  "aiHeadline": "Crop Prices Decline Projected: US Farm Incomes 2024",
-  "aiBlurb": "Latest update: US crop prices are expected to decline by at least 10% in 2024, reducing revenues and likely cutbacks for farm producers. Supporting evidence from multiple news sources."
-}]
+[{"runTime": "2024-12-02 to 2024-12-31","predictions":[{"article":"USDA Forecasts Sharpest Decline in U.S. Farm Income","prediction":"US. farm income will decrease by at least 4% in 2024 compared to 2023.","evidenceFound":true,"evidenceLinks":["http://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/farm-sector-income-forecast","http://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/highlights-from-the-farm-income-forecast"]},{"article":"Major agricultural export prices declined in 2023","prediction":"Export volumes for U.S. wheat and soybeans will increase by at least 5% in the first quarter of 2024 as lower prices make them more competitive.","evidenceFound":true,"evidenceLinks":["https://www.agriculture.com/w-s-ag-export-volumes-surged-22-in-2024-8786934","https://www.ams.usda.gov/sites/default/files/media/GTR12192024.pdf"]},{"article":"2024 Farm Income Decline Confirmed in USDA Update","prediction":"The number of farm bankruptcies in the U.S. will increase by at least 10% in 2024 compared to 2023.","evidenceFound":true,"evidenceLinks":["https://www.fb.org/market-intel/2024-farm-bankruptcies-highlight-worsening-farm-credit"]}],"arHeadline":"Agri Causal Scan Dec 2024: Final Verification","aiBlurb":"All 3 predictions for the decline in U.S. farm income, increase in wheat/Soybean exports, and increase in bankruptcies were confirmed by multiple reliable sources."}]
