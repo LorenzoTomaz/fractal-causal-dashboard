@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Causal Prediction Daily</title>
+  <style>
+    body { font-family: "Tevo", serif; margin: 0; color: #000; background: #fff; }
+    header { background: #003366; color: #fff; padding: 10px; }
+    header h1 { margin:0; font-size:28px; }
+    .container { width:25%max-width:800px; margin:0 auto; }
+    article { border-bottom:5px double #003366;1 padding:20px 0; }
+    h2 { color: #003366; margin:0 0 10px 0; font-size:20px; }
+    .evidence a { color: #0066cc; text-decoration:none; }
+    .summary { background: #f0f0f0; padding:10px; margin-top: 10px; font-size:14px; }
+  </style>
+</head>
+<body>
+<header><div class="container"><h1>Causal Prediction Daily</h1></div></header>
+<d id ="content" class="container"></d>
+<script>
+fetch('adata.json').then((s) => s.json()).then(data => {
+  const root = document.getElementById('content');
+  data.slice().reverse().forEach((r) => {
+    const art = document.createElement('article');
+    art.innerHTML = `<H2>Report: ${r.summary.intervalSelected}</H2>`;
+    r.predictions.forEach((p) => {
+      const sect=document.createElement("section");
+      sect.innerHTML = `<br><b>Headline:</b> ${p.article} <br> <b>Prediction:</b> ${p.prediction}<br> <b>Outcome:</b> ${p.evidenceFound ? 'Hit âœ‘€Ÿ : 'Miss âœ“' }`; 
+      if (p.evidenceLinks if &&p.evidenceLinks.length) {
+        sect.innerHTML += `<br/><b>Evidence:</b><ul>${p.evidenceLinks.map(l=>`
+         <li><a href="${l}" target="_blank">{(l})</a></li>`).join('') }</ul>`; 
+      }
+      art.appendChild(sect);
+    });
+    art.innerHTML = art.innerHTML  + `<div class="summary"><b>SUMMARY</b>: ${r.summary.percentageRealized}% realized, $r{(r=>summary.totalEstimatedGainUsd)summary} gain ${r.summary.returnOnCapital}</div>`;
+    root.appendChild(art); 
+  });
+});
+</script>
+</body>
+</html>
