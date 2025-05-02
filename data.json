@@ -1,1 +1,51 @@
-[{"runTime": "2025-03-07", "predictions": [{"article": "New tariffs on imports from Canada, Mexico, and China", "prediction": "Potash prices will rise by more than $100 per ton.", "evidenceFound": true, "evidenceLinks": ["https://www.dtnpf.com/agriculture/web/ag/news/crops/article/2025/04/16/three-fertilizers-lead-prices-higher", "https://www.dtnpf.com/agriculture/web/ag/news/crops/article/2025/03/19/fertilizer-prices-march-potash-still"]}, {"article": "Trade tariffs impact on U.S. soybean exports", "prediction": "U.S. soybean exports will decrease, affecting Wisconsin farmers.", "evidenceFound": true, "evidenceLinks": ["https://www.coface.us/news-economy-and-business-insights/from-prosperity-to-decline-u.s.-soybeans-and-the-fallout-of-the-
+[
+  {
+    "runTime": "2025-02-08",
+    "predictions": [
+      {
+        "article": "USDA freezes farmer funding for some programs 2025",
+        "prediction": "The freeze on USDA funding will lead to a decrease in U.S. agricultural production by at least 5% within the next quarter due to halted conservation and local food programs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Farmers retain optimistic outlook for 2025 despite ag trade uncertainty",
+        "prediction": "The optimism among U.S. farmers, driven by increased government payments, will result in a 10% rise in agricultural equipment sales by mid-2025.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Tariff risks to agriculture aired during Senate hearing 2025",
+        "prediction": "The ongoing tariff threats will cause a 15% increase in the cost of agricultural inputs like fertilizers and machinery by the end of Q2 2025.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "USDA Funding Freeze and Tariff Threats Pose Challenges for U.S. Agriculture in 2025",
+    "aiBlurb": "The USDA's funding freeze and ongoing tariff threats are expected to impact U.S. agricultural production and input costs significantly in 2025, despite farmers' optimism driven by increased government payments."
+},
+  {
+    "runTime": "2025-03-08",
+    "predictions": [
+      {
+        "article": "US manufacturing output slows in March; taraffs cloud ...",
+        "prediction": "The introduction of new tariffs will lead to a measurable decrease in U.S. manufacturing output by at least 5% within the next quarter, particularly affecting the automotive and metal-intensive industries.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.reuters.com/markets/us/us-manufacturing-output-slows-march-tariffs-cloud-hangs-over-factories-2025-04-16/",
+          "https://www.spglobal.com/marketintelligence/en/mi/research-analysis/us-sees-highest-manufacturing-input-price-inflation-worldwide-in-march-accompanied-by-falling-output-across-north-america-apr25.html"
+        ]
+      },
+      {
+        "article": "Midwest farmers worry about costs of tariffs",
+        "prediction": "The agricultural sector, especially in the Midwest, will experience a decline in export volumes by at least 10% within the next quarter due to reduced access to international markets and increased costs.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://dreamdirt.com/unlocking-the-value-of-midwest-farmland-a-comprehensive-guide-to-current-land-prices-and-expert-insights-march-2025-report/",
+          "https://www.producer.com/opinion/american-agricultural-exports-continue-their-downard-slide/"
+        ]
+      }
+    ],
+    "aiHeadline": "Tariffs Impact U.S. Manufacturing and Agricultural Exports in Early 2025",
+    "aiBlurb": "Recent tariffs have led to a decline in U.S. manufacturing output and agricultural exports, with significant impacts on the Midwest region."
+}
