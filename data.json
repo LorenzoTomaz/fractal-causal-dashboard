@@ -1,16 +1,163 @@
 [
   {
+    "runTime": "2025-03-01 to 2025-03-08",
+    "predictions": [
+      {
+        "article": "USDA Prepares to Protect Farmers in a Trade War",
+        "prediction": "The implementation of the Emergency Commodity Assistance Program (ECAP) will lead to a temporary stabilization of farm income levels in the U.S. within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US Farmers Face Higher Costs, Fewer Markets from Tariffs",
+        "prediction": "The cost of potash fertilizer in the U.S. will increase by at least 10% within the next month due to the imposed tariffs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Trade War Escalates as Retaliatory Tariffs Hit Struggling Farm Economy",
+        "prediction": "U.S. agricultural exports to China will decrease by at least 15% within the next month as a result of retaliatory tariffs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "March 2025: U.S. Agriculture Faces Tariff Turmoil and Economic Uncertainty",
+    "aiBlurb": "In March 2025, U.S. farmers grapple with rising costs and shrinking markets due to new tariffs. The USDA's emergency aid aims to cushion the blow, but the long-term impact on exports and farm income remains uncertain."
+  },
+  {
+    "runTime": "2025-03-07T12:00:00Z",
+    "predictions": [],
+    "aiHeadline": "Technical Difficulties in Data Retrieval",
+    "aiBlurb": "Attempts to retrieve data from selected articles for causal analysis were unsuccessful due to persistent technical errors. Alternative methods or manual access may be required to gather necessary information."
+  },
+  {
     "runTime": "2025-03-08",
     "predictions": [
       {
+        "article": "USDA Prepares to Protect Farmers in a Trade War",
+        "prediction": "The announcement of the Emergency Commodity Assistance Program (ECAP) will lead to an increase in farmer sentiment as measured by the Purdue University/CME Group Ag Economy Barometer within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
         "article": "US farmers face higher costs, fewer markets from tariffs",
-        "prediction": "US soybean and sorghum exports will continue to decline by at least 10% over the next month.",
+        "prediction": "The imposition of new tariffs will result in a measurable decrease in U.S. agricultural exports to China, Canada, and Mexico by at least 10% within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "The retaliatory tariffs will cause a significant increase in input costs for U.S. farmers, particularly in fertilizer prices, by at least 15% within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Trade Tensions and Economic Aid: Impacts on U.S. Agriculture",
+    "aiBlurb": "Recent trade tensions have prompted the USDA to announce economic aid programs, while new tariffs threaten to increase costs and reduce export opportunities for U.S. farmers."
+  },
+  {
+    "runTime": "2025-03-08",
+    "predictions": [
+      {
+        "article": "USDA Prepares to Protect Farmers in a Trade War",
+        "prediction": "The USDA will implement financial relief measures, such as the Market Facilitation Program, to support farmers affected by the March 2025 tariffs within the next month.",
         "evidenceFound": true,
         "evidenceLinks": [
-          "https://www.reuters.com/markets/commodities/trump-trade-war-dries-up-sorghum-sales-china-us-farmers-plan-plant-more-2025-04-15/",
-          "https://www.agweb.com/news/crops/soybeans/u-s-soybean-exports-china-could-grow-tariff-tit-tat-plays-out"
+          "https://www.agweb.com/news/policy/ag-economy/usda-prepares-protect-farmers-trade-war",
+          "https://sentientmedia.org/usda-signals-possible-relief-for-farmers/",
+          "https://www.farmprogress.com/farm-business/usda-ready-to-aid-farmers-if-trump-tariffs-spark-retaliation-ag-secretary-rollins-says"
         ]
       },
       {
-        "article": "USDA Prepares to Protect Farmers in a Trade War",
-        "prediction": "US fertilizer prices will rise by at least 5% within t
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "The price of potassium fertilizers in the US will increase by at least $100 per ton due to the 25% tariff on Canadian imports within the next month.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://investigatemidwest.org/2025/04/09/tariff-is-trumps-favorite-word-but-for-soybean-farmers-it-spells-trouble/",
+          "https://ofbf.org/2025/04/07/2025-agriculture-trade-tariff-resources/",
+          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/"
+        ]
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "Retaliatory tariffs from China, Canada, and Mexico will lead to a reduction in US agricultural exports by at least 10% within the next two months.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.farmprogress.com/farm-policy/trade-war-escalates-as-retaliatory-tariffs-hit-struggling-farm-economy",
+          "https://klvtnews.wordpress.com/2025/03/05/trade-war-escalates-as-retaliatory-tariffs-hit-struggling-farm-economy/",
+          "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/"
+        ]
+      }
+    ],
+    "aiHeadline": "USDA and Farmers Brace for Impact as Trade War Intensifies",
+    "aiBlurb": "In March 2025, the USDA prepared to support farmers amid escalating tariffs, while US farmers faced rising costs and shrinking markets due to retaliatory measures from key trading partners."
+  },
+  {
+    "runTime": "2025-03-08",
+    "predictions": [
+      {
+        "article": "USDA announces next steps for economic and disaster relief",
+        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will lead to a stabilization or slight increase in commodity prices for eligible crops within the next month as financial relief reaches farmers.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Farmers brace for impact as Trump plans to move forward with new tariffs",
+        "prediction": "U.S. soybean exports to China will decrease by at least 50% within the next month due to retaliatory tariffs imposed by China.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Midwest farmers worry about costs of tariffs",
+        "prediction": "Fertilizer prices in the Midwest will increase by at least 15% within the next month due to anticipated tariffs on Canadian imports.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "USDA Relief Efforts and Tariff Impacts on U.S. Agriculture",
+    "aiBlurb": "Recent USDA announcements and new tariffs by the Trump administration are set to impact U.S. agriculture. Relief programs aim to stabilize commodity prices, while tariffs threaten export markets and increase input costs."
+  },
+  {
+    "runTime": "2025-03-07T12:00:00Z",
+    "predictions": [],
+    "aiHeadline": "Technical Difficulties in Data Retrieval",
+    "aiBlurb": "Attempts to retrieve article content for causal analysis were unsuccessful due to persistent technical issues. Further attempts may be needed with alternative sources or methods."
+  },
+  {
+    "runTime": "2025-03-07T12:00:00Z",
+    "predictions": [],
+    "aiHeadline": "Technical Difficulties in Data Retrieval",
+    "aiBlurb": "Attempts to retrieve article content for causal analysis were unsuccessful due to persistent technical issues. Further attempts may be needed to access the necessary data."
+  },
+  {
+    "runTime": "2025-02-08",
+    "predictions": [
+      {
+        "article": "10 Charts to Explain What's Shaping the Ag Economy at the Start of 2025",
+        "prediction": "The forecasted increase in net farm income by 29.5% in 2025 will lead to a rise in agricultural investments and potentially higher land prices within the next few months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "AFBF: New Tariffs Will Impact America's Farmers",
+        "prediction": "The imposition of new tariffs and retaliatory measures will result in a decrease in U.S. agricultural exports to Canada, Mexico, and China by at least 10% within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA freezes farmer funding for some programs",
+        "prediction": "The freeze on USDA funding for conservation and local food programs will lead to a reduction in the implementation of new conservation projects by at least 20% within the next six months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Economic and Agricultural Shifts in Early 2025: Predictions and Impacts",
+    "aiBlurb": "Recent analyses highlight significant economic shifts in the agricultural sector for 2025, including increased farm income, tariff impacts, and funding freezes. These changes are expected to influence investments, exports, and conservation efforts in the coming months."
+  },
+  {
+    "runTime": "2025-03-07T12:00:00Z",
+    "predictions": [],
+    "aiHeadline": "Trade Tensions and Tariffs Loom Over U.S. Agriculture",
+    "aiBlurb": "Recent news highlights the escalating trade tensions affecting U.S. agriculture, with new tariffs threatening to increase costs and reduce market access for American farmers. The USDA is preparing measures to mitigate potential impacts, but the situation remains uncertain."
+  }
+]
