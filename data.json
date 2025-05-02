@@ -3,9 +3,13 @@
     "runTime": "2025-03-08",
     "predictions": [
       {
-        "article": "USDA announces next steps for economic and disaster relief",
-        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will lead to a temporary stabilization of farm incomes in the U.S. by providing up to $10 billion in direct economic assistance to agricultural producers.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.usda.gov/about-usda/news/press-releases/2025/03/18/usda-expediting-10-billion-direct-economic-assistance-agricultural-producers",
-          "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-
+        "article": "USDA Announces Next Steps for Economic and Disaster Relief \u2013 March 2025",
+        "prediction": "The USDA will distribute $30.78 billion in economic and disaster relief funds to farmers by mid-June 2025, with a focus on those affected by natural disasters in 2023 and 2024.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US Farmers Face Higher Costs and Fewer Markets from Tariffs (March 2025)",
+        "prediction": "The price of potash fertilizer in the U.S. will increase by at least $100 per ton by the end of March 2025 due to new tariffs on Canadian imports.",
+        "evidenceFound": false,
+        "
