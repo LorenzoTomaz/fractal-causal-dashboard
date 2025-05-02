@@ -1,22 +1,18 @@
 [
   {
-    "runTime": "2025-05-02T10:25:00Z",
-    "predictions": [],
-    "summary": {
-      "aiHeadline": "Data Retrieval Failed: No Predictions Generated",
-      "aiBlurb": "Persistent web scraping errors prevented the assistant from accessing news articles and generating predictions for this run."
-    }
-  },
-  {
-    "runTime": "2025-03-07",
+    "runTime": "2025-03-04",
     "predictions": [
       {
-        "article": "Trump administration announces new tariffs on agricultural imports",
-        "prediction": "U.S. agricultural trade deficit will widen to $49 billion in 2025 due to stagnant exports and rising imports.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://agamerica.com/blog/agricultural-trade-q1-2025/"
-        ]
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "The imposition of tariffs on agricultural inputs and retaliatory tariffs from China will lead to a 10% increase in U.S. food prices within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
       },
       {
- 
+        "article": "China hits U.S. agriculture, says it won't be bullied by fresh Trump tariffs",
+        "prediction": "U.S. soybean exports to China will decrease by at least 90% within the next month due to the new tariffs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Reactions roll in as ta
