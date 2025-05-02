@@ -1,8 +1,15 @@
 [
   {
-    "runTime": "2025-03-08",
+    "runTime": "2025-02-08",
     "predictions": [
       {
-        "article": "USDA Announces Next Steps for Economic and Disaster Relief",
-        "prediction": "The distribution of $30 billion in economic and disaster relief by the USDA will lead to a stabilization or slight increase in farmer sentiment indices by the end of April 2025.",
-        "evidenceFound": tr
+        "article": "Monetary Policy Shifts and Commodity Prices",
+        "prediction": "If central banks in emerging markets like India and South Africa continue to cut interest rates, we should see a short-term boost in local agricultural investments due to cheaper borrowing costs.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.schroders.com/en-lu/lu/individual/insights/monthly-markets-review---february-2025/"
+        ]
+      },
+      {
+        "article": "Commodity Prices and Farm Incomes",
+        "prediction": "Softer commodity prices will likely lead to a decrease in farm incomes, particularly in regions heavily reliant on exports, such
