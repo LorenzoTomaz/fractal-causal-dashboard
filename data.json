@@ -1,16 +1,22 @@
 [
   {
-    "runTime": "2025-03-08",
+    "runTime": "2025-05-02T10:25:00Z",
+    "predictions": [],
+    "summary": {
+      "aiHeadline": "Data Retrieval Failed: No Predictions Generated",
+      "aiBlurb": "Persistent web scraping errors prevented the assistant from accessing news articles and generating predictions for this run."
+    }
+  },
+  {
+    "runTime": "2025-03-07",
     "predictions": [
       {
-        "article": "US Farmers Face Higher Costs and Fewer Markets from Tariffs",
-        "prediction": "The imposition of tariffs on Canadian potash will lead to an increase in fertilizer prices by more than $100 per ton within the next month.",
+        "article": "Trump administration announces new tariffs on agricultural imports",
+        "prediction": "U.S. agricultural trade deficit will widen to $49 billion in 2025 due to stagnant exports and rising imports.",
         "evidenceFound": true,
         "evidenceLinks": [
-          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/",
-          "https://www.farmprogress.com/farming-equipment/trade-war-tensions-rise-how-new-tariffs-could-hit-your-farm"
+          "https://agamerica.com/blog/agricultural-trade-q1-2025/"
         ]
       },
       {
-        "article": "Trade War Escalation and Impact on the U.S. Farm Economy",
-        "prediction": "Retaliatory tariffs from China, Canada, a
+ 
