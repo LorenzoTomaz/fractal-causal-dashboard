@@ -1,18 +1,15 @@
 [
   {
-    "runTime": "2025-03-04",
+    "runTime": "2025-03-07",
     "predictions": [
       {
-        "article": "US farmers face higher costs, fewer markets from tariffs",
-        "prediction": "The imposition of tariffs on agricultural inputs and retaliatory tariffs from China will lead to a 10% increase in U.S. food prices within the next month.",
-        "evidenceFound": false,
-        "evidenceLinks": []
+        "article": "USDA Prepares to Protect Farmers in a Trade War",
+        "prediction": "The USDA's expedited $10 billion in direct payments to agricultural producers will lead to a temporary stabilization of farm incomes in the U.S. by offsetting some of the immediate economic fallout from lost export markets and higher input costs.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/usda-prepares-protect-farmers-trade-war",
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/18/usda-expediting-10-billion-direct-economic-assistance-agricultural-producers"
+        ]
       },
       {
-        "article": "China hits U.S. agriculture, says it won't be bullied by fresh Trump tariffs",
-        "prediction": "U.S. soybean exports to China will decrease by at least 90% within the next month due to the new tariffs.",
-        "evidenceFound": false,
-        "evidenceLinks": []
-      },
-      {
-        "article": "Reactions roll in as ta
+        "
