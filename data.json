@@ -4,16 +4,16 @@
     "predictions": [
       {
         "article": "USDA Prepares to Protect Farmers in a Trade War",
-        "prediction": "The implementation of tariffs by the Trump administration will lead to a significant increase in the USDA's financial relief programs for farmers, with at least $10 billion in direct economic assistance being expedited within the next month.",
+        "prediction": "The implementation of the Emergency Commodity Assistance Program (ECAP) will lead to a stabilization or slight increase in farmer sentiment indices within the next month.",
         "evidenceFound": true,
         "evidenceLinks": [
           "https://www.usda.gov/about-usda/news/press-releases/2025/03/18/usda-expediting-10-billion-direct-economic-assistance-agricultural-producers",
-          "https://www.farmprogress.com/farm-business/usda-ready-to-aid-farmers-if-trump-tariffs-spark-retaliation-ag-secretary-rollins-says"
+          "https://investigatemidwest.org/2025/04/16/tariff-tracker-the-latest-moves-shaking-up-global-ag-trade/"
         ]
       },
       {
         "article": "US Farmers Face Higher Costs, Fewer Markets from Tariffs",
-        "prediction": "The retaliatory tariffs imposed by China will result in a more than 90% reduction in U.S. soybean and sorghum exports to China within the next month.",
+        "prediction": "Fertilizer prices, particularly potash, will increase by at least 10% within the next month due to tariffs on Canadian imports.",
         "evidenceFound": true,
         "evidenceLinks": [
           "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/",
@@ -22,17 +22,17 @@
       },
       {
         "article": "Trade War Could Have Lasting Impacts on the Farm Economy",
-        "prediction": "The ongoing trade war will lead to a 2.3% increase in U.S. inflation and a 0.9 percentage point reduction in GDP growth by the end of 2025.",
+        "prediction": "U.S. agricultural export losses will exceed $10 billion annually due to retaliatory tariffs from China, Canada, and Mexico.",
         "evidenceFound": true,
         "evidenceLinks": [
-          "https://www.icgam.com/2025/04/16/trade-war-views-implications-for-the-economic-outlook-and-business-operating-environment/",
+          "https://www.agriculture.com/this-trade-war-will-force-farms-to-close-and-more-reactions-from-ag-industry-on-latest-tariffs-11708206",
           "https://yeutter-institute.unl.edu/research/blogs/trade-war-round-two/"
         ]
       }
     ],
-    "aiHeadline": "USDA and Trade War: Economic Impacts on US Agriculture",
-    "aiBlurb": "In March 2025, the USDA prepared to protect farmers from the economic impacts of a trade war initiated by the Trump administration's tariffs. These tariffs have led to increased financial relief programs, significant reductions in exports to China, and projected inflation and GDP impacts."
+    "aiHeadline": "March 2025: Trade War Sparks Economic Measures and Market Shifts in U.S. Agriculture",
+    "aiBlurb": "In March 2025, the USDA launched protective measures for farmers amid escalating trade tensions. The Emergency Commodity Assistance Program aims to stabilize farmer sentiment, while tariffs on imports are driving up production costs, notably in fertilizers. Retaliatory tariffs from key trading partners threaten U.S. agricultural exports, potentially exceeding $10 billion in annual losses."
   },
-  ...
+ ...
 
 ]
