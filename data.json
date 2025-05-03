@@ -3,36 +3,10 @@
     "runTime": "2025-03-07",
     "predictions": [
       {
-        "article": "USDA Prepares to Protect Farmers in a Trade War",
-        "prediction": "The implementation of the Emergency Commodity Assistance Program (ECAP) will lead to a stabilization or slight increase in farmer sentiment indices within the next month.",
+        "article": "Government Payments Drive U.S. 2025 Farm Income Surge",
+        "prediction": "The significant increase in government payments will lead to a temporary stabilization of farm incomes in the U.S., with net farm income reaching $180.1 billion in 2025. This will prevent a further decline in the agricultural sector's financial health.",
         "evidenceFound": true,
         "evidenceLinks": [
-          "https://www.usda.gov/about-usda/news/press-releases/2025/03/18/usda-expediting-10-billion-direct-economic-assistance-agricultural-producers",
-          "https://investigatemidwest.org/2025/04/16/tariff-tracker-the-latest-moves-shaking-up-global-ag-trade/"
-        ]
-      },
-      {
-        "article": "US Farmers Face Higher Costs, Fewer Markets from Tariffs",
-        "prediction": "Fertilizer prices, particularly potash, will increase by at least 10% within the next month due to tariffs on Canadian imports.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/",
-          "https://civileats.com/2025/03/05/how-trumps-tariffs-will-affect-farmers-and-food-prices/"
-        ]
-      },
-      {
-        "article": "Trade War Could Have Lasting Impacts on the Farm Economy",
-        "prediction": "U.S. agricultural export losses will exceed $10 billion annually due to retaliatory tariffs from China, Canada, and Mexico.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.agriculture.com/this-trade-war-will-force-farms-to-close-and-more-reactions-from-ag-industry-on-latest-tariffs-11708206",
-          "https://yeutter-institute.unl.edu/research/blogs/trade-war-round-two/"
-        ]
-      }
-    ],
-    "aiHeadline": "March 2025: Trade War Sparks Economic Measures and Market Shifts in U.S. Agriculture",
-    "aiBlurb": "In March 2025, the USDA launched protective measures for farmers amid escalating trade tensions. The Emergency Commodity Assistance Program aims to stabilize farmer sentiment, while tariffs on imports are driving up production costs, notably in fertilizers. Retaliatory tariffs from key trading partners threaten U.S. agricultural exports, potentially exceeding $10 billion in annual losses."
-  },
- ...
-
-]
+          "http://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/farm-sector-income-forecast",
+          "https://www.agweb.com/news/policy/ag-economy/government-payments-drive-u-s-2025-farm-income-surge",
+          "https://farmpolicynews.illinois.edu/202
