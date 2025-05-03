@@ -1,50 +1,10 @@
 [
   {
-    "runTime": "2025-05-03T16:10:00Z",
-    "predictions": [],
-    "aiHeadline": "Technical Difficulties in Data Retrieval",
-    "aiBlurb": "Attempts to retrieve article content for causal prediction generation were unsuccessful due to persistent technical issues. Further attempts or alternative methods are recommended for accessing the necessary data."
-  },
-  {
-    "runTime": "2025-05-03T16:05:00Z",
+    "runTime": "2025-05-03T16:25:00.933Z",
     "predictions": [
       {
-        "article": "Midwest farmers face higher costs, fewer markets from tariffs",
-        "prediction": "The imposition of new tariffs by the Trump administration will lead to a decrease in U.S. agricultural exports to China by at least 50% within the next month.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.axios.com/local/chicago/2025/03/04/tariffs-farmers-midwest-soy-corn-dairy",
-          "https://nebraskapublicmedia.org/en/news/news-articles/midwest-farmers-worry-about-the-impacts-of-tariffs-on-exported-crops-and-imported-fertilizer/"
-        ]
-      },
-      {
-        "article": "USDA announces next steps for economic and disaster relief",
-        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will distribute at least $5 billion in direct payments to agricultural producers by the end of March 2025.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.fsa.usda.gov/news-events/news/03-18-2025/usda-expediting-10-billion-direct-economic-assistance-agricultural",
-          "https://www.calt.iastate.edu/blogpost/american-relief-act-2025-provides-ad-hoc-relief-farmers-while-extending-farm-bill"
-        ]
-      },
-      {
-        "article": "U.S. farmers face challenges from current trade policies and tariffs",
-        "prediction": "The retaliatory tariffs from China will result in a 90% reduction in U.S. soybean exports to China by April 2025.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/",
-          "https://us-agriculture.com/index.php/2025/04/14/the-impact-of-trade-policy-on-u-s-agriculture/"
-        ]
-      }
-    ],
-    "aiHeadline": "Tariffs and Relief Efforts Shape U.S. Agriculture in March 2025",
-    "aiBlurb": "Recent developments in trade policies and USDA relief programs are significantly impacting U.S. agriculture. New tariffs are reducing export opportunities, while the USDA's economic assistance aims to mitigate rising costs and market uncertainties."
-  },
-  {
-    "runTime": "2025-05-03T16:00:00Z",
-    "predictions": [
-      {
-        "article": "Impact of Tariffs on US Agriculture in March 2025",
-        "prediction": "The imposition of tariffs will lead to a 10% increase in the cost of agricultural inputs such as fertilizers and equipment within the next month.",
+        "article": "Impact of Recent Tariffs on U.S. Agriculture (March 2025)",
+        "prediction": "U.S. soybean exports to China will remain below 10% of their 2024 levels throughout 2025 due to high retaliatory tariffs.",
         "evidenceFound": true,
         "evidenceLinks": [
           "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/",
@@ -53,138 +13,21 @@
         ]
       },
       {
-        "article": "USDA Economic and Disaster Relief Plans March 2025",
-        "prediction": "The USDA will distribute at least $10 billion in economic assistance to farmers by mid-March 2025.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.fsa.usda.gov/resources/programs/emergency-commodity-assistance-program",
-          "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief",
-          "https://content.govdelivery.com/accounts/USDAFARMERS/bulletins/3d76060"
-        ]
-      },
-      {
-        "article": "US Farmers' Response to the Trade War March 2025",
-        "prediction": "Retaliatory tariffs will result in a 15% decrease in US soybean exports to China within the next two months.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.agriculture.com/this-trade-war-will-force-farms-to-close-and-more-reactions-from-ag-industry-on-latest-tariffs-11708206",
-          "https://www.cspinet.org/cspi-news/trumps-tariffs-and-trade-wars-threaten-our-food-security",
-          "https://www.iowapublicradio.org/political-news/2025-04-08/iowa-agricultural-exports-trump-trade-war-retaliatory-tariffs"
-        ]
-      }
-    ],
-    "aiHeadline": "March 2025: Tariffs and Relief Efforts Shape US Agriculture",
-    "aiBlurb": "In March 2025, US agriculture faced significant challenges due to new tariffs, leading to increased input costs and export market losses. Concurrently, the USDA implemented substantial economic and disaster relief efforts to mitigate these impacts."
-  },
-  {
-    "runTime": "2025-05-03T15:55:00Z",
-    "predictions": [
-      {
-        "article": "Trump migrant deportations could threaten states' agricultural economies",
-        "prediction": "If mass deportations proceed, states like California and Kansas will experience a labor shortage in agriculture, leading to a 10% increase in wages for farm laborers within the next two months.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.aei.org/research-products/report/immigration-enforcement-and-the-us-agricultural-sector-in-2025/",
-          "https://www.nbcbayarea.com/news/california/central-valley-farm-workers-deportation-fear/3763233/",
-          "https://farmonaut.com/usa/californias-agricultural-labor-crisis-balancing-automation-and-migrant-worker-rights-in-the-face-of-immigration-challenges"
-        ]
-      },
-      {
-        "article": "Drought conditions across California raises concerns for Central Valley agriculture",
-        "prediction": "Due to the drought, the production of almonds and grapes in California's Central Valley will decrease by at least 15% in the upcoming harvest season.",
-        "evidenceFound": false,
-        "evidenceLinks": [
-          "https://grist.org/food-and-agriculture/california-groundwater-study-central-valley-drought-managed-aquifer-recharge/",
-          "https://selectharvestusa.com/news-resources/market-reports/january-2025-almond-market-report",
-          "https://www.almonds.com/sites/default/files/2023-04/Growing_Good_Sustainability_Update_2022.pdf"
-        ]
-      },
-      {
-        "article": "Economics say cash rents should decline in 2025",
-        "prediction": "Cash rents for farmland in the Midwest will decrease by at least 5% by the end of the first quarter of 2025.",
-        "evidenceFound": false,
-        "evidenceLinks": [
-          "https://farmdocdaily.illinois.edu/2025/04/projected-farm-income-for-2025-importance-of-rental-arrangements-on-farm-income.html",
-          "https://www.morningagclips.com/illinois-farm-cash-rents-in-2025/",
-          "https://www.michiganfarmnews.com/economist-predict-minor-declines-in-farmland-rental-values-for-2025"
-        ]
-      }
-    ],
-    "aiHeadline": "Labor Shortages and Economic Trends in Agriculture: A 2025 Outlook",
-    "aiBlurb": "Recent reports highlight the impact of immigration policies on labor shortages in California's agriculture sector, while drought conditions challenge production. Meanwhile, cash rents in the Midwest show minor declines, reflecting economic pressures."
-  },
-  {
-    "runTime": "2025-05-03T15:50:00Z",
-    "predictions": [],
-    "aiHeadline": "No Data: Persistent Web Scraping Failures",
-    "aiBlurb": "The assistant was unable to retrieve or analyze any article content due to repeated web scraping errors. No predictions or summary could be generated for this run."
-  },
-  {
-    "runTime": "2025-05-03T15:45:00Z",
-    "predictions": [
-      {
-        "article": "AFBF: New Tariffs Will Impact America's Farmers",
-        "prediction": "The imposition of new tariffs on imports from Mexico, Canada, and China will lead to a decrease in U.S. agricultural exports by at least 10% within the next quarter.",
+        "article": "USDA's Economic Relief Measures for Agriculture (March 2025)",
+        "prediction": "The USDA's $28.4 billion relief package will prevent at least 50% of potential farm bankruptcies in disaster-affected regions by mid-2025.",
         "evidenceFound": false,
         "evidenceLinks": []
       },
       {
-        "article": "USDA freezes farmer funding for some programs",
-        "prediction": "The freezing of USDA funding for certain farmer programs will result in a 5% decrease in farm production output in the affected sectors within the next six months.",
-        "evidenceFound": false,
-        "evidenceLinks": []
-      },
-      {
-        "article": "Farmers retain optimistic outlook for 2025 despite ag trade uncertainty",
-        "prediction": "Despite trade uncertainties, the Farm Financial Performance Index will show a 3% increase in the next quarter, reflecting farmers' optimism and potential adaptive strategies.",
-        "evidenceFound": false,
-        "evidenceLinks": []
-      }
-    ],
-    "aiHeadline": "Tariffs and Funding Freezes Pose Challenges to U.S. Agriculture",
-    "aiBlurb": "Recent developments in trade tariffs and USDA funding freezes are expected to impact U.S. agricultural exports and production. Despite these challenges, farmer optimism remains high, potentially driving positive financial performance."
-  },
-  {
-    "runTime": "2025-05-03T15:40:00Z",
-    "predictions": [],
-    "aiHeadline": "Trade Tensions and Tariffs Impacting U.S. Agriculture",
-    "aiBlurb": "Recent trade tensions and the imposition of new tariffs by the U.S. have raised concerns among American farmers. The agricultural sector is facing increased costs and reduced market access, which could lead to economic challenges in the coming weeks."
-  },
-  {
-    "runTime": "2025-05-03T15:35:00Z",
-    "predictions": [],
-    "aiHeadline": "No Data: Persistent Web Scraping Failures",
-    "aiBlurb": "The assistant was unable to retrieve or analyze any article content due to repeated web scraping errors. No predictions or summary could be generated for this run."
-  },
-  {
-    "runTime": "2025-05-03T15:30:00Z",
-    "predictions": [],
-    "aiHeadline": "Trade Tensions and Tariffs Impacting U.S. Agriculture",
-    "aiBlurb": "Recent articles highlight the growing concerns among U.S. farmers regarding the impact of new tariffs imposed by the Trump administration. These tariffs are expected to increase costs and reduce market access for American agricultural products, potentially leading to economic strain on the farming sector."
-  },
-  {
-    "runTime": "2025-05-03T15:25:00Z",
-    "predictions": [
-      {
-        "article": "Global Market Volatility and Trade Tensions",
-        "prediction": "The U.S. stock market, particularly the S&P 500, will continue to experience volatility with potential further declines by at least 2% within the next month.",
+        "article": "Midwest Farmers Respond to New Tariffs (March 2025)",
+        "prediction": "Midwest soybean exports will decrease by at least 50% in 2025 compared to 2024 levels due to retaliatory tariffs from China and other countries.",
         "evidenceFound": true,
         "evidenceLinks": [
-          "https://www.cnn.com/2025/04/24/investing/us-stock-market-bottom",
-          "https://en.wikipedia.org/wiki/2025_stock_market_crash"
-        ]
-      },
-      {
-        "article": "Employment Data and Federal Reserve Stance",
-        "prediction": "The rise in unemployment and slower job growth may lead to increased pressure on the Federal Reserve to reconsider its stance on interest rates, potentially leading to a rate cut decision within the next quarter.",
-        "evidenceFound": false,
-        "evidenceLinks": [
-          "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-          "https://www.jpmorgan.com/insights/outlook/economic-outlook/fed-meeting-march-2025"
+          "https://investigatemidwest.org/2025/03/18/gop-owns-tariff-war-pain-inflicted-on-us-farmers/",
+          "https://www.wglt.org/2025-03-06/midwest-farmers-tariffs-agriculture",
+          "https://investigatemidwest.org/2025/04/09/tariff-is-trumps-favorite-word-but-for-soybean-farmers-it-spells-trouble/"
         ]
       }
     ],
-    "aiHeadline": "March 2025: Market Volatility and Steady Fed Rates Amid Trade Tensions",
-    "aiBlurb": "The first week of March 2025 saw significant market volatility due to trade tensions, with the S&P 500 experiencing a notable decline. Despite rising unemployment, the Federal Reserve maintained steady interest rates, reflecting cautious economic sentiment."
-  }
-]
+    "aiHeadline":"Tariffs and Relief: U.S. Agriculture Faces Challenges and Support in 2025",
+    "aiBlurb": "Recent tariffs have severely impacted U.S. agricultural exports, particularly soybeans, while the USDA's relief measures aim to stabilize the sector. Midwest farmers brace for a challenging year as they navigate increased costs and reduced market access."}, {"runTime": "2025-05-03T16:15:00.961Z", "predictions": [{"article":"10 Charts to Explain What's Shaping the Ag Economy at the Start of 2025", "prediction": "Despite the forecasted increase in net farm income, the ongoing trade tensions and tariff policies will lead to a rise in farm bankruptcies by at least 10% within the next quarter.", "evidenceFound": false, "evidenceLinks": []}, {"article": "AFFB: New Tariffs Will Impact America's Farmers", "prediction": "The imposition of new tariffs will result in a minimum 5% increase in fertilizer prices within the next month due to the reliance on Canadian imports.", "evidenceFound": false, "evidenceLinks": []}, {"article": "USDA freezes farmer funding for some programs", "prediction": "The freeze on USDA funding will lead to at least 15% reduction in the number of new conservation projects initiated by farmers in the next quarter.", "evidenceFound": false, "evidenceLinks": ]}], "aiHeadline": "Economic and Policy Shifts Pose Challenges for U.S. Agriculture in 2025", "aiBlurb": "Recent analyses highlight significant economic and policy challenges facing U.S. agriculture in 2025, including rising farm bankruptcies, increased fertilizer costs due to tariffs, and reduced conservation efforts following USDA funding freezes."}, {"runTime": "2025-05-03T16:10:00.828Z", "predictions": [{"article": "Impact of Tariffs on US Agriculture in March 2025", "prediction": "The imposition of tariffs on imported agricultural inputs will lead to a 10% increase in production costs for US farmers by the end of March 2025.", "evidenceFound": true, "evidenceLinks": ["https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/", "https://www.pinionglobal.com/blog/the-impact-of-trade-policies-on-u-s-agriculture/", "https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-12"]}, {"article": "USDA Economic and Disaster Relief Plans March 2025", "prediction": "The USDA's distribution of $10 billion in economic assistance will result in a 5% increase in farmer sentiment as measured by the Ag Economy Barometer by the end of March 2025.", "evidenceFound": true, "evidenceLinks": ["https://www.fsa.usda.gov/resources/programs/emergency-commodity-assistance-program", "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief", "https://content.govdelivery.com/accounts/USDAFARMERS/bulletins/3d76060"]}, {"article": "China's Response to US Tariffs on Agriculture March 2025", "prediction": "China's retaliatory tariffs will lead to a 15% decrease in US soybean exports to China by the end of March 2025.", "evidenceFound": true, "evidenceLinks": ["https://www.hklaw.com/en/insights/publications/2025/04/chinas-comprehensive-retaliation-against-us-tariffs/", "https://www.china-briefing.com/news/trump-raises-tariffs-on-china-to-125-overview-and-trade-implications/", "https://www.marketplace.org/story/2025/03/10/china-retaliatory-tariffs-agricultural-goods-farmers-tax-imports"]}], "aiHeadline": "March 2025: Tariffs and Relief Efforts Shape US Agriculture", "aiBlurb": "In March 2025, US agriculture faced rising costs due to tariffs, while USDA relief efforts aimed to stabilize farmer sentiment. China's retaliatory measures further strained US exports, particularly soybeans."}]
