@@ -1,12 +1,1 @@
-[
-  {
-    "runTime": "2025-03-07",
-    "predictions": [
-      {
-        "article": "USDA announces next steps for economic and disaster relief",
-        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will distribute $10 billion to agricultural producers by mid-March 2025, leading to a temporary stabilization in the financial conditions of affected farmers.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief",
-          "https://farmpolicynews.illinois.edu/2025/03/usda-economic-aid-applications-expected-by-friday/",
-          "https://www.
+[{"runTime":"2025-03-07","predictions":[{"article":"USDA announces next steps for economic and disaster relief","prediction":"The USDA will distribute $10 billion in economic assistance to farmers by mid-March 2025, leading to a temporary stabilization in farmer sentiment as measured by the Purdue University/CME Group Ag Economy Barometer.","evidenceFound":true,"evidenceLinks":["https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief","https://farmpolicynews.illinois.edu/2025/03/usda-economic-aid-applications-expected-by-friday/","https://www.usda.gov/about-usda/news/press-releases/2025/04/22/usda-delivers-immediate-relief-farmers-ranchers-and-rural-communities-impacted-recent-disasters"]},{"article":"Trade war escalates as retaliatory tariffs hit struggling farm economy","prediction":"The imposition of tariffs will lead to a 10% decrease in U.S. agricultural exports to China, Canada, and Mexico by the end of April 2025.","evidenceFound":false,"evidenceLinks":[]},{"article":"Trump taraffs raise alarms with farm groups","prediction":"The cost of fertilizers in the U.S. will increase by at least 15% by the end of March 2025 due to tariffs on Canadian imports.","evidenceFound":true,"evidenceLinks":["https://civileats.com/2025/03/05/how-trumps-tariffs-will-affect-farmers-and-food-prices/","https:/ capitalpress.com/2025/03/04/trump-ups-tariffs-promises-more-farm-groups-fret/","https://www.dtnpf.com/agriculture/web/ag/livestock/article/2025/04/07/trump-launches-reciprocal-tariffs"]}],"summary":{"aiHeadline":"USDA's Economic Aid and Tariff Impacts on U.S. Agriculture","aiBlurb":"In March 2025, the USDA announced significant economic aid to stabilize farmer sentiment midst escalating trade tensions. New tariffs have raised alarms, particularly affecting fertilizer costs and export markets, with mixed evidence on their immediate economic impacts."}}]
