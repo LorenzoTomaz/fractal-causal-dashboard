@@ -1,1 +1,270 @@
-[{"runTime": "2025-03-07", "predictions": [{"article": "US farmers face higher costs, fewer markets from tariffs", "prediction": "U.S. agricultural exports to China will decrease by at least 90% within the next month due to the newly imposed tariffs.", "evidenceFound": true, "evidenceLinks": ["https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/", "https://civileats.com/2025/03/05/how-trumps-tariffs-will-affect-farmers-and-food-prices/", "https://investigatemidwest.org/2025/03/18/gop-owns-tariff-war-pain-inflicted-on-us-farmers/"]}, {"article": "USDA announces next steps for economic and disaster relief", "prediction": "The USDA will distribute at least $10 billion in economic assistance to farmers by mid-March 2025.", "evidenceFound": true, "evidenceLinks": ["https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief", "https://farmpolicynews.illinois.edu/2025/03/usda-economic-aid-applications-expected-by-friday/", "https://www.calt.iastate.edu/blogpost/american-relief-act-2025-provides-ad-hoc-relief-farmers-while-extending-farm-bill"]}, {"article": "China hits U.S. agriculture with tariffs", "prediction": "The imposition of Chinese tariffs will lead to a 90% reduction in U.S. soybean and sorghum exports to China within the next month.", "evidenceFound": true, "evidenceLinks": ["https://www.fas.usda.gov/data/china-sctc-announces-retaliatory-tariffs-us-agricultural-products", "https://www.hklaw.com/en/insights/publications/2025/04/chinas-comprehensive-retaliation-against-us-tariffs", "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/"]}], "aiHeadline": "March 2025: Tariffs and Relief Efforts Reshape U.S. Agriculture", "aiBlurb": "In March 2025, U.S. agriculture faces significant challenges due to new tariffs and retaliatory measures, while the USDA rolls out substantial economic and disaster relief to support struggling farmers."}, {"runTime": "2025-03-04", "predictions": [{"article": "US farmers face higher costs, fewer markets from tariffs", "prediction": "The imposition of new tariffs by the U.S. will lead to a decrease in U.S. agricultural exports by at least 10% within the next quarter.", "evidenceFound": false, "evidenceLinks": []}, {"article": "USDA announces next steps for economic and disaster relief", "prediction": "The USDA's economic and disaster relief measures will result in a 5% increase in farmer sentiment as measured by the Purdue University-CME Group Ag Economy Barometer within the next two months.", "evidenceFound": false, "evidenceLinks": []}, {"article": "USDA Prepares to Protect Farmers in a Trade War", "prediction": "The announcement of protective measures by the USDA will stabilize or increase the prices of key agricultural commodities such as soybeans and corn by at least 3% within the next month.", "evidenceFound": false, "evidenceLinks": []}], "aiHeadline": "USDA's Strategic Moves Amidst Trade Tensions", "aiBlurb": "Recent USDA announcements highlight strategic measures to protect U.S. farmers amidst escalating trade tensions, with potential impacts on agricultural exports and commodity prices."}, {"runTime": "2025-03-08", "predictions": [{"article": "China hits U.S. agriculture, says it won't be bullied by fresh Trump tariffs", "prediction": "U.S. soybean exports to China will decrease by at least 50% within the next month due to the newly imposed 125% tariffs on U.S. agricultural products.", "evidenceFound": true, "evidenceLinks": ["https://www.marketplace.org/story/2025/04/28/farmers-pork-soybeans-cotton-china-agriculture-trade-war-tariffs-trump", "https://farmpolicynews.illinois.edu/2025/04/china-announces-34-retaliatory-tariffs-on-us-goods/"]}, {"article": "Trade war escalates as retaliatory tariffs hit struggling farm economy", "prediction": "The Port of Los Angeles will report a 35% decrease in shipments from China within the next month due to the ongoing trade war and high tariffs.", "evidenceFound": true, "evidenceLinks": ["https://www.cbsnews.com/news/china-exports-to-us-drop-sharply/", "https://www.piie.com/research/piie-charts/2019/us-china-trade-war-tariffs-date-chart"]}, {"article": "US farmers face higher costs, fewer markets from tariffs", "prediction": "The cost of corn production in the U.S. will increase by at least $1.70 per acre within the next month due to the 25% tariffs on Canadian potash.", "evidenceFound": true, "evidenceLinks": ["https://www.fb.org/market-intel/understanding-the-new-tariffs", "https://www.dbbllc.com/newsletters/thought-leadership-e-articles/what-new-tariffs-mean-new-york-farmers"]}], "aiHeadline": "Trade Tensions Escalate: U.S. Agriculture Faces New Challenges", "aiBlurb": "Recent trade tensions have led to significant tariffs impacting U.S. agriculture, with predictions of decreased exports and increased production costs. Evidence supports these trends, highlighting the ongoing challenges for American farmers."}]
+[
+  {
+    "runTime": "2025-04-08",
+    "predictions": [
+      {
+        "article": "Government Payments Drive U.S. Farm Income Surge",
+        "prediction": "The significant increase in government payments will temporarily stabilize U.S. farm income, but reliance on such payments will lead to calls for reform in farm safety net programs within the next legislative session.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "The imposition of tariffs will lead to a 25% increase in fertilizer prices, significantly impacting corn production costs and potentially reducing corn acreage planted in 2025.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "This Trade War Will Force Farms to Close",
+        "prediction": "The ongoing trade war will result in a 55% increase in farm bankruptcies in 2025 compared to 2024, with soybean farmers being particularly affected.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/another-sign-trouble-ag-economy-farm-bankruptcies-are-rise",
+          "https://www.agriculture.com/farm-bankruptcies-on-the-rise-again-in-2025-11719574",
+          "https://capitalpress.com/2025/05/01/farmers-on-the-front-line-of-trumps-trade-war/"
+        ]
+      }
+    ],
+    "aiHeadline": "Trade War and Government Payments Shape U.S. Agriculture in 2025",
+    "aiBlurb": "In 2025, U.S. agriculture faces significant challenges from trade wars and increased reliance on government payments. While government aid temporarily boosts farm income, the sustainability of such support is questioned. Meanwhile, tariffs lead to increased costs and market losses, exacerbating farm bankruptcies, particularly among soybean farmers."
+  },
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "U.S. agricultural exports to China will decrease by at least 90% within the next month due to the newly imposed tariffs.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/",
+          "https://civileats.com/2025/03/05/how-trumps-tariffs-will-affect-farmers-and-food-prices/",
+          "https://investigatemidwest.org/2025/03/18/gop-owns-tariff-war-pain-inflicted-on-us-farmers/"
+        ]
+      },
+      {
+        "article": "USDA announces next steps for economic and disaster relief",
+        "prediction": "The USDA will distribute at least $10 billion in economic assistance to farmers by mid-March 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief",
+          "https://farmpolicynews.illinois.edu/2025/03/usda-economic-aid-applications-expected-by-friday/",
+          "https://www.calt.iastate.edu/blogpost/american-relief-act-2025-provides-ad-hoc-relief-farmers-while-extending-farm-bill"
+        ]
+      },
+      {
+        "article": "China hits U.S. agriculture with tariffs",
+        "prediction": "The imposition of Chinese tariffs will lead to a 90% reduction in U.S. soybean and sorghum exports to China within the next month.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.fas.usda.gov/data/china-sctc-announces-retaliatory-tariffs-us-agricultural-products",
+          "https://www.hklaw.com/en/insights/publications/2025/04/chinas-comprehensive-retaliation-against-us-tariffs",
+          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/"
+        ]
+      }
+    ],
+    "aiHeadline": "March 2025: Tariffs and Relief Efforts Reshape U.S. Agriculture",
+    "aiBlurb": "In March 2025, U.S. agriculture faces significant challenges due to new tariffs and retaliatory measures, while the USDA rolls out substantial economic and disaster relief to support struggling farmers."
+  },
+  {
+    "runTime": "2025-03-04",
+    "predictions": [
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "The imposition of new tariffs by the U.S. will lead to a decrease in U.S. agricultural exports by at least 10% within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA announces next steps for economic and disaster relief",
+        "prediction": "The USDA's economic and disaster relief measures will result in a 5% increase in farmer sentiment as measured by the Purdue University-CME Group Ag Economy Barometer within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA Prepares to Protect Farmers in a Trade War",
+        "prediction": "The announcement of protective measures by the USDA will stabilize or increase the prices of key agricultural commodities such as soybeans and corn by at least 3% within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "USDA's Strategic Moves Amidst Trade Tensions",
+    "aiBlurb": "Recent USDA announcements highlight strategic measures to protect U.S. farmers amidst escalating trade tensions, with potential impacts on agricultural exports and commodity prices."
+  },
+  {
+    "runTime": "2025-03-08",
+    "predictions": [
+      {
+        "article": "China hits U.S. agriculture, says it won't be bullied by fresh Trump tariffs",
+        "prediction": "U.S. soybean exports to China will decrease by at least 50% within the next month due to the newly imposed 125% tariffs on U.S. agricultural products.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.marketplace.org/story/2025/04/28/farmers-pork-soybeans-cotton-china-agriculture-trade-war-tariffs-trump",
+          "https://farmpolicynews.illinois.edu/2025/04/china-announces-34-retaliatory-tariffs-on-us-goods/"
+        ]
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "The Port of Los Angeles will report a 35% decrease in shipments from China within the next month due to the ongoing trade war and high tariffs.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.cbsnews.com/news/china-exports-to-us-drop-sharply/",
+          "https://www.piie.com/research/piie-charts/2019/us-china-trade-war-tariffs-date-chart"
+        ]
+      },
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "The cost of corn production in the U.S. will increase by at least $1.70 per acre within the next month due to the 25% tariffs on Canadian potash.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.fb.org/market-intel/understanding-the-new-tariffs",
+          "https://www.dbbllc.com/newsletters/thought-leadership-e-articles/what-new-tariffs-mean-new-york-farmers"
+        ]
+      }
+    ],
+    "aiHeadline": "Trade Tensions Escalate: U.S. Agriculture Faces New Challenges",
+    "aiBlurb": "Recent trade tensions have led to significant tariffs impacting U.S. agriculture, with predictions of decreased exports and increased production costs. Evidence supports these trends, highlighting the ongoing challenges for American farmers."
+  },
+  {
+    "runTime": "2025-03-08",
+    "predictions": [
+      {
+        "article": "U.S. imposes additional 15% tariff on imports of chicken, wheat, corn, and cotton starting March 10, 2025.",
+        "prediction": "The prices of chicken, wheat, corn, and cotton in the U.S. domestic market will increase by at least 10% within the next month due to reduced import competition and increased input costs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Retaliatory tariffs from China, Mexico, and Canada on U.S. agricultural exports.",
+        "prediction": "U.S. agricultural export volumes to China, Mexico, and Canada will decrease by at least 15% within the next quarter, leading to a significant drop in revenue for U.S. farmers.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "U.S. agricultural trade deficit forecasted to widen to $49 billion in 2025.",
+        "prediction": "The U.S. agricultural trade deficit will increase by at least 5% within the next quarter as a result of ongoing tariffs and retaliatory measures.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Tariffs Intensify Challenges for U.S. Agriculture in Early 2025",
+    "aiBlurb": "Recent tariffs have increased costs and market uncertainties for U.S. farmers, leading to potential price hikes and a widening trade deficit."
+  },
+  {
+    "runTime": "2025-03-08",
+    "predictions": [
+      {
+        "article": "Increased Input Costs for Farmers",
+        "prediction": "The cost of agricultural inputs in the US will increase by at least 10% within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Retaliatory Tariffs and Reduced Market Access",
+        "prediction": "US agricultural exports to key markets will decrease by at least 15% within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Widening Agricultural Trade Deficit",
+        "prediction": "The US agricultural trade deficit will widen by at least 5% within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "US Tariffs Lead to Increased Costs and Trade Deficit Concerns",
+    "aiBlurb": "Recent US tariffs have raised input costs for farmers, reduced export market access, and are expected to widen the agricultural trade deficit."
+  },
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "The imposition of tariffs on imports from Canada, Mexico, and China will lead to a 10% increase in fertilizer costs for U.S. farmers by the end of March 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/",
+          "https://civileats.com/2025/03/05/how-trumps-tariffs-will-affect-farmers-and-food-prices/"
+        ]
+      },
+      {
+        "article": "USDA announces next steps for economic and disaster relief",
+        "prediction": "The USDA will distribute $10 billion in economic assistance to farmers by mid-March 2025, as part of the American Relief Act of 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief",
+          "https://www.fsa.usda.gov/resources/programs/emergency-commodity-assistance-program"
+        ]
+      },
+      {
+        "article": "China hits U.S. agriculture, says it won't be bullied by fresh Trump tariffs",
+        "prediction": "China's retaliatory tariffs will result in a 90% reduction in U.S. soybean and sorghum exports to China by April 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.fas.usda.gov/data/china-sctc-announces-retaliatory-tariffs-us-agricultural-products",
+          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/"
+        ]
+      }
+    ],
+    "aiHeadline": "March 2025: Tariffs and Relief Efforts Shape U.S. Agriculture",
+    "aiBlurb": "In March 2025, U.S. agriculture faced significant challenges due to new tariffs and retaliatory measures, while the USDA announced substantial economic and disaster relief efforts to support farmers."
+  },
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "USDA prepares to protect farmers in a trade war",
+        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will distribute up to $10 billion in direct payments to U.S. farmers by mid-March 2025 to offset increased input costs and price drops due to the trade war.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/18/usda-expediting-10-billion-direct-economic-assistance-agricultural-producers",
+          "https://www.farmprogress.com/farm-business/usda-ready-to-aid-farmers-if-trump-tariffs-spark-retaliation-ag-secretary-rollins-says"
+        ]
+      },
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "U.S. soybean and sorghum exports to China will fall by over 90% in early 2025 due to retaliatory tariffs imposed by China.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments",
+          "https://civileats.com/2025/03/05/how-trumps-tariffs-will-affect-farmers-and-food-prices"
+        ]
+      },
+      {
+        "article": "USDA announces next steps for economic and disaster relief",
+        "prediction": "The USDA will implement the American Relief Act of 2025, distributing $30.78 billion for farm relief, with $20 billion for disaster assistance and $10 billion for economic assistance by mid-March 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief",
+          "https://farmpolicynews.illinois.edu/2025/03/usda-economic-aid-applications-expected-by-friday/"
+        ]
+      }
+    ],
+    "aiHeadline": "USDA Implements Major Relief Programs Amid Trade War and Economic Challenges",
+    "aiBlurb": "In March 2025, the USDA announced significant relief measures to support U.S. farmers facing increased costs and reduced market access due to new tariffs. The Emergency Commodity Assistance Program and the American Relief Act of 2025 are key components of this effort, providing billions in direct payments and disaster aid."
+  },
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "US agriculture and economy impacts due to tariffs",
+        "prediction": "The imposition of retaliatory tariffs by China, Canada, Mexico, and the EU on US agricultural exports will lead to a decline in US agricultural export volumes by at least 20% within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US agriculture and economy impacts due to tariffs",
+        "prediction": "The increased tariffs on agricultural inputs, particularly fertilizers, will result in a rise in US domestic food prices by at least 5% within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US agriculture and economy impacts due to tariffs",
+        "prediction": "US farmers will experience a reduction in net farm income by at least 10% within the next quarter due to the combined effects of reduced export markets and increased production costs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Tariff Escalation Threatens US Agriculture and Economy",
+    "aiBlurb": "Recent tariff escalations have disrupted US agricultural exports and increased production costs, posing significant risks to farm income and food prices."
+  }
+]
