@@ -1,15 +1,1 @@
-[
-  {
-    "runTime": "2025-04-08",
-    "predictions": [
-      {
-        "article": "Government Payments Drive U.S. 2025 Farm Income Surge",
-        "prediction": "The significant increase in government payments to U.S. farmers will lead to a temporary stabilization or increase in farm income levels, despite potential declines in agricultural commodity prices.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.profarmer.com/pro-farmer-max/evening-report/evening-report-february-6-2025",
-          "https://www.brownfieldagnews.com/news/2025-farm-incomes-expected-to-be-propped-up-by-aid/",
-          "https://farmdocdaily.illinois.edu/2025/01/impacts-of-economic-assistance-payments.html"
-        ]
-      },
-      {
+[{"runTime": "2025-05-03T14:15:01.148Z", "predictions": [{"article": "Government Payments Drive U.S. 2025 Farm Income Surge", "prediction": "The increase in government payments will lead to a temporary stabilization of farm incomes in the U.S., with a potential 10% rise in farm-related investments by mid-2025.", "evidenceFound": false, "evidenceLinks": []}, {"article": "US farmers turn to Airbnb, corn mazes to outlast agricultural downturn", "prediction": "Diversification into agritourism will result in a 15% increase in non-traditional farm income streams for U.S. farmers by the end of 2025.", "evidenceFound": false, "evidenceLinks": []}, {"article": "'This Trade War Will Force Farms to Close' and More Reactions from Ag Industry on Latest 
