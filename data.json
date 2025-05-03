@@ -1,1 +1,15 @@
-[{"runTime": "2025-05-03", "predictions": [{"article": "10 Charts to Explain What's Shaping the Ag Economy at the Start of 2025", "prediction": "If 72% of economists believe the row crop side of agriculture is in a recession, then we should expect a decrease in row crop production levels or a shift in planting decisions by farmers within the next quarter.", "evidenceFound": false, "evidenceLinks": []}, {"article": "AFBF: New Tariffs Will Impact America's Farmers", "prediction": "The imposition of new tariffs will lead to a decrease in U.S. agricultural exports to Mexico, Canada, and China by at least 10% within the next quarter.", "evidenceFound": false, "evidenceLinks": []}, {"article": "Government Payments Drive U.S. Farm Income Surge in 
+[
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "USDA Prepares to Protect Farmers in a Trade War",
+        "prediction": "The implementation of the Emergency Commodity Assistance Program (ECAP) will lead to a stabilization or slight increase in farmer sentiment indices within the next month as farmers receive financial support.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/18/usda-expediting-10-billion-direct-economic-assistance-agricultural-producers",
+          "https://investigatemidwest.org/2025/04/16/tariff-tracker-the-latest-moves-shaking-up-global-ag-trade/"
+        ]
+      },
+      {
+        "article": "USDA Announ
