@@ -1,18 +1,38 @@
 [
   {
-    "runTime": "2025-03-04",
+    "runTime": "2025-03-07",
     "predictions": [
       {
-        "article": "US farmers face higher costs, fewer markets from tariffs",
-        "prediction": "Fertilizer prices in the U.S. will increase by at least 25% within the next month due to tariffs on Canadian imports.",
-        "evidenceFound": false,
-        "evidenceLinks": []
+        "article": "USDA Prepares to Protect Farmers in a Trade War",
+        "prediction": "The implementation of tariffs by the Trump administration will lead to a significant increase in the USDA's financial relief programs for farmers, with at least $10 billion in direct economic assistance being expedited within the next month.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/18/usda-expediting-10-billion-direct-economic-assistance-agricultural-producers",
+          "https://www.farmprogress.com/farm-business/usda-ready-to-aid-farmers-if-trump-tariffs-spark-retaliation-ag-secretary-rollins-says"
+        ]
       },
       {
-        "article": "China Hits U.S. Agriculture, Says It Won't Be Bullied by Fresh Trump Tariffs",
-        "prediction": "U.S. soybean exports to China will decrease by at least 50% within the next two months due to increased tariffs.",
-        "evidenceFound": false,
-        "evidenceLinks": []
+        "article": "US Farmers Face Higher Costs, Fewer Markets from Tariffs",
+        "prediction": "The retaliatory tariffs imposed by China will result in a more than 90% reduction in U.S. soybean and sorghum exports to China within the next month.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/",
+          "https://civileats.com/2025/03/05/how-trumps-tariffs-will-affect-farmers-and-food-prices/"
+        ]
       },
       {
-        "article": "American Farmers Brace for Harm From Retaliatory Tari
+        "article": "Trade War Could Have Lasting Impacts on the Farm Economy",
+        "prediction": "The ongoing trade war will lead to a 2.3% increase in U.S. inflation and a 0.9 percentage point reduction in GDP growth by the end of 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.icgam.com/2025/04/16/trade-war-views-implications-for-the-economic-outlook-and-business-operating-environment/",
+          "https://yeutter-institute.unl.edu/research/blogs/trade-war-round-two/"
+        ]
+      }
+    ],
+    "aiHeadline": "USDA and Trade War: Economic Impacts on US Agriculture",
+    "aiBlurb": "In March 2025, the USDA prepared to protect farmers from the economic impacts of a trade war initiated by the Trump administration's tariffs. These tariffs have led to increased financial relief programs, significant reductions in exports to China, and projected inflation and GDP impacts."
+  },
+  ...
+
+]
