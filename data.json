@@ -1,17 +1,16 @@
 [
   {
-    "runTime": "2025-03-04",
+    "runTime": "2025-02-08",
     "predictions": [
       {
-        "article": "US farmers face higher costs, fewer markets from tariffs",
-        "prediction": "The imposition of tariffs will lead to a decrease in U.S. agricultural exports to China by at least 10% within the next month.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.youtube.com/watch?v=Hk3TpHkJtPU",
-          "https://www.youtube.com/watch?v=AKSPkCjSJEo"
-        ]
+        "article": "10 Charts to Explain What's Shaping the Ag Economy in 2025",
+        "prediction": "The increase in U.S. net farm income due to government payments will lead to a rise in agricultural equipment sales by at least 10% within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
       },
       {
-        "article": "China hits U.S. agriculture, says it won't be bullied by fresh Trump tariffs",
-        "prediction": "The retaliatory tariffs by China will cause a drop in U.S. soybean prices by at least 5% within the next two weeks.",
-        "evidence
+        "article": "New Tariffs Will Impact America's Farmers in 2025",
+        "prediction": "The imposition of new tariffs will cause U.S. soybean exports to China to decrease by at least 50% within the next quarter.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://investigatemidwest.org/2025/04/09/tariff-is-trum
