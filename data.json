@@ -1,15 +1,1 @@
-[
-  {
-    "runTime": "2025-04-08T00:00:00Z",
-    "predictions": [
-      {
-        "article": "10 Charts to Explain What's Shaping the Ag Economy at the Start of 2025",
-        "prediction": "Due to a 345% surge in government payments, net farm income will increase significantly, leading to improved financial health indicators for U.S. farms in the short term.",
-        "evidenceFound": false,
-        "evidenceLinks": []
-      },
-      {
-        "article": "AFBF: New Tariffs Will Impact America's Farmers",
-        "prediction": "The new tariffs will lead to a decrease in U.S. agricultural exports by at least 10% within the next quarter due to retaliatory tariffs from China and other trading partners.",
-        "evidenceFound": false,
-       
+[{"runTime": "2025-03-07T12:00:00Z", "predictions": [], "aiHeadline": "Technical Difficulties in Data Retrieval", "aiBlurb": "Attempts to gather and analyze recent economy and agriculture news articles were unsuccessful due to technical issues with web scraping. Further attempts or alternative methods are recommended for accessing the necessary data."}, {"runTime": "2025-03-07", "predictions": [{"article": "US farmers face higher costs, fewer markets from tariffs", "prediction": "The price of potash fertilizer in the U.S. will increase by at least 10% within the next month due to the imposed tariffs.", "evidenceFound": true, "evidenceLinks": ["https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/", "https://civileat
