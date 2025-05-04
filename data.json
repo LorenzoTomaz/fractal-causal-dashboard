@@ -1,15 +1,18 @@
 [
   {
-    "runTime": "2025-03-07",
+    "runTime": "2025-03-08",
     "predictions": [
       {
-        "article": "USDA Prepares to Protect Farmers in a Trade War",
-        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will distribute up to $10 billion in direct economic assistance to agricultural producers by the end of April 2025.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.usda.gov/about-usda/news/press-releases/2025/03/18/usda-expediting-10-billion-direct-economic-assistance-agricultural-producers"
-        ]
+        "article": "USDA Announces Next Steps for Economic and Disaster Relief – March 2025",
+        "prediction": "The USDA's distribution of $10 billion in economic assistance will lead to a measurable increase in farm income levels by at least 5% within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
       },
       {
-        "article": "US Farmers Face Higher Costs, Fewer Markets from Tariffs",
-        "prediction": "U.S. soybean and sorghum exports to China will remain below 10% of their 2024 l
+        "article": "China's March 2025 Tariffs on U.S. Agricultural Products",
+        "prediction": "U.S. soybean and sorghum exports to China will decrease by over 90% within the next month due to the newly imposed tariffs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US F
