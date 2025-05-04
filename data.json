@@ -3,6 +3,110 @@
     "runTime": "2025-03-07",
     "predictions": [
       {
+        "article": "USDA: Ag Export Values to Drop in 2025",
+        "prediction": "The imposition of new US tariffs on Canadian, Mexican, and Chinese goods, along with retaliatory tariffs from China, will lead to a decrease in US agricultural exports by at least 10% within the next quarter.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.hoosieragtoday.com/2025/03/01/ag-export-values-drop-2025/",
+          "https://agamerica.com/blog/agricultural-trade-q1-2025/"
+        ]
+      },
+      {
+        "article": "Food Price Outlook - Summary Findings - ers.usda.gov",
+        "prediction": "The increased tariffs on agricultural imports will result in a rise in input costs for US farmers, leading to a 5% increase in the prices of domestic agricultural products within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": [
+          "http://www.ers.usda.gov/data-products/food-price-outlook/summary-findings",
+          "https://release.nass.usda.gov/reports/agpr0425.pdf"
+        ]
+      }
+    ],
+    "aiHeadline": "US Tariffs Impact Agricultural Exports and Prices in March 2025",
+    "aiBlurb": "Recent US tariffs on Canadian, Mexican, and Chinese goods, along with retaliatory measures, are projected to decrease US agricultural exports significantly. However, the expected rise in domestic agricultural product prices due to increased input costs has not yet materialized."
+  },
+  {
+    "runTime": "2025-04-08T00:00:00Z",
+    "predictions": [
+      {
+        "article": "10 Charts to Explain What's Shaping the Ag Economy to Start 2025",
+        "prediction": "The increase in government payments will lead to a temporary boost in U.S. farm income, with net farm income rising by at least 25% in 2025 compared to 2024.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/10-charts-explain-whats-shaping-ag-economy-start-2025"
+        ]
+      },
+      {
+        "article": "AFBF: New Tariffs Will Impact America's Farmers",
+        "prediction": "The imposition of new tariffs will result in at least a 10% increase in fertilizer prices in the U.S. due to increased costs of potash imports from Canada.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs, farm groups warn",
+        "prediction": "U.S. soybean acreage will decrease by at least 10% nationally in 2025 due to reduced market access and increased tariffs.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.youtube.com/watch?v=iJ0Y89f7fGc"
+        ]
+      }
+    ],
+    "aiHeadline": "U.S. Farm Income Boosted by Government Payments Amid Tariff Challenges",
+    "aiBlurb": "In 2025, U.S. farm income is projected to rise significantly due to increased government payments, despite challenges from new tariffs impacting market access and input costs."
+  },
+  {
+    "runTime": "2025-04-08T00:00:00Z",
+    "predictions": [
+      {
+        "article": "10 Charts to Explain What's Shaping the Ag Economy to Start 2025",
+        "prediction": "The significant increase in government payments to farmers in 2025 will lead to a temporary stabilization of farm incomes, despite ongoing trade tensions.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "AFBF: New Tariffs Will Impact America's Farmers",
+        "prediction": "The imposition of new tariffs will lead to a decrease in U.S. agricultural exports by at least 10% within the next quarter due to retaliatory measures from trading partners.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US farmers turn to Airbnb, corn mazes to outlast agricultural downturn",
+        "prediction": "The rise in agritourism activities will result in a 15% increase in non-traditional farm income for participating farmers within the next six months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Economic Shifts in Agriculture: Government Payments, Tariffs, and Agritourism",
+    "aiBlurb": "Recent developments in the agricultural sector highlight the impact of increased government payments, new tariffs, and the rise of agritourism as farmers adapt to economic challenges in 2025."
+  },
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "Trade Wars and Tariffs: Major Developments",
+        "prediction": "The imposition of new tariffs on imported fertilizers, particularly from Canada, will lead to a significant increase in input costs for U.S. farmers. This should result in higher food prices for consumers within the next few weeks.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Impact on the Agriculture Sector",
+        "prediction": "Retaliatory tariffs from China, Mexico, and Canada will lead to a reduction in U.S. agricultural exports, particularly affecting soybeans, corn, wheat, and meat. This should manifest as a decrease in export volumes and potential financial strain on U.S. farmers.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Market Share and Long-Term Risks",
+        "prediction": "The ongoing trade war will cause foreign importers to seek alternative suppliers, leading to a permanent loss of market share for U.S. agricultural products, particularly soybeans and meat, within the next few months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "March 2025: Trade Wars Escalate, Threatening U.S. Agriculture",
+    "aiBlurb": "The first week of March 2025 saw escalating trade tensions with new tariffs impacting U.S. agriculture. Rising input costs and export market disruptions pose significant risks to farmers, potentially leading to higher consumer prices and long-term market share losses."
+  },
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
         "article": "Secretary Rollins Delivers Remarks at Commodity Classic, Announces Next Steps for Economic Disaster Relief",
         "prediction": "The distribution of $30 billion in economic and disaster relief funds will lead to a measurable increase in farmer sentiment and economic activity in rural areas within the next month.",
         "evidenceFound": false,
@@ -10,4 +114,152 @@
       },
       {
         "article": "US farmers face higher costs, fewer markets from tariffs, farm groups warn",
-        "prediction": "The imposition of new tariffs will result in at least a 10% increase in the cost of potassium fertilizers and a 5% decrease in soybean export volumes 
+        "prediction": "The imposition of new tariffs will result in at least a 10% increase in the cost of potassium fertilizers and a 5% decrease in soybean export volumes to China within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA Prepares to Protect Farmers in a Trade War",
+        "prediction": "The announcement of the Emergency Commodity Assistance Program (ECAP) will lead to a 5% increase in applications for financial assistance from farmers within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Economic Relief and Tariffs Shape U.S. Agricultural Outlook",
+    "aiBlurb": "Recent announcements by Secretary Rollins and new tariffs are set to impact U.S. agriculture, with predictions of increased costs and changes in farmer sentiment."
+  },
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "Government Payments Drive U.S. 2025 Farm Income Surge",
+        "prediction": "The increase in government payments will lead to a temporary stabilization of farm bankruptcies in the U.S. within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": [
+          "https://www.agriculture.com/farm-bankruptcies-on-the-rise-again-in-2025-11719574",
+          "https://www.marketplace.org/story/2025/04/25/farm-bankruptcies-on-the-rise-as-trump-tariffs-loom"
+        ]
+      },
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs, farm groups warn",
+        "prediction": "U.S. soybean exports will decrease by at least 20% in the first half of 2025 compared to the same period in 2024.",
+        "evidenceFound": false,
+        "evidenceLinks": [
+          "https://www.farmprogress.com/commentary/soybean-futures-in-holding-pattern-as-us-supply-meets-uncertain-export-demand"
+        ]
+      },
+      {
+        "article": "AFBF: New Tariffs Will Impact America's Farmers",
+        "prediction": "The price of U.S. soybeans will decrease by at least 10% in the next quarter due to reduced demand from international markets.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.extension.iastate.edu/agdm/articles/hart/HarNov24.html"
+        ]
+      }
+    ],
+    "aiHeadline": "Tariffs and Government Payments Shape U.S. Agricultural Landscape in 2025",
+    "aiBlurb": "In 2025, U.S. agriculture faces rising farm bankruptcies despite increased government payments, while tariffs depress soybean prices and challenge export markets."
+  },
+  {
+    "runTime": "2025-01-01 to 2025-05-31",
+    "predictions": [
+      {
+        "article": "Trump migrant deportations could threaten states' agricultural economies",
+        "prediction": "States with high reliance on migrant farmworkers will experience a decrease in agricultural output by at least 10% within the next quarter due to labor shortages.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.aei.org/research-products/report/immigration-enforcement-and-the-us-agricultural-sector-in-2025/",
+          "https://www.farmaid.org/blog/fact-sheet/immigration-and-the-food-system/"
+        ]
+      },
+      {
+        "article": "Argentina slashes export taxes to rescue drought-hit farmers",
+        "prediction": "Argentina's agricultural exports will increase by at least 15% in the next quarter as a result of reduced export taxes.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://millermagazine.com/blog/argentinas-agro-export-growth-a-strong-2024-and-promising-2025-outlook-6062",
+          "https://www.americanagnetwork.com/2025/04/24/argentina-corn-production-expected-to-jump/"
+        ]
+      },
+      {
+        "article": "Drought conditions across California raises concerns for Central Valley agriculture",
+        "prediction": "Crop yields in California's Central Valley will decrease by at least 20% in the next growing season due to persistent drought conditions.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://calclimateag.org/climatethreatstoag/",
+          "https://www.theagcenternews.com/post/central-valley-orchards-take-a-hit-could-this-hailstorm-devastate-the-2025-crop"
+        ]
+      },
+      {
+        "article": "Morocco's Economy Poised for Recovery in 2025 with Boosts in Industry, Agriculture",
+        "prediction": "Morocco's agricultural GDP will grow by at least 5% in the next quarter due to improved weather conditions.",
+        "evidenceFound": false,
+        "evidenceLinks": [
+          "https://www.worldbank.org/en/country/morocco/publication/morocco-economic-monitor-prioritizing-reforms-to-boost-the-business-environment-winter-2025",
+          "https://www.imf.org/en/News/Articles/2025/03/18/pr-2568-morocco-imf-concludes-2025-art-iv-consult-3rd-review-under-rsf"
+        ]
+      },
+      {
+        "article": "USDA faces 90-day window for economic assistance payments to producers",
+        "prediction": "Farmers receiving USDA economic assistance will report a 10% increase in financial stability metrics within the next quarter.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.fsa.usda.gov/news-events/news/03-18-2025/usda-expediting-10-billion-direct-economic-assistance-agricultural",
+          "https://www.fcma.com/community/insights/american-relief-act--insights-to-the-financial-support-for-farmers-in-2025"
+        ]
+      }
+    ],
+    "aiHeadline": "Recent Economic and Agricultural Trends: Predictions and Outcomes",
+    "aiBlurb": "This report examines recent economic and agricultural trends, providing predictions and verifying outcomes based on recent data. Key findings include the impact of migrant labor shortages on agricultural output, Argentina's export growth following tax reductions, and the effects of drought on California's crop yields."
+  },
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "Global markets faced heightened volatility and policy uncertainty during the first week of March 2025.",
+        "prediction": "If the planned tariff increases on April 2, 2025, proceed as scheduled, we should expect a further decline in U.S. stock indices by at least 3% within two weeks following the implementation.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "The February jobs report revealed concerning trends with 151,000 jobs added and unemployment rate rising to 4.1%.",
+        "prediction": "The weaker-than-expected jobs report and rising unemployment rate will lead to a Federal Reserve policy announcement indicating a pause or reduction in interest rate hikes within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Trade policy shifts carry sector-specific risks for agriculture.",
+        "prediction": "Retaliatory tariffs from trade partners will result in a 5% increase in U.S. grain export prices within a month due to disrupted trade flows.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "March 2025: Economic Uncertainty and Trade Tensions Loom",
+    "aiBlurb": "The first week of March 2025 saw significant market volatility driven by trade tensions and weaker economic data, setting the stage for potential policy shifts and agricultural market disruptions."
+  },
+  {
+    "runTime": "2025-03-08",
+    "predictions": [
+      {
+        "article": "Secretary Rollins Delivers Remarks at Commodity Classic, Announces Next Steps for Economic Disaster Relief",
+        "prediction": "The announcement of $30 billion in economic and disaster aid will lead to an increase in farmer sentiment and investment in agricultural inputs within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA Announces Next Steps for Economic and Disaster Relief",
+        "prediction": "The expedited $10 billion in direct payments through the Emergency Commodity Assistance Program will result in a measurable decrease in farm bankruptcies by the end of the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "U.S. Farmers Face Higher Costs, Fewer Markets from Tariffs, Farm Groups Warn",
+        "prediction": "The ongoing tariffs and trade disputes will lead to a 5% decrease in U.S. agricultural exports to China and Mexico within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "USDA's Economic Aid and Tariffs Impact on U.S. Agriculture",
+    "aiBlurb": "Recent announcements by the USDA regarding economic aid and ongoing tariffs are expected to influence farmer sentiment, investment, and export levels in the coming months."
+  }
+]
