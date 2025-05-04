@@ -1,15 +1,16 @@
 [
   {
-    "runTime": "2025-03-07T00:00:00Z",
-    "predictions": [],
-    "summary": {
-      "aiHeadline": "Technical Difficulties in Data Retrieval",
-      "aiBlurb": "Attempts to gather economy and agriculture news from early March 2025 were unsuccessful due to persistent web scraping issues. As a result, no causal predictions could be generated for this period."
-    }
-  },
-  {
-    "runTime": "2025-03-07T00:00:00Z",
-    "predictions": [],
-    "summary": {
-      "aiHeadline": "Technical Difficulties in Data Retrieval",
-      "aiBlurb": "Attempts to gather and analyze economy and agriculture news from early March 2025 were unsuccessful due to repeated web scraping errors. Alternative methods or tools may be needed to access the required infor
+    "runTime": "2025-03-04",
+    "predictions": [
+      {
+        "article": "Impact of Recent Tariffs on US Agriculture (March 2025)",
+        "prediction": "US soybean and sorghum exports to China will remain below 10% of their 2024 levels for the next quarter due to the high retaliatory tariffs imposed by China.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/",
+          "https://www.pinionglobal.com/blog/the-impact-of-trade-policies-on-u-s-agriculture/",
+          "https://www.aei.org/research-products/report/trepidation-day-reciprocal-tariffs-and-the-vulnerability-of-us-agriculture/"
+        ]
+      },
+      {
+        "article": 
