@@ -1,1 +1,57 @@
-[{"runTime": "2025-04-08", "predictions": [{"article": "10 Charts to Explain What's Shaping the Ag Economy Start 2025", "prediction": "The significant increase in government payments to U.S. farmers will lead to a temporary stabilization of farm incomes, despite underlying economic challenges. This should manifest as a reported increase in net farm income in subsequent USDA reports within the next quarter.", "evidenceFound": false, "evidenceLinks": []}, {"article": "AFBF: New Tariffs Will Impact America's Farmers", "prediction": "The imposition of new tariffs will result in a measurable decrease in U.S. agricultural exports, particularly to China, within the next two months, as evidenced by trade data reports.", "evidenceFound": false, "evi
+[
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "USDA prepares to protect farmers in a trade war",
+        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will lead to a stabilization or slight increase in U.S. agricultural commodity prices within the next month as farmers receive up to $10 billion in direct economic assistance.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "China hits U.S. agriculture with tariffs",
+        "prediction": "U.S. soybean and sorghum exports to China will decrease by over 90% within the next month due to the newly imposed Chinese tariffs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US farmers face higher costs and fewer markets due to tariffs",
+        "prediction": "The cost of potassium fertilizers in the U.S. will increase by more than $100 per ton within the next month due to the 25% tariff on Canadian imports.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "summary": {
+      "aiHeadline": "Trade Tensions and Tariffs Impact U.S. Agriculture in March 2025",
+      "aiBlurb": "In March 2025, the USDA announced measures to support farmers amid escalating trade tensions. China imposed significant tariffs on U.S. agricultural products, and U.S. farmers faced rising input costs and reduced market access due to new taraffs."
+    }
+  },
+  {
+    "runTime": "2025-03-07T00:00:00Z",
+    "predictions": [],
+    "summary": {
+      "aiHeadline": "Technical Issues Prevent Causal Analysis",
+      "aiBlurb": "Attempts to gather and analyze economy and agriculture news from early March 2025 were unsuccessful due to technical difficulties in accessing article content. Alternative methods or sources may be needed for future analyses."
+    }
+  },
+  {
+    "runTime": "2025-03-07T00:00:00Z",
+    "predictions": [],
+    "summary": {
+      "aiHeadline": "Technical Difficulties in Data Retrieval",
+      "aiBlurb": "Attempts to retrieve and analyze recent economy and agriculture news articles for causal prediction were unsuccessful due to technical issues with web scraping. Further attempts or alternative methods are recommended for accessing the necessary data."
+    }
+  },
+  {
+    "runTime": "2025-03-04",
+    "predictions": [
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs, farm groups warn",
+        "prediction": "The price of potash fertilizer in the U.S. will increase by more than $100 per ton within the next month due to increased tariffs on Canadian imports.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/",
+          "https://civileats.com/2025/03/05/how-trumps-tariffs-will-affect-farmers-and-food-prices/"
+        ]
+      },
+      {
