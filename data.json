@@ -1,15 +1,1 @@
-[
-  {
-    "runTime": "2025-03-04",
-    "predictions": [
-      {
-        "article": "The recent tariffs implemented by the Trump administration in early 2025 have created significant challenges for U.S. agriculture.",
-        "prediction": "U.S. soybean exports to China will decrease by at least 50% within the next month due to the newly imposed tariffs.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/",
-          "https://www.pinionglobal.com/blog/the-impact-of-trade-policies-on-u-s-agriculture/"
-        ]
-      },
-      {
-        "article": "China's retaliatory tariffs on US agricultural products in March 2025 have created significant econo
+[{"runTime": "2025-03-07", "predictions": [{"article": "Secretary Rollins Delivers Remarks at Commodity Classic", "prediction": "The distribution of $30 billion in economic and disaster relief funds through the Emergency Commodity Assistance Program (ECAP) will lead to a measurable increase in farm income levels for row crop producers within the next quarter.", "evidenceFound": true, "evidenceLinks": ["http://www.ers.usda.gov/data-products/chart-gallery/chart-detail?chartId=76952", "http://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/highlights-from-the-farm-income-forecast"]}, {"article": "USDA Prepares to Protect Farmers in a Trade War", "prediction": "The expedited $10 billion in direct economic assistance to agricult
