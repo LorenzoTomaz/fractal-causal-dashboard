@@ -3,14 +3,11 @@
     "runTime": "2025-03-07",
     "predictions": [
       {
-        "article": "10 Charts to Explain What's Shaping the Ag Economy Start 2025",
-        "prediction": "Net farm income in the U.S. will increase by at least 25% in 2025 compared to 2024, driven by government payments and modest recovery in crop prices.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.agweb.com/news/policy/ag-economy/10-charts-explain-whats-shaping-ag-economy-start-2025",
-          "http://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/farm-sector-income-forecast"
-        ]
+        "article": "USDA Prepares to Protect Farmers in a Trade War",
+        "prediction": "The implementation of the Emergency Commodity Assistance Program (ECAP) will lead to a stabilization or slight increase in farm income levels in the U.S. within the next month, as the $10 billion in direct economic assistance is distributed to farmers.",
+        "evidenceFound": false,
+        "evidenceLinks": []
       },
       {
-        "article": "AFBF: New Tariffs Will Impact America's Farmers",
-        "prediction": "Fertilizer prices in the 
+        "article": "US Farmers Face Higher Costs, Fewer Markets from Tariffs",
+        "prediction": "The imposition of tariffs will result in a 10% increase in the cost of agricultural inputs such as fertilizers and machinery for U.S. farmers within the next m
