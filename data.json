@@ -1,1 +1,17 @@
-[{"runTime": "2025-03-07", "predictions": [{"article": "U.S. Tariffs on China and Retaliation", "prediction": "U.S. soybean exports to China will decrease by at least 10% within the next month.", "evidenceFound": true, "evidenceLinks": ["https://www.reuters.com/markets/commodities/china-retaliation-us-farm-goods-hits-soybeans-bolstering-brazil-2025-04-04/", "https://www.youtube.com/watch?v=szFETe2t40k", "https://www.coface.us/news-economy-and-business-insights/from-prosperity-to-decline-u.s.-soybeans-and-the-fallout-of-the-sino-american-trade-war"]}, {"article": "Tariffs on Canadian Fertilizers", "prediction": "The imposition of tariffs on Canadian fertilizers will lead to a 5% increase in fertilizer costs for U.S. farmers within the next m", "evidenceFound": true, "evidenceLinks": ["https://www.dtnpf.com/agriculture/web/ag/news/crops/article/2025/04/09/uan32-continues-lead-higher-prices-8", "https://www.reuters.com/markets/commodities/us-canadian-farmers-face-soaring-fertilizer-prices-amid-trump-trade-war-2025-03-07/", "https://www.tfi.org/media-center/2025/03/04/tfi-statement-on-implementation-of-u-s-t-tariffs-on-imports-of-canadian-potash-and-other-fertilizers/"]}], "aiHeadline": "Trade Wars Escalate: U.S. Agriculture Faces Export Declines and Rising Costs", "aiBlurb": "In March 2025, escalating trade tensions led to significant impacts on U.S. agriculture. New tariffs and retaliatory measures resulted in a sharp decline in soybean exports to China and increased fertilizer costs for American farmers."}]
+[
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "U.S. Tariffs on China and Retaliation",
+        "prediction": "U.S. soybean exports to China will decrease by at least 10% within the next month.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.reuters.com/markets/commodities/china-retaliation-us-farm-goods-hits-soybeans-bolstering-brazil-2025-04-04/",
+          "https://www.youtube.com/watch?v=szFETe2t40k",
+          "https://www.coface.us/news-economy-and-business-insights/from-prosperity-to-decline-u.s.-soybeans-and-the-fallout-of-the-sino-american-trade-war"
+        ]
+      },
+      {
+        "article": "Tariffs on Canadian Fertilizers",
+        "prediction": "The impos
