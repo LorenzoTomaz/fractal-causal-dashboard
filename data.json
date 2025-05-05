@@ -15,4 +15,227 @@
         "prediction": "Argentina's agricultural exports will increase by at least 5% in the next quarter as a result of reduced export taxes.",
         "evidenceFound": true,
         "evidenceLinks": [
-          "ht
+          "https://www.americanagnetwork.com/2025/04/24/argentina-corn-production-expected-to-jump/"
+        ]
+      },
+      {
+        "article": "Fear of deportation empties California's farm fields",
+        "prediction": "California's agricultural output will decline by at least 5% in the next quarter due to labor shortages caused by deportation fears.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "summary": {
+      "aiHeadline": "Drought and Policy Changes Impact Global Agriculture in 2025",
+      "aiBlurb": "Recent reports confirm significant impacts on agriculture due to environmental and policy changes. Southern California faces reduced crop yields from drought, while Argentina's export tax cuts boost agricultural exports. However, labor shortages in California have yet to show a measurable decline in overall output."
+    }
+  },
+  {
+    "runTime": "2025-04-08T00:00:00Z",
+    "predictions": [
+      {
+        "article": "10 Charts to Explain What's Shaping the Ag Economy Start 2025",
+        "prediction": "U.S. agricultural trade deficit will widen to at least $49 billion by the end of 2025 due to declining soybean exports and increased horticultural imports.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "http://ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110894",
+          "https://www.agweb.com/news/policy/ag-economy/10-charts-explain-whats-shaping-ag-economy-start-2025",
+          "https://agamerica.com/blog/agricultural-trade-q1-2025/"
+        ]
+      },
+      {
+        "article": "Government Payments Drive U.S. 2025 Farm Income Surge",
+        "prediction": "Net farm income in the U.S. will increase by at least 26% in 2025 due to a 345% rise in government payments.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/government-payments-drive-u-s-2025-farm-income-surge",
+          "https://www.fb.org/market-intel/disaster-assistance-fuels-2025s-farm-income-rebound",
+          "https://www.proag.com/news/2025-net-farm-income-will-surge-due-to-government-payments/"
+        ]
+      },
+      {
+        "article": "US farmers turn to Airbnb, corn mazes to outlast agricultural downturn 2025",
+        "prediction": "Revenue from agritourism activities like Airbnb rentals and corn mazes will surpass traditional farming income for at least 20% of participating U.S. farms by the end of 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://reuters.screenocean.com/record/1965676",
+          "https://www.thedailystar.net/news/world/news/us-farmers-turn-airbnb-corn-mazes-outlast-agricultural-downturn-3819576",
+          "https://www.youtube.com/watch?v=zsCXUv-z7N4"
+        ]
+      }
+    ],
+    "summary": {
+      "aiHeadline": "U.S. Agriculture Faces Trade Deficit, Income Surge, and Agritourism Shift in 2025",
+      "aiBlurb": "In 2025, the U.S. agricultural sector is experiencing a widening trade deficit, a significant increase in farm income driven by government payments, and a shift towards agritourism as farmers adapt to economic challenges."
+    }
+  },
+  {
+    "runTime": "2025-04-08T12:00:00Z",
+    "predictions": [
+      {
+        "article": "10 Charts to Explain What's Shaping the Ag Economy Start 2025",
+        "prediction": "The significant increase in government payments will lead to a temporary boost in U.S. farm income, with net farm income reaching $180.1 billion in 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/10-charts-explain-whats-shaping-ag-economy-start-2025",
+          "https://www.agweb.com/news/policy/ag-economy/government-payments-drive-u-s-2025-farm-income-surge"
+        ]
+      },
+      {
+        "article": "AFBF: New Tariffs Will Impact America's Farmers",
+        "prediction": "The new tariffs will result in increased input costs for U.S. farmers and reduced export opportunities, leading to financial strain in the agricultural sector.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.fb.org/market-intel/understanding-the-new-tariffs",
+          "https://www.fb.org/news-release/additional-tariffs-will-take-toll-on-americas-farmers"
+        ]
+      },
+      {
+        "article": "Government Payments Drive U.S. 2025 Farm Income Surge",
+        "prediction": "The surge in government payments will improve financial health indicators for U.S. farms, despite ongoing challenges from low commodity prices.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/government-payments-drive-u-s-2025-farm-income-surge",
+          "https://www.fb.org/market-intel/disaster-assistance-fuels-2025s-farm-income-rebound"
+        ]
+      },
+      {
+        "article": "USDA Freezes Farmer Funding for Some Programs",
+        "prediction": "The freeze on USDA funding for conservation programs will lead to uncertainty and potential financial difficulties for farmers planning to enroll in these programs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Promises Alone Won't Pay the Bills: Reactions Roll in as Tariffs and New Trade Wars Put Ag Industry on High Alert",
+        "prediction": "The ongoing trade tensions and tariffs will lead to significant disruptions in U.S. agricultural export markets, particularly affecting corn, dairy, and specialty crops.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agriculture.com/promises-alone-won-t-pay-the-bills-reactions-roll-in-as-tariffs-and-new-trade-wars-put-ag-industry-on-high-alert-11691007",
+          "https://www.agriculture.com/tariffs-threaten-shift-to-higher-corn-acres-in-2025-11694549"
+        ]
+      }
+    ],
+    "summary": {
+      "aiHeadline": "U.S. Agriculture Faces Turbulent 2025 Amid Tariffs and Government Aid",
+      "aiBlurb": "The U.S. agricultural sector is navigating a complex landscape in 2025, with government payments providing a temporary income boost while new tariffs threaten export markets and increase input costs. Farmers face financial uncertainty despite improved short-term financial health indicators."
+    }
+  },
+  {
+    "runTime": "2025-04-08",
+    "predictions": [
+      {
+        "article": "10 Charts to Explain What's Shaping the Ag Economy to Start 2025",
+        "prediction": "The significant increase in government payments will lead to a temporary boost in U.S. farm income, but concerns about the sustainability of these payments will lead to discussions on reforming farm support programs.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/government-payments-drive-u-s-2025-farm-income-surge",
+          "https://www.fb.org/market-intel/disaster-assistance-fuels-2025s-farm-income-rebound"
+        ]
+      },
+      {
+        "article": "AFBF: New Tariffs Will Impact America's Farmers",
+        "prediction": "The imposition of new tariffs will lead to increased costs for U.S. farmers, particularly in agricultural inputs, and a decrease in export demand due to retaliatory tariffs, resulting in financial strain on farmers.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.fb.org/news-release/additional-tariffs-will-take-toll-on-americas-farmers",
+          "https://www.fb.org/market-intel/understanding-the-new-tariffs"
+        ]
+      },
+      {
+        "article": "Government Payments Drive U.S. 2025 Farm Income Surge",
+        "prediction": "The surge in government payments will temporarily improve financial health indicators for U.S. farms, but the decline in farm revenues and ongoing tariff uncertainties will pressure lawmakers to consider reforms to the farm safety net.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/government-payments-drive-u-s-2025-farm-income-surge",
+          "https://www.proag.com/news/2025-net-farm-income-will-surge-due-to-government-payments"
+        ]
+      }
+    ],
+    "summary": {
+      "aiHeadline": "U.S. Farm Economy Faces Mixed Prospects Amid Government Payments and Tariff Challenges",
+      "aiBlurb": "In 2025, U.S. farm income is buoyed by a surge in government payments, yet sustainability concerns loom. Meanwhile, new tariffs threaten to increase costs and reduce export demand, pressuring farmers and prompting calls for policy reform."
+    }
+  },
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "USDA announces next steps for economic and disaster relief",
+        "prediction": "The USDA's implementation of the Emergency Commodity Assistance Program (ECAP) will result in at least 70% of eligible farmers receiving economic assistance payments by the end of March 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief",
+          "https://www.fsa.usda.gov/resources/programs/emergency-commodity-assistance-program",
+          "https://farmpolicynews.illinois.edu/2025/03/usda-economic-aid-applications-expected-by-friday/"
+        ]
+      },
+      {
+        "article": "China hits U.S. agriculture with tariffs",
+        "prediction": "U.S. soybean and sorghum exports to China will decrease by over 90% in the first quarter of 2025 compared to the same period in 2024.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.fas.usda.gov/data/china-sctc-announces-retaliatory-tariffs-us-agricultural-products",
+          "https://www.china-briefing.com/news/trump-raises-tariffs-on-china-to-125-overview-and-trade-implications/",
+          "https://igrownews.com/trump-tariffs-effects-on-agriculture-agtech-investments/"
+        ]
+      },
+      {
+        "article": "US farmers face higher costs and fewer markets due to tariffs",
+        "prediction": "The average price of U.S. corn will decline by at least 10% by the end of March 2025 due to oversupply and reduced export demand.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agriculture.com/tariffs-threaten-shift-to-higher-corn-acres-in-2025-11694549",
+          "https://civileats.com/2025/03/05/how-trumps-tariffs-will-affect-farmers-and-food-prices/",
+          "https://www.conference-board.org/research/ced-policy-backgrounders/us-spring-plantings-respond-to-tariffs-and-geopolitical-risk"
+        ]
+      }
+    ],
+    "summary": {
+      "aiHeadline": "USDA Relief and Tariffs Reshape U.S. Agriculture Landscape in March 2025",
+      "aiBlurb": "March 2025 saw significant developments in U.S. agriculture as the USDA rolled out economic relief programs while retaliatory tariffs from China and other nations led to decreased exports and increased costs for American farmers."
+    }
+  },
+  {
+    "runTime": "2025-03-07",
+    "predictions": [
+      {
+        "article": "Economic Contraction and Trade Policy Impacts",
+        "prediction": "The U.S. GDP will continue to contract in Q2 2025 due to ongoing trade policy uncertainties and stockpiling behaviors.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Agricultural Sector Strains",
+        "prediction": "U.S. egg prices will increase by at least 40% by mid-2025 due to rising feed costs and trade-related market volatility.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Inflation and Labor Market Dynamics",
+        "prediction": "Inflation rates will rise above 3% by mid-2025 as businesses pass on tariff costs to consumers.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "summary": {
+      "aiHeadline": "Trade Policies and Economic Strains: March 2025 Insights",
+      "aiBlurb": "In early March 2025, the U.S. faced economic contraction and agricultural sector strains due to trade policies. Predictions indicate further GDP contraction, rising egg prices, and inflationary pressures."
+    }
+  },
+  {
+    "runTime": "2025-03-22T00:00:00Z",
+    "predictions": [],
+    "summary": {
+      "aiHeadline": "Technical Issues Prevent Causal Predictions from Recent Agriculture News",
+      "aiBlurb": "Attempts to gather and analyze agriculture and economy news from March 2025 were unsuccessful due to persistent technical issues with data retrieval. As a result, no causal predictions could be generated for this period."
+    }
+  },
+  {
+    "runTime": "2025-03-07T00:00:00Z",
+    "predictions": [],
+    "summary": {
+      "aiHeadline": "Data Retrieval Issues Prevent Causal Analysis",
+      "aiBlurb": "Attempts to access articles for causal prediction generation were unsuccessful due to persistent data retrieval errors. No predictions could be made at this time."
+    }
+  }
+]
