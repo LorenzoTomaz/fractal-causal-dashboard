@@ -3,14 +3,17 @@
     "runTime": "2025-03-07",
     "predictions": [
       {
-        "article": "USDA Prepares to Protect Farmers in a Trade War",
-        "prediction": "The USDA will distribute up to $10 billion in emergency economic aid to U.S. farmers within the next 90 days.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.agweb.com/news/policy/ag-economy/usda-prepares-protect-farmers-trade-war",
-          "https://www.dtnpf.com/agriculture/web/ag/news/article/2025/05/02/important-battle-trade-war"
-        ]
+        "article": "Escalation of Tariffs and Trade Tensions",
+        "prediction": "US soybean and sorghum exports to China will remain below 10% of their 2024 levels for the next quarter due to retaliatory tariffs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
       },
       {
-        "article": "China Hits U.S. Agriculture, Says It Won't Be Bullied by Fresh Trump Tariffs",
-        "prediction": "U.S. agricultural exports to China will decrease by at least 20% within 
+        "article": "Impact on US Agriculture",
+        "prediction": "The US will announce additional financial aid packages for farmers within the next month to offset losses from reduced exports and increased input costs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Fertilizer and Input Costs",
+        "prediction": "The reduction 
