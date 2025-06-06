@@ -1,13 +1,15 @@
 [
   {
-    "runTime": "2025-06-06T01:40:01+00:00",
+    "runTime": "2025-06-06T01:50:02+00:00",
     "predictions": [
       {
-        "article": "Secretary Rollins Delivers Remarks at Commodity Classic, Announces Next Steps for Economic Disaster Relief",
-        "prediction": "The announcement of the $30 billion economic and disaster relief package will lead to an increase in applications for the Emergency Commodity Assistance Program (E-CAP) by at least 20% within the next month.",
-        "evidenceFound": false,
-        "evidenceLinks": []
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will begin distributing $10 billion in economic assistance to farmers by March 21, 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/rollins-promises-grain-farmers-improving-ag-economy-top-priority",
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief"
+        ]
       },
       {
-        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
-        "prediction": "The announcement of China's countermeasures against U.S. tariffs will cause a 5% increase in the price of soymeal futures o
+        "article": "Trade 
