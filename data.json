@@ -1,15 +1,13 @@
 [
   {
-    "runTime": "2025-06-06T00:05:01+00:00",
+    "runTime": "2025-06-06T00:10:01+00:00",
     "predictions": [
       {
         "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
-        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will distribute at least $10 billion in economic aid to farmers by March 21, 2025.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.agweb.com/news/policy/ag-economy/rollins-promises-grain-farmers-improving-ag-economy-top-priority"
-        ]
+        "prediction": "The announcement of the Emergency Commodity Assistance Program (ECAP) will lead to an increase in farmer applications for economic aid by at least 20% within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
       },
       {
         "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
-        "prediction": "Retaliatory tariffs from China, Canada, and Mexico will lead to a decrease in U.S. agricult
+        "prediction": "The imposition of retaliatory tariffs by China, Canada, and Mexico will result in a decrease of at least 10% in U.S. agricultural exports to these countries within the next two months.",
