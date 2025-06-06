@@ -12,4 +12,47 @@
         ]
       },
       {
-        "article": "Trade 
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "Retaliatory tariffs from China, Canada and Mexico will lead to a significant drop in U.S. agricultural exports to these countries within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "China's countermeasures will include tariffs on U.S. soybeans, leading to a 5% increase in domestic soybean prices by the end of March 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agdaily.com/news/us-agriculture-in-crosshairs-of-chinas-tariff-retaliation/",
+          "https://www.farmprogress.com/farm-policy/trade-war-escalates-as-retaliatory-tariffs-hit-struggling-farm-economy"
+        ]
+      }
+    ],
+    "aiHeadline": "USDA's ECAP" Launches Amidst Trade Tensions Impacting U.S. Agriculture",
+    "aiBlurb": "As the USDA rolls out the Emergency Commodity Assistance Program to support struggling farmers, escalating trade tensions with China, Canada, and Mexico threaten U.S. agricultural exports, prompting concerns over market stability and price fluctuations."
+  },
+  {
+    "runTime": "2025-06-06T01:40:01+00:00",
+    "predictions": [
+      {
+        "article": "Secretary Rollins Delivers Remarks at Commodity Classic, Announces Next Steps for Economic Disaster Relief",
+        "prediction": "The announcement of the $30 billion economic and disaster relief package will lead to an increase in applications for the Emergency Commodity Assistance Program (E-CAP) by at least 20% within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "The announcement of China's countermeasures against U.S. tariffs will cause a 5% increase in the price of soymeal futures on the Dalian Commodities Exchange within two weeks.",
+        "evidenceFound": true,
+        "evidenceLinks": ["https://www.agdaily.com/news/us-agriculture-in-crosshairs-of-chinas-tariff-retaliation/"]
+      },
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "U.S. agricultural exports to China will decrease by at least 10% in the next quarter due to the new tariffs.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Economic Relief and Trade Tensions Shape U.S. Agriculture Outlook",
+    "aiBlurb": "Recent announcements from the USDA and escalating trade tensions with China are set to impact U.S. agriculture. While economic relief efforts aim to stabilize the sector, China's retaliatory tariffs could disrupt trade flows and commodity prices."
+  }
+]
