@@ -1,15 +1,13 @@
 [
   {
-    "runTime": "2025-06-06T00:50:03+00:00",
+    "runTime": "2025-06-06T00:55:01+00:00",
     "predictions": [
       {
-        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
-        "prediction": "The imposition of new tariffs by China on U.S. agricultural products will lead to a decrease in U.S. agricultural exports to China by at least 10% within the next two months.",
+        "article": "Secretary Rollins Delivers Remarks at Commodity Classic, Announces Next Steps for Economic Disaster Relief",
+        "prediction": "The announcement of the $30 billion economic and disaster relief package will lead to an increase in applications for the Emergency Commodity Assistance Program (E-CAP) by at least 20% within the next month.",
         "evidenceFound": false,
         "evidenceLinks": []
       },
       {
-        "article": "China Readying Tariff Countermeasures on U.S. Agriculture",
-        "prediction": "The announcement of China's countermeasures will cause a rise in futures prices for U.S. soybeans and grains by at least 5% within the next month.",
-        "evidenceFound": false,
-        "evidenceLinks":[]},{"article":"China Readying Tariff Countermeasures on U.S. Agriculture","prediction":"The U.S. agricultural sector will experience a shift towards finding alternative markets, resulting in at least two new trade agreements with non-Chinese markets within the next three months.","evidenceFound":false,"evidenceLinks":[]}],"summary":{"aiHeadline":"China's Tariff Retaliation Threatens U.S. Agricultural Exports","aiBlurb":"As China prepares countermeasures against U.S tariffs, American agricultural exports face significant challenges. The potential for decreased exports and rising futures prices highlights the need for U.S. farmers to seek alternative markets."}}]
+        "article": "Ag Secretary: Applications for $10 Billion in Economic Aid, ECAP, Should Arrive Soon",
+        "prediction": "The distribution of the $10 billion in economic aid will result in a 10% increase in corn and soybean 
