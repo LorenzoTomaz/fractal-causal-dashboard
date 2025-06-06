@@ -19,7 +19,7 @@
       },
       {
         "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
-        "prediction": "China's countermeasures will include tariffs on U.S. soybeans, leading to a 5% increase in domestic soybean prices by the end of March 2025.",
+        "prediction": "China's countermeasures will include tariffs on U.S soybeans, deading to a 5% increase in domestic soybean prices by the end of March 2025.",
         "evidenceFound": true,
         "evidenceLinks": [
           "https://www.agdaily.com/news/us-agriculture-in-crosshairs-of-chinas-tariff-retaliation/",
@@ -40,7 +40,7 @@
         "evidenceLinks": []
       },
       {
-        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "U.S. agriculture is in crosshairs of China's tariff retaliation",
         "prediction": "The announcement of China's countermeasures against U.S. tariffs will cause a 5% increase in the price of soymeal futures on the Dalian Commodities Exchange within two weeks.",
         "evidenceFound": true,
         "evidenceLinks": ["https://www.agdaily.com/news/us-agriculture-in-crosshairs-of-chinas-tariff-retaliation/"]
@@ -54,5 +54,30 @@
     ],
     "aiHeadline": "Economic Relief and Trade Tensions Shape U.S. Agriculture Outlook",
     "aiBlurb": "Recent announcements from the USDA and escalating trade tensions with China are set to impact U.S. agriculture. While economic relief efforts aim to stabilize the sector, China's retaliatory tariffs could disrupt trade flows and commodity prices."
+  },
+  {
+    "runTime": "2025-06-06T02:15:02+00:00",
+    "predictions": [
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The USDA's release of funds for the Environmental Quality Incentive Program, Conservation Stewardship Program, and Agricultural Conservation Easement Program will lead to a measurable increase in applications for these programs by at least 10% within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA announces next steps for economic and disaster relief",
+        "prediction": "The announcement of the Emergency Commodity Assistance Program (E-CAP) will result in at least a 15% increase in applications for economic aid from farmers by the end of March 2025.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA announces next steps for economic and disaster relief",
+        "prediction": "The USDA's streamlined application process for disaster assistance will reduce the average processing time for applications by at least 20% within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "USDA Initiatives Aim to Boost Agricultural Economy Amidst Historic Challenges",
+    "aiBlurb": "Recent USDA announcements highlight efforts to improve the agricultural economy through new funding programs and streamlined processes, aiming to address the worst economic conditions for row crop producers in a century."
   }
 ]
