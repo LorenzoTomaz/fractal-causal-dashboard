@@ -1,18 +1,246 @@
 [
   {
-    "runTime": "2025-06-07T03:50:01+00:00",
+    "runTime": "2025-06-07T17:25:03+00:00",
     "predictions": [
       {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The USDA's release of funds for the Environmental Quality Incentive Program and other conservation programs will lead to a measurable increase in applications for these programs by at least 10% within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
         "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
-        "prediction": "U.S. agricultural exports to China, Canada, and Mexico will decrease by at least 10% within the next month due to the newly imposed tariffs.",
+        "prediction": "The imposition of retaliatory tariffs by China, Canada, and Mexico will result in a decrease of at least 5% in U.S. agricultural exports to these countries within the next two months.",
         "evidenceFound": false,
         "evidenceLinks": []
       },
       {
         "article": "China Hits U.S. Agriculture, Says It Won't Be Bullied by Fresh Trump Tariffs",
-        "prediction": "Prices for U.S. soybeans and corn will drop by at least 5% within the next two weeks as a result of China's retaliatory tariffs.",
+        "prediction": "The new tariffs imposed by China on U.S. agricultural products will dead to a 10% increase in the price of affected commodities such as soybeans and corn in the U.S. futures market within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "USDA Initiatives and Trade Tensions Shape U.S. Agricultural Landscape",
+    "aiBlurb": "Recent announcements by the USDA aim to bolster the agricultural economy through new funding programs, while escalating trade tensions with China, Canada, and Mexico pose significant challenges to U.S. farmers. The impact of these developments on agricultural exports and commodity prices remains to be seen."
+  },
+  {
+    "runTime": "2025-06-07T17:20:02+00:00",
+    "predictions": [
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The USDA's release of funds for the Environmental Quality Incentive Program and other conservation programs will lead to a measurable increase in applications for these programs by at least 10% within the next month.",
         "evidenceFound": false,
         "evidenceLinks": []
       },
       {
-     
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "The imposition of retaliatory tariffs by China, Canada, and Mexico will result in a decrease of at least 5% in U.S. agricultural exports to these countries within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "China Hits U.S. Agriculture, Says It Won't Be Bullied by Fresh Trump Tariffs",
+        "prediction": "The new Chinese tariffs on U.S. agricultural products will cause a 3% increase in the price of soybeans and corn futures on the Chicago Board of Trade within the next two weeks.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "USDA Initiatives and Trade Tensions Shape Agricultural Outlook",
+    "aiBlurb": "Recent announcements by the USDA and escalating trade tensions with China, Canada, and Mexico are expected to significantly impact U.S. agriculture. The USDA's new funding programs aim to boost farmer participation, while retaliatory tariffs threaten to reduce export volumes and increase commodity prices."
+  },
+  {
+    "runTime": "2025-06-07T17:15:01+00:00",
+    "predictions": [
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The USDA's release of funds for the Environmental Quality Incentive Program and other conservation programs will lead to a measurable increase in applications for these programs by at least 10% within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "The imposition of retaliatory tariffs by China, Canada, and Mexico will result in a decrease of at least 5% in U.S. agricultural exports to these countries within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "China Hits U.S. Agriculture, Says It Won't Be Bullied by Fresh Trump Tariffs",
+        "prediction": "The new Chinese tariffs on U.S. agricultural products will cause a 3% increase in the price of soybeans and corn futures on the Chicago Board of Trade within the next two weeks.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "USDA Initiatives and Trade Tensions Set to Reshape U.S. Agricultural Landscape",
+    "aiBlurb": "Recent announcements from the USDA and escalating trade tensions with major partners are poised to significantly impact U.S. agriculture. While the USDA's new funding programs aim to bolster the sector, retaliatory tariffs from China, Canada, and Mexico threaten to disrupt export markets and commodity prices."
+  },
+  {
+    "runTime": "2025-06-07T17:10:02+00:00",
+    "predictions": [
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The USDA's release of funds for the Environmental Quality Incentive Program and other conservation programs will lead to an increase in applications for these programs by at least 20% within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "The imposition of retaliatory tariffs by China on U.S. agricultural products will result in a decrease of at least 10% in U.S. agricultural exports to China within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "China Hits U.S. Agriculture, Says It Won't Be Bullied by Fresh Trump Tariffs",
+        "prediction": "The new tariffs imposed by China on U.S. agricultural products will cause a 5% increase in the prices of affected commodities in the U.S. domestic market within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "USDA Initiatives and Trade Tensions Shape U.S. Agricultural Landscape",
+    "aiBlurb": "Recent USDA announcements aim to bolster the agricultural economy through new funding programs, while escalating trade tensions with China threaten U.S. export markets. The impact of these developments on domestic agriculture remains to be seen."
+  },
+  {
+    "runTime": "2025-06-07T17:05:01+00:00",
+    "predictions": [
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will distribute $10 billion in economic aid to farmers by March 21, 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/rollins-promises-grain-farmers-improving-ag-economy-top-priority",
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief"
+        ]
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "Retaliatory tariffs from China, Canada, and Mexico will lead to a 10% decrease in U.S. agricultural exports to these countries within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "China Hits U.S. Agriculture, Says It Won't Be Bullied by Fresh Trump Tariffs",
+        "prediction": "The imposition of new tariffs by China on U.S. agricultural products will result in a 5% increase in domestic prices for affected commodities like soybeans and corn within a month.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/china-hits-u-s-agriculture-says-it-wont-be-bullied-fresh-trump-tariffs"
+        ]
+      }
+    ],
+    "aiHeadline": "USDA's Economic Aid and Trade Tensions Shape U.S. Agriculture Outlook",
+    "aiBlurb": "The USDA's swift action in distributing economic aid aims to bolster a struggling agricultural economy, while escalating trade tensions with China, Canada, and Mexico pose significant challenges. The impact of retaliatory tariffs is already being felt in commodity markets, with soybean and corn prices reacting to new trade barriers."
+  },
+  {
+    "runTime": "2025-06-07T17:00:06+00:00",
+    "predictions": [
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "Due to the newly imposed tariffs and expected retaliatory tariffs, U.S. soybean and corn prices will decrease by at least 10% within the next month.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agriculture.com/corn-down-more-than-7cent-or-wednesday-march-12-2025-11695351",
+          "https://tradingeconomics.com/commodity/soybeans",
+          "https://soygrowers.com/news-releases/usda-reports-despite-smaller-2025-acres-smaller-q2-soy-usage-weighs-on-soy-prices/"
+        ]
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "The cost of potash fertilizer in the U.S. will increase by at least 15% within the next month due to the reliance on Canadian imports and the new tariffs.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/potassium-chloride-prices-rise-amid-tight-supply-trump-tariff-policy-shakes-market-35690",
+          "https://www.crugroup.com/en/communities/thought-leadership/2025/US-potash-prices-to-jump-as-import-tariffs-on-Canada-take-effect/",
+          "https://millingmea.com/global-fertilizer-prices-climb-11-in-early-2025-world-bank/"
+        ]
+      }
+    ],
+    "aiHeadline": "Tariffs Trigger Price Shifts in U.S. Agriculture",
+    "aiBlurb": "Recent tariffs have led to significant price changes in the U.S. agricultural sector, with soybean and corn prices dropping and potash fertilizer costs rising sharply."
+  },
+  {
+    "runTime": "2025-06-07T16:55:01+00:00",
+    "predictions": [
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will distribute $10 billion in economic aid to farmers by March 21, 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/rollins-promises-grain-farmers-improving-ag-economy-top-priority",
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief"
+        ]
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "Retaliatory tariffs from China, Canada, and Mexico will lead to a 10% decrease in U.S. agricultural exports to these countries within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "China Hits U.S. Agriculture, Says It Won't Be Bullied by Fresh Trump Tariffs",
+        "prediction": "The imposition of new tariffs by China on U.S. agricultural products will result in a 5% increase in domestic prices for affected commodities like soybeans and corn within a month.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/china-hits-u-sagriculture-says-it-wont-be-bullied-fresh-trump-tariffs",
+          "https://www.farmprogress.com/farm-policy/trade-war-escalates-as-retaliatory-tariffs-hit-struggling-farm-economy"
+        ]
+      }
+    ],
+    "aiHeadline": "USDA's Economic Aid and Trade Tensions Shape U.S. Agriculture",
+    "aiBlurb": "As the USDA rolls out a $10 billion aid package to support struggling farmers, escalating trade tensions with China, Canada, and Mexico threaten to reshape the agricultural export landscape. The impact of retaliatory tariffs is already being felt in domestic markets, with commodity prices on the rise."
+  },
+  {
+    "runTime": "2025-06-07T16:50:02+00:00",
+    "predictions": [
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The announcement of the Emergency Commodity Assistance Program (ECAP) will lead to an increase in farm income reports by at least 10% within the next quarter as funds are distributed.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "The imposition of retaliatory tariffs by China, Canada, and Mexico will result in a 15% decrease in U.S. agricultural exports to these countries within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "China Hits U.S. Agriculture, Says It Won't Be Bullied by Fresh Trump Tariffs",
+        "prediction": "The new tariffs imposed by China on U.S. agricultural products will cause a 5% increase in domestic prices of affected commodities like soybeans and corn within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Trade Tensions and Economic Aid: U.S. Agriculture Faces Uncertain Future",
+    "aiBlurb": "Recent developments in U.S. agricultural policy and international trade have set the stage for significant economic shifts. With new aid programs on the horizon and escalating trade tensions, the agricultural sector is bracing for changes in export dynamics and domestic market prices."
+  },
+  {
+    "runTime": "2025-06-07T16:45:02+00:00",
+    "predictions": [
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will distribute $10 billion in economic aid to farmers by March 21, 2025.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/rollins-promises-grain-farmers-improving-ag-economy-top-priority",
+          "https://www.usda.gov/about-usda/news/press-releases/2025/03/03/secretary-rollins-delivers-remarks-commodity-classic-announces-next-steps-economic-disaster-relief"
+        ]
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "Retaliatory tariffs from China, Canada, and Mexico will lead to a 10% decrease in U.S. agricultural exports to these countries within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "China Hits U.S. Agriculture, Says It Won't Be Bullied by Fresh Trump Tariffs",
+        "prediction": "The imposition of new tariffs by China on U.S. agricultural products will result in a 5% increase in domestic prices for affected commodities like soybeans and corn within a month.",
+        "evidenceFound": true,
+        "evidenceLinks": [
+          "https://www.agweb.com/news/policy/ag-economy/china-hits-u-s-agriculture-says-it-wont-be-bullied-fresh-trump-tariffs",
+          "https://www.farmprogress.com/farm-policy/trade-war-escalates-as-retaliatory-tariffs-hit-struggling-farm-economy"
+        ]
+      }
+    ],
+    "aiHeadline": "USDA's Economic Aid and Trade Tensions Shape U.S. Agriculture",
+    "aiBlurb": "Recent developments in U.S. agriculture include the USDA's rollout of a $10 billion aid program and escalation trade tensions with China, Canada, and Mexico, impacting export markets and commodity prices."
+  }
+]
