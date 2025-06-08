@@ -104,70 +104,8 @@
         "evidenceLinks": []
       }
     ],
-    "aiHeadline": "USDA Initiatives and Trade Tensions Set to Reshape U.S. Agriculture Landscape",
-    "aiBlurb": "Recent announcements by the USDA and escalating trade tensions are poised to significantly impact the U.S. agricultural sector. While the USDA aims to boost farmer support through new programs, retaliatory tariffs threaten to reduce export markets, creating a complex economic environment for American farmers."
-  },
-  {
-    "runTime": "2025-06-08T00:30:02+00:00",
-    "predictions": [
-      {
-        "article": "Rollins Promises Grain Farmers Improving Ag Economy is Top Priority",
-        "prediction": "The USDA's new programs will lead to a 10% increase in grain production within the next quarter.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.agriculture.com/usda-prospective-planting-quarterly-grain-stocks-march-31-2025-11704648",
-          "https://downloads.usda.library.cornell.edu/usda-esmis/files/x633f100h/8910mq551/79409v60f/pspl0325.pdf",
-          "https://www.usda.gov/oce/commodity/wasde/wasde0525v2.pdf"
-        ]
-      },
-      {
-        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
-        "prediction": "Input costs for U.S. farmers will rise by at least 5% within the next month due to retaliatory tariffs.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://blogs.ifas.ufl.edu/nfrecsv/2025/05/14/farm-input-costs-rise-and-commodity-crop-prices-fall/",
-          "https://ag.purdue.edu/commercialag/home/resource/2025/05/trends-in-general-inflation-and-farm-input-prices-2/",
-          "https://farmdocdaily.illinois.edu/2025/04/are-us-crop-production-costs-high.html"
-        ]
-      },
-      {
-        "article": "China Hits U.S. Agriculture, Says It Won't Be Bullied by Fresh Trump Tariffs",
-        "prediction": "U.S. agricultural exports to China will decrease by 15% within the next two months.",
-        "evidenceFound": true,
-        "evidenceLinks": [
-          "https://www.reuters.com/world/china/china-vows-countermeasures-against-us-tariffs-linked-fentanyl-2025-03-04/",
-          "https://www.ifpri.org/blog/u-s-china-trade-war-2-0-what-are-the-implications-for-global-oilseed-markets/",
-          "https://agamerica.com/blog/agricultural-trade-q1-2025/"
-        ]
-      }
-    ],
-    "aiHeadline": "USDA Initiatives and Trade Tensions Shape U.S. Agriculture Outlook",
-    "aiBlurb": "Recent USDA programs are set to boost grain production, while escalating trade tensions with China are increasing input costs and reducing export opportunities for U.S. farmers."
-  },
-  {
-    "runTime": "2025-06-08T00:25:04+00:00",
-    "predictions": [
-      {
-        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
-        "prediction": "The USDA's release of funds for the Environmental Quality Incentive Program and other conservation programs will lead to a measurable increase in applications for these programs by at least 20% within the next month.",
-        "evidenceFound": false,
-        "evidenceLinks": []
-      },
-      {
-        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
-        "prediction": "The imposition of new tariffs by the U.S. and retaliatory tariffs by China, Canada, and Mexico will result in a decline of at least 10% in U.S. agricultural exports to these countries within the next two months.",
-        "evidenceFound": false,
-        "evidenceLinks": []
-      },
-      {
-        "article": "Secretary Rollins Delivers Remarks at Commodity Classic, Announces Next Steps for Economic Disaster Relief",
-        "prediction": "The announcement of the Emergency Commodity Assistance Program (ECAP) will lead to a 15% increase in farmer participation in USDA economic assistance programs within the next month.",
-        "evidenceFound": false,
-        "evidenceLinks": []
-      }
-    ],
     "aiHeadline": "USDA Initiatives and Trade Tensions Set to Reshape U.S. Agricultural Landscape",
-    "aiBlurb": "Recent announcements by the USDA and escalating trade tensions are poised to significantly impact the U.S. agricultural sector. While the USDA aims to boost farmer support, the ongoing trade war threatens to reduce export markets, creating a complex economic environment for American farmers."
+    "aiBlurb": "Recent announcements by the USDA and escalating trade tensions are poised to significantly impact the U.S. agricultural sector. While the USDA's new funding programs aim to bolster farmer support, the ongoing trade war threatens to reduce export markets, creating a complex economic environment for American farmers."
   },
   {
     "runTime": "2025-06-08T00:20:01+00:00",
@@ -203,7 +141,7 @@
     "predictions": [
       {
         "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
-        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will distribute $10 billion in economic assistance to farmers by March 21, 2025.",
+        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will distribute $10 billion in ecoonomic assistance to farmers by March 21, 2025.",
         "evidenceFound": true,
         "evidenceLinks": [
           "https://www.agweb.com/news/policy/ag-economy/rollins-promises-grain-farmers-improving-ag-economy-top-priority"
@@ -217,7 +155,7 @@
       },
       {
         "article": "Secretary Rollins Delivers Remarks at Commodity Classic, Announces Next Steps for Economic Disaster Relief",
-        "prediction": "The USDA will release $20 billion in disaster relief funds by the end of the second quarter of 2025.",
+        "prediction": "The USDA's will release $20 billion in disaster relief funds by the end of the second quarter of 2025.",
         "evidenceFound": false,
         "evidenceLinks": []
       }
@@ -249,30 +187,5 @@
     ],
     "aiHeadline": "USDA Initiatives and Trade Tensions Shape U.S. Agricultural Landscape",
     "aiBlurb": "Recent announcements by USDA Secretary Rollins and escalating trade tensions are poised to significantly impact the U.S. agricultural economy. Key programs are set to receive funding boosts, while new tariffs threaten export markets."
-  },
-  {
-    "runTime": "2025-06-08T00:05:02+00:00",
-    "predictions": [
-      {
-        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
-        "prediction": "The USDA's release of funds for the Environmental Quality Incentive Program and other conservation programs will lead to a measurable increase in applications for these programs by at least 10% within the next month.",
-        "evidenceFound": false,
-        "evidenceLinks": []
-      },
-      {
-        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
-        "prediction": "The imposition of new tariffs by the U.S. and retaliatory tariffs by China, Canada, and Mexico will result in a decrease in U.S. agricultural exports to these countries by at least 15% within the next two months.",
-        "evidenceFound": false,
-        "evidenceLinks": []
-      },
-      {
-        "article": "Secretary Rollins Delivers Remarks at Commodity Classic, Announces Next Steps for Economic Disaster Relief",
-        "prediction": "The announcement of the Emergency Commodity Assistance Program (ECAP) will lead to a 20% increase in emergency aid applications from farmers within the next month.",
-        "evidenceFound": false,
-        "evidenceLinks": []
-      }
-    ],
-    "aiHeadline": "USDA Initiatives and Trade Tensions Set to Reshape U.S. Agricultural Landscape",
-    "aiBlurb": "Recent announcements by the USDA and escalating trade tensions are poised to significantly impact the U.S. agricultural sector. With new funding programs and tariffs in play, the coming months will be critical for farmers navigating these changes."
   }
 ]
