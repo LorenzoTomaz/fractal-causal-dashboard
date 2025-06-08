@@ -1,15 +1,13 @@
 [
   {
-    "runTime": "2025-06-08T11:40:02+00:00",
+    "runTime": "2025-06-08T19:40:02+00:00",
     "predictions": [
       {
-        "article": "Trade war escalation: Midwest farmers face uncertain future",
-        "prediction": "The imposition of new tariffs by the U.S. on Mexico, Canada, and China will lead to a decrease in U.S. agricultural exports to these countries by at least 10% within the next two months.",
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The USDA's release of funds for the Environmental Quality Incentive Program, Conservation Stewardship Program, and Agricultural Conservation Easement Program will lead to a 10% increase in participation in these programs by the end of the next quarter.",
         "evidenceFound": false,
         "evidenceLinks": []
       },
       {
         "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
-        "prediction": "Retaliatory tariffs from China, Canada, and Mexico will cause U.S. soybean and corn prices to drop by at least 5% within the next month.",
-        "evidenceFound": false,
-        "evid
+        "prediction": "The imposition of new tariffs by the U.S. and retaliatory tariffs by China, Canada, and Mexico will result i
