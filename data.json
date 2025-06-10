@@ -1,16 +1,16 @@
 [
   {
-    "runTime": "2025-06-09T23:40:03+00:00",
+    "runTime": "2025-06-10T00:05:02+00:00",
     "predictions": [
       {
         "article": "USDA Prepares to Protect Farmers in a Trade War",
-        "prediction": "The implementation of the Market Facilitation Program (MFP) will lead to direct payments to U.S. farmers within the next month to mitigate the impact of retaliatory tariffs.",
+        "prediction": "The implementation of the Market Facilitation Program (MFP) will lead to direct payments to U.S. farmers affected by retaliatory tariffs within the next month.",
         "evidenceFound": false,
         "evidenceLinks": []
       },
       {
         "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
-        "prediction": "China's countermeasures will result in a 10% increase in soymeal and rapeseed meal futures on the Dalian Commodities Exchange within two weeks.",
+        "prediction": "China's announced countermeasures will result in a 10% increase in soymeal and rapeseed meal futures on the Dalian Commodities Exchange within two weeks.",
         "evidenceFound": true,
         "evidenceLinks": [
-          "h
+          "https
