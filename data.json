@@ -1,13 +1,15 @@
 [
   {
-    "runTime": "2025-06-11T11:25:03+00:00",
+    "runTime": "2025-06-11T18:35:01+00:00",
     "predictions": [
       {
         "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
-        "prediction": "The imposition of tariffs by the U.S. on China, Canada, and Mexico will lead to a decrease in U.S. agricultural exports to these countries by at least 10% within the next month.",
+        "prediction": "U.S. agricultural export prices to China, Canada, and Mexico will decrease by at least 5% within the next month due to increased tariffs and market uncertainty.",
         "evidenceFound": false,
         "evidenceLinks": []
       },
       {
-        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
-        "prediction": "The USDA's release of funds for the Environmental Quality Incentive Program and other conservation programs will result in a 5% increase in applications for these programs within the 
+        "article": "USDA announces next steps for economic and disaster relief",
+        "prediction": "The USDA's economic assistance and disaster aid will lead to a 10% increase in applications for federal agricultural aid programs within the next two months.",
+        "evidenceFound": false,
+        "evidenceLi
