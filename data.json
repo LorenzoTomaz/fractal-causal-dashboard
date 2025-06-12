@@ -1,1 +1,252 @@
-[{"runTime": "2025-06-12T02:10:02+00:00", "predictions": [{"article": "Trade war escalation: Midwest farmers face uncertain future", "prediction": "Soybean and corn futures prices will decrease by at least 5% within the next month due to reduced export opportunities from trade tensions.", "evidenceFound": false, "evidenceLinks": []}, {"article": "U.S. agriculture is in crosshairs of China's tariff retaliation", "prediction": "U.S. agricultural export volumes to China will decline by at least 10% within the next two months as a result of retaliatory tariffs.", "evidenceFound": false, "evidenceLinks": []}, {"article": "US farmers face higher costs, fewer markets from tariffs", "prediction": "The cost of agricultural inputs for U.S. farmers wi
+[
+  {
+    "runTime": "2025-06-12T06:25:02+00:00",
+    "predictions": [
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "U.S. agricultural export volumes to China will decrease by at least 10% within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA Prepares to Protect Farmers in a Trade War",
+        "prediction": "The USDA will disburse at least $5 billion in aid to farmers affected by tariffs within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Farmers brace for impact as Trump plans to move forward with new tariffs",
+        "prediction": "The cost of agricultural inputs for U.S. farmers will rise by at least 5% within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Trade Tensions and USDA Interventions: Predicting Impacts on U.S. Agriculture",
+    "aiBlurb": "Recent developments in U.S.-China trade relations and USDA's response strategies are poised to significantly impact American agriculture. Predictions include a decrease in export volumes, increased input costs, and substantial aid disbursements."
+  },
+  {
+    "runTime": "2025-06-12T06:20:01+00:00",
+    "predictions": [
+      {
+        "article": "Governor Hochul Convenes Roundtable with New York Agriculture Industry on Global Competitiveness and Economic Resiliency",
+        "prediction": "The implementation of new tariffs on goods from Canada and Mexico will lead to an increase in the cost of agricultural inputs in New York, such as energy and fertilizer, by at least 10% within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The release of funds from the Environmental Quality Incentive Program and the Conservation Stewardship Program will result in a 5% increase in the adoption of conservation practices among U.S. farmers by the end of the month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "The imposition of retaliatory tariffs by China, Canada, and Mexico will cause U.S. agricultural export volumes to these countries to decrease by at least 15% within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Tariffs and Economic Aid: Predicting the Impact on U.S. Agriculture",
+    "aiBlurb": "Recent policy changes, including new tariffs and the release of conservation funds, are expected to significantly impact U.S. agriculture. Predictions suggest increased costs for New York farmers and a potential rise in conservation practices nationwide, while retaliatory tariffs may reduce export volumes."
+  },
+  {
+    "runTime": "2025-06-12T06:15:02+00:00",
+    "predictions": [
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "If China's tariff retaliation targets U.S. agricultural exports, the price of U.S. soybeans will decrease by at least 5% within the next month due to reduced demand from one of its largest importers.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "The imposition of new tariffs by the U.S. on Canadian and Mexican goods will lead to a 10% increase in the cost of imported agricultural products in the U.S. within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "China Readying Tariff Countermeasures on U.S. Agriculture",
+        "prediction": "The announcement of tariffs and countermeasures will cause a 15% reduction in U.S. agricultural export volumes to China within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Tariffs and Economic Aid: Predicting the Impact on U.S. Agriculture",
+    "aiBlurb": "Recent policy changes, including new tariffs and the release of conservation funds, are expected to significantly impact U.S. agriculture. Predictions suggest increased costs for New York farmers and a potential rise in conservation practices nationwide, while retaliatory tariffs may reduce export volumes."
+  },
+  {
+    "runTime": "2025-06-12T06:15:02+00:00",
+    "predictions": [
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "If China's tariff retaliation targets U.S. aricultural exports, the price of U.S. soybeans will decrease by at least 5% within the next month due to reduced demand from one of its largest importers.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "The imposition of new tariffs by the U.S. on Canadian and Mexican goods will lead to a 10% increase in the cost of imported agricultural products in the U.S. within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "China Readying Tariff Countermeasures on U.S. Agriculture",
+        "prediction": "The announcement of tariffs and countermeasures will cause a 15% reduction in U.S. agricultural export volumes to China within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Tariff Tensions Threaten U.S. Agriculture with Price and Export Volatility",
+    "aiBlurb": "Recent tariff announcements between the U.S. and China are poised to impact U.S. agricultural markets significantly, with potential decreases in soybean prices and increased import costs. Export volumes to China may also see a substantial decline."
+  },
+  {
+    "runTime": "2025-06-12T06:10:04+00:00",
+    "predictions": [
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is Top Priority",
+        "prediction": "The announcement of new USDA programs will lead to a 10% increase in grain production applications within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "The imposition of tariffs by China will result in a 5% decrease in U.S. agricultural exports to China within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Secretary Rollins Delivers Remarks at Commodity Classic",
+        "prediction": "The economic disaster relief measures announced will result in a 15% increase in farmer sentiment index within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "USDA Initiatives and Trade Tensions Shape U.S. Agriculture Outlook",
+    "aiBlurb": "Recent announcements by USDA Secretary Rollins and escalating trade tensions with China are poised to impact U.S. agriculture, with potential increases in grain production applications and shifts in export dynamics."
+  },
+  {
+    "runTime": "2025-06-12T06:05:02+00:00",
+    "predictions": [
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "Due to the escalation of the trade war and retaliatory tariffs, the price of key agricultural exports from the U.S. (such as soybeans and corn) will decrease by at least 10% within the next month as demand from China, Canada, and Mexico declines.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "The cost of agricultural inputs in the U.S. will increase by at least 5% within the next month due to the tariffs on imports from China, Canada, and Mexico, leading to higher production costs for U.S. farmers.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs, farm groups warn",
+        "prediction": "The U.S. agricultural sector will experience a reduction in export volumes by at least 15% within the next two months as a direct consequence of the retaliatory tariffs imposed by China, Canada, and Mexico.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Trade War Tariffs Threaten U.S. Agriculture with Price Drops and Export Reductions",
+    "aiBlurb": "Recent trade tensions and retaliatory tariffs are predicted to cause significant declines in U.S. agricultural export prices and volumes, while increasing input costs for farmers."
+  },
+  {
+    "runTime": "2025-06-12T06:00:05+00:00",
+    "predictions": [
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The announcement of the Emergency Commodity Assistance Program (ECAP) will lead to an increase in grain futures prices by at least 5% within a month as farmers anticipate financial relief.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "The announcement of China's countermeasures against U.S. tariffs will cause a decrease in U.S. soybean export volumes to China by at least 10% within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Secretary Rollins Delivers Remarks at Commodity Classic, Announces Next Steps for Economic Disaster Relief",
+        "prediction": "The distribution of $10 billion in economic assistance through ECAP will result in a 10% increase in applications for USDA programs within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Economic and Trade Policies Set to Impact U.S. Agriculture",
+    "aiBlurb": "Recent announcements from the USDA and ongoing trade tensions with China are poised to influence U.S. agricultural markets. The introduction of the Emergency Commodity Assistance Program and potential Chinese tariffs could reshape grain futures and export dynamics."
+  },
+  {
+    "runTime": "2025-06-12T05:55:01+00:00",
+    "predictions": [
+      {
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "The imposition of retaliatory tariffs by China, Canada, and Mexico will lead to a decrease in U.S. agricultural exports by at least 10% within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "The announcement of China's countermeasures will cause a 5% increase in the price of key agricultural commodities like soybeans and corn within a month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "US farmers face higher costs, fewer markets from tariffs",
+        "prediction": "The new tariffs will result in a 15% increase in input costs for U.S. farmers within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Tariff Tensions Threaten U.S. Agriculture: Exports and Costs in the Crosshairs",
+    "aiBlurb": "Recent escalations in trade tensions, marked by retaliatory tariffs from key trading partners, pose significant risks to the U.S. agricultural sector. Predictions indicate potential declines in exports and rising input costs, though evidence remains elusive."
+  },
+  {
+    "runTime": "2025-06-12T05:50:02+00:00",
+    "predictions": [
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "If China's tariff retaliation targets U.S. agricultural exports, the prices of affected U.S. agricultural commodities (e.g., soybeans, corn) will decrease by at least 5% within the next month due to reduced demand.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "USDA projects $49 billion agricultural trade deficit in 2025",
+        "prediction": "The projected $49 billion agricultural trade deficit will lead to increased lobbying by U.S. agricultural groups for government subsidies or relief packages within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Midwest farmers worry about costs of tariffs",
+        "prediction": "Concerns over tariffs among Midwest farmers will result in a10% increase in insurance claims related to trade disruptions within the next quarter.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "Tariff Tensions and Trade Deficits: U.S. Agriculture Faces Economic Challenges",
+    "aiBlurb": "Recent developments in U.S.-China trade relations and projected trade deficits are poised to impact U.S. agriculture, with potential price drops in commodities and increased lobbying for subsidies."
+  },
+  {
+    "runTime": "2025-06-12T05:45:03+00:00",
+    "predictions": [
+      {
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The announcement of new USDA programs aimed at improving the agricultural economy will lead to a 10% increase in grain futures prices within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation",
+        "prediction": "The anticipation of Chinese tariff retaliation will cause a15% decrease in U.S. agricultural export volumes to China within the next two months.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      },
+      {
+        "article": "Secretary Rollins Delivers Remarks at Commodity Classic",
+        "prediction": "The announcement of economic disaster relief measures cannounced will result in a 5% increase in farmer sentiment index within the next month.",
+        "evidenceFound": false,
+        "evidenceLinks": []
+      }
+    ],
+    "aiHeadline": "USDA Initiatives and Trade Tensions Shape Agricultural Outlook",
+    "aiBlurb": "Recent announcements by USDA Secretary Rollins and potential Chinese tariff retaliations are expected to impact grain futures, export volumes, and farmer sentiment in the coming months."
+  }
+]
