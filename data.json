@@ -1,13 +1,15 @@
 [
   {
-    "runTime": "2025-06-12T18:15:04+00:00",
+    "runTime": "2025-06-13T00:05:01+00:00",
     "predictions": [
       {
-        "article": "USDA Prepares to Protect Farmers in a Trade War - AgWeb",
-        "prediction": "The implementation of new tariffs by the U.S. on imports from Canada, Mexico, and China will lead to a 10% increase in the cost of farm machinery in the U.S. within the next month due to disrupted supply chains and increased material costs.",
+        "article": "Trade war escalates as retaliatory tariffs hit struggling farm economy",
+        "prediction": "The imposition of tariffs by the U.S. on China, Canada, and Mexico will lead to a 10% decrease in U.S. agricultural exports to these countries within the next month.",
         "evidenceFound": false,
         "evidenceLinks": []
       },
       {
-        "article": "U.S. agriculture is in crosshairs of China's tariff retaliation | AGDAILY",
-        "prediction": "China's retaliatory tariffs on U.S. agricultural products will cause a 5% drop in U.S. soybean exports to China within the next mon
+        "article": "Rollins Promises Grain Farmers Improving Ag Economy is a Top Priority",
+        "prediction": "The USDA's Emergency Commodity Assistance Program (ECAP) will distribute at least $10 billion in economic aid to farmers by the end of March 2025.",
+        "evidenceFound": false,
+        "evide
