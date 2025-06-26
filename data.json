@@ -1,92 +1,68 @@
 [
   {
-    "id": 15910825469,
-    "name": "pages build and deployment",
-    "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T19:30 UTC)",
-    "timestamp": "2025-06-26T19:31:22Z",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15910825469",
-    "aiHeadline": "Workflow Run: Automated blog update",
-    "aiBlurb": "Summary: Automated blog update with the latest workflow runs and AI summaries (2025-06-26T19:30 UTC) (Run at 2025-06-26T19:31:22Z)"
+    "run_id": 15912932500,
+    "final_json": "N/A",
+    "aiHeadline": "Workflow Run: 15912932500",
+    "aiBlurb": "Summary: Workflow run 15912932500 completed."
   },
   {
-    "id": 15910278071,
-    "name": "pages build and deployment",
-    "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T19:00 UTC)",
-    "timestamp": "2025-06-26T19:01:47Z",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15910278071",
-    "aiHeadline": "Workflow Run: Automated blog update",
-    "aiBlurb": "Summary: Automated blog update with the latest workflow runs and AI summaries (2025-06-26T19:00 UTC) (Run at 2025-06-26T19:01:47Z)"
+    "run_id": 15910825469,
+    "final_json": "N/A",
+    "aiHeadline": "Workflow Run: 15910825469",
+    "aiBlurb": "Summary: Workflow run 15910825469 completed."
   },
   {
-    "id": 15681421821,
-    "name": "pages build and deployment",
-    "message": "Automated update: latest causal news scan results (2025-06-16T12:54 UTC)",
-    "timestamp": "2025-06-16T12:55:28Z",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15681421821",
-    "aiHeadline": "Workflow Run: Causal News Scan Update",
-    "aiBlurb": "Summary: Automated update with the latest causal news scan results (2025-06-16T12:54 UTC) (Run at 2025-06-16T12:55:28Z)"
+    "run_id": 15910278071,
+    "final_json": "N/A",
+    "aiHeadline": "Workflow Run: 15910278071",
+    "aiBlurb": "Summary: Workflow run 15910278071 completed."
   },
   {
-    "id": 15677535923,
-    "name": "pages build and deployment",
-    "message": "Update data.json with latest causal news scan results (auto, 2025-06-16T09:48 UTC)",
-    "timestamp": "2025-06-16T09:49:33Z",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15677535923",
-    "aiHeadline": "Workflow Run: Causal News Scan Auto Update",
-    "aiBlurb": "Summary: Auto update of data.json with the latest causal news scan results (2025-06-16T09:48 UTC) (Run at 2025-06-16T09:49:33Z)"
+    "run_id": 15681421821,
+    "final_json": "N/A",
+    "aiHeadline": "Workflow Run: 15681421821",
+    "aiBlurb": "Summary: Workflow run 15681421821 completed."
   },
   {
-    "id": 15671666952,
-    "name": "pages build and deployment",
-    "message": "Update data.json with latest causal news scan results",
-    "timestamp": "2025-06-16T04:14:07Z",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15671666952",
-    "aiHeadline": "Workflow Run: Causal News Scan Update",
-    "aiBlurb": "Summary: Update of data.json with the latest causal news scan results (Run at 2025-06-16T04:14:07Z)"
+    "run_id": 15677535923,
+    "final_json": "N/A",
+    "aiHeadline": "Workflow Run: 15677535923",
+    "aiBlurb": "Summary: Workflow run 15677535923 completed."
   },
   {
-    "id": 15663790703,
-    "name": "pages build and deployment",
-    "message": "Update data.json with latest causal news predictions and AI summaries (auto commit)",
-    "timestamp": "2025-06-15T13:38:23Z",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15663790703",
-    "aiHeadline": "Workflow Run: Causal News Predictions & AI Summaries",
-    "aiBlurb": "Summary: Auto commit of data.json with the latest causal news predictions and AI summaries (Run at 2025-06-15T13:38:23Z)"
+    "run_id": 15671666952,
+    "final_json": "N/A",
+    "aiHeadline": "Workflow Run: 15671666952",
+    "aiBlurb": "Summary: Workflow run 15671666952 completed."
   },
   {
-    "id": 15659974444,
-    "name": "pages build and deployment",
-    "message": "Update data.json with latest causal news scan results (auto, 2025-06-15T05:36:04Z)",
-    "timestamp": "2025-06-15T05:37:39Z",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15659974444",
-    "aiHeadline": "Workflow Run: Causal News Scan Auto Update",
-    "aiBlurb": "Summary: Auto update of data.json with the latest causal news scan results (2025-06-15T05:36:04Z) (Run at 2025-06-15T05:37:39Z)"
+    "run_id": 15663790703,
+    "final_json": "N/A",
+    "aiHeadline": "Workflow Run: 15663790703",
+    "aiBlurb": "Summary: Workflow run 15663790703 completed."
   },
   {
-    "id": 15655913135,
-    "name": "pages build and deployment",
-    "message": "Update data.json with latest causal news scan results (auto, 2025-06-14T20:36 UTC)",
-    "timestamp": "2025-06-14T20:38:51Z",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15655913135",
-    "aiHeadline": "Workflow Run: Causal News Scan Auto Update",
-    "aiBlurb": "Summary: Auto update of data.json with the latest causal news scan results (2025-06-14T20:36 UTC) (Run at 2025-06-14T20:38:51Z)"
+    "run_id": 15659974444,
+    "final_json": "N/A",
+    "aiHeadline": "Workflow Run: 15659974444",
+    "aiBlurb": "Summary: Workflow run 15659974444 completed."
   },
   {
-    "id": 15623367089,
-    "name": "pages build and deployment",
-    "message": "Update data.json with latest causal news scan results (auto, 2025-06-13T00:06 UTC)",
-    "timestamp": "2025-06-13T00:10:44Z",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15623367089",
-    "aiHeadline": "Workflow Run: Causal News Scan Auto Update",
-    "aiBlurb": "Summary: Auto update of data.json with the latest causal news scan results (2025-06-13T00:06 UTC) (Run at 2025-06-13T00:10:44Z)"
+    "run_id": 15655913135,
+    "final_json": "N/A",
+    "aiHeadline": "Workflow Run: 15655913135",
+    "aiBlurb": "Summary: Workflow run 15655913135 completed."
   },
   {
-    "id": 15618143097,
-    "name": "pages build and deployment",
-    "message": "Update data.json with latest causal news scan results (auto, 2025-06-12T18:18 UTC)",
-    "timestamp": "2025-06-12T18:21:10Z",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15618143097",
-    "aiHeadline": "Workflow Run: Causal News Scan Auto Update",
-    "aiBlurb": "Summary: Auto update of data.json with the latest causal news scan results (2025-06-12T18:18 UTC) (Run at 2025-06-12T18:21:10Z)"
+    "run_id": 15623367089,
+    "final_json": "N/A",
+    "aiHeadline": "Workflow Run: 15623367089",
+    "aiBlurb": "Summary: Workflow run 15623367089 completed."
+  },
+  {
+    "run_id": 15618143097,
+    "final_json": "N/A",
+    "aiHeadline": "Workflow Run: 15618143097",
+    "aiBlurb": "Summary: Workflow run 15618143097 completed."
   }
 ]
