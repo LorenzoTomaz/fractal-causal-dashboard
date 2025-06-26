@@ -1,13 +1,15 @@
 [
   {
-    "runTime": "2025-06-16T12:50:02+00:00",
-    "predictions": [
-      {
-        "article": "Tariffs threaten Indigenous farmers, economic sovereignty says National Circle for Indigenous Agriculture and Food",
-        "prediction": "The imposition of U.S. tariffs on Canadian goods will lead to a 10% decrease in the export volume of Canadian agricultural products to the U.S. within the next month.",
-        "evidenceFound": false,
-        "evidenceLinks": []
-      },
-      {
-        "article": "Government of Canada invests in agricultural manufacturing and agri-food sectors in Saskatchewan",
-        "prediction": "The $3.2 million investment in Saskatchewan's agri-food processing and manufacturing will result in a 5% increase in local 
+    "runTime": "2025-06-16T12:55:29Z",
+    "commit": "a0405c7cbffca9de0c333bf481a0b5c744b5893b",
+    "message": "Automated update: latest causal news scan results (2025-06-16T12:54 UTC)",
+    "aiHeadline": "Automated Causal News Update (2025-06-16)",
+    "aiBlurb": "Latest causal news scan results have been updated. Check out the new predictions and evidence!",
+    "url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15681421821"
+  },
+  {
+    "runTime": "2025-06-16T09:49:34Z",
+    "commit": "768c6c1e22d7f394c9fbc6304088c15eb52238a7",
+    "message": "Update data.json with latest causal news scan results (auto, 2025-06-16T09:48 UTC)",
+    "aiHeadline": "Causal News Scan (2025-06-16, 09:48 UTC)",
+    "aiBlurb": "
