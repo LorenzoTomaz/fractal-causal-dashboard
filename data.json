@@ -1,15 +1,72 @@
 [
   {
-    "run_id": 15943916988,
-    "commit": "25ef497a7c3ae9f0375fdccf1be3cb40d640c7c0",
-    "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-28T12:00 UTC)",
-    "timestamp": "2025-06-28T12:02:31Z",
-    "aiHeadline": "Workflow Run 15943916988 completed",
-    "aiBlurb": "Workflow run 15943916988 finished at Jun 28, 2025 12:02 UTC. Commit: 25ef497a7c3ae9f0375fdccf1be3cb40d640c7c0. Message: Automated blog update: latest workflow runs and AI summaries (2025-06-28T12:00 UTC)"
+    "id": 15945470277,
+    "created_at": "2025-06-28T15:13:06Z",
+    "aiHeadline": "Workflow Run on 2025-06-28",
+    "aiBlurb": "Summary: Automated blog update: latest workflow runs and AI summaries (2025-06-28T15:12 UTC)",
+    "commitMessage": "Automated blog update: latest workflow runs and AI summaries (2025-06-28T15:12 UTC)"
   },
   {
-    "run_id": 15937381391,
-    "commit": "1a0631cca8dad146bc3033df3a6f65e32840e276",
-    "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T22:48 UTC)",
-    "timestamp": "2025-06-27T22:48:46Z",
-  
+    "id": 15943916988,
+    "created_at": "2025-06-28T12:02:32Z",
+    "aiHeadline": "Workflow Run on 2025-06-28",
+    "aiBlurb": "Summary: Automated blog update: latest workflow runs and AI summaries (2025-06-28T12:00 UTC)",
+    "commitMessage": "Automated blog update: latest workflow runs and AI summaries (2025-06-28T12:00 UTC)"
+  },
+  {
+    "id": 15937381391,
+    "created_at": "2025-06-27T22:48:47Z",
+    "aiHeadline": "Workflow Run on 2025-06-27",
+    "aiBlurb": "Summary: Automated blog update: latest workflow runs and AI summaries (2025-06-27T22:48 UTC)",
+    "commitMessage": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T22:48 UTC)"
+  },
+  {
+    "id": 15922821498,
+    "created_at": "2025-06-27T09:19:10Z",
+    "aiHeadline": "Workflow Run on 2025-06-27",
+    "aiBlurb": "Summary: Automated blog update: latest workflow runs and AI summaries (2025-06-27T09:18 UTC)",
+    "commitMessage": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T09:18 UTC)"
+  },
+  {
+    "id": 15917340969,
+    "created_at": "2025-06-27T03:18:36Z",
+    "aiHeadline": "Workflow Run on 2025-06-27",
+    "aiBlurb": "Summary: Automated blog update: latest workflow runs and AI summaries (2025-06-27T03:18 UTC)",
+    "commitMessage": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T03:18 UTC)"
+  },
+  {
+    "id": 15914740166,
+    "created_at": "2025-06-26T23:42:50Z",
+    "aiHeadline": "Workflow Run on 2025-06-26",
+    "aiBlurb": "Summary: Automated blog update: latest workflow runs and AI summaries (2025-06-26T23:42 UTC)",
+    "commitMessage": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T23:42 UTC)"
+  },
+  {
+    "id": 15912932500,
+    "created_at": "2025-06-26T21:32:07Z",
+    "aiHeadline": "Workflow Run on 2025-06-26",
+    "aiBlurb": "Summary: Automated blog update: latest workflow runs and AI summaries (2025-06-26T21:30 UTC)",
+    "commitMessage": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T21:30 UTC)"
+  },
+  {
+    "id": 15910825469,
+    "created_at": "2025-06-26T19:31:24Z",
+    "aiHeadline": "Workflow Run on 2025-06-26",
+    "aiBlurb": "Summary: Automated blog update: latest workflow runs and AI summaries (2025-06-26T19:30 UTC)",
+    "commitMessage": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T19:30 UTC)"
+  },
+  {
+    "id": 15910278071,
+    "created_at": "2025-06-26T19:01:49Z",
+    "aiHeadline": "Workflow Run on 2025-06-26",
+    "aiBlurb": "Summary: Automated blog update: latest workflow runs and AI summaries (2025-06-26T19:00 UTC)",
+    "commitMessage": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T19:00 UTC)"
+  },
+  {
+    "id": 15681421821,
+    "created_at": "2025-06-16T12:55:29Z",
+    "aiHeadline": "Causal News Scan on 2025-06-16",
+    "aiBlurb": "Automated scan results for 2025-06-16.",
+    "commitMessage": "Automated update: latest causal news scan results (2025-06-16T12:54 UTC)"
+  }
+]
