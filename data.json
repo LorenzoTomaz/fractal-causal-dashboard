@@ -1,1 +1,82 @@
-[{"run_id":15922821498,"final_json":"N/A","aiHeadline":"Workflow Run: 15922821498","aiBlurb":"Summary: Workflow run 15922821498 completed successfully."},{"run_id":15917340969,"final_json":"N/A","aiHeadline":"Workflow Run: 15917340969","aiBlurb":"Summary: Workflow run 15917340969 completed successfully."},{"run_id":15914740166, "final_json":"N/A", "aiHeadline":"Workflow Run: 15914740166", "aiBlurb":"Summary: Workflow run 15914740166 completed successfully."},{"run_id":15912932500,"final_json":"N/A","aiHeadline":"Workflow Run: 15912932500","aiBlurb":"Summary: Workflow run 15912932500 completed successfully."},{"run_id":15910825469,"final_json":"N/A","aiHeadline":"Workflow Run: 15910825469","aiBlurb":"Summary: Workflow run 15910825469 completed successfully."},{"run_id":15910278071,"final_json":"N/A","aiHeadline":"Workflow Run: 15910278071","aiBlurb":"Summary: Workflow run 15910278071 completed successfully."},{"run_id":15681421821,"final_json":"N/A","aiHeadline":"Workflow Run: 15681421821","aiBlurb":"Summary: Workflow run 15681421821 completed successfully."},{"run_id":15677535923,"final_json":"N/A","aiHeadline":"Workflow Run: 15677535923","aiBlurb":"Summary: Workflow run 15677535923 completed successfully."},{"run_id":15671666952,"final_json":"N/A","aiHeadline":"Workflow Run: 15671666952","aiBlurb":"Summary: Workflow run 15671666952 completed successfully."},{"run_id":15663790703,"final_json":"N/A","aiHeadline":"Workflow Run: 15663790703","aiBlurb":"Summary: Workflow run 15663790703 completed successfully."},{"run_id":15659974444,"final_json":"N/A","aiHeadline":"Workflow Run: 15659974444","aiBlurb":"Summary: Workflow run 15659974444 completed successfully."}]
+[
+  {
+    "run_id": 15937381391,
+    "commit": "1a0631cca8dad146bc3033df3a6f65e32840e276",
+    "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T22:48 UTC)",
+    "timestamp": "2025-06-27T22:48:46Z",
+    "aiHeadline": "Workflow Run 15937381391 completed",
+    "aiBlurb": "Workflow run 15937381391 finished at 2025-06-27 22:48. Commit: 1a0631cca8dad146bc3033df3a6f65e32840e276. Message: Automated blog update: latest workflow runs and AI summaries (2025-06-27T22:48 UTC)"
+  },
+  {
+    "run_id": 15922821498,
+    "commit": "b29215cb500274ffc5abba78e5fce2b1c2672d2f",
+    "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T09:18 UTC)",
+    "timestamp": "2025-06-27T09:19:08Z",
+    "aiHeadline": "Workflow Run 15922821498 completed",
+    "aiBlurb": "Workflow run 15922821498 finished at 2025-06-27 09:19. Commit: b29215cb500274ffc5abba78e5fce2b1c2672d2f. Message: Automated blog update: latest workflow runs and AI summaries (2025-06-27T09:18 UTC)"
+  },
+  {
+    "run_id": 15917340969,
+    "commit": "066c8e2ab93b212236915b9b4a861a7ca2e23f09",
+    "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T03:18 UTC)",
+    "timestamp": "2025-06-27T03:18:34Z",
+    "aiHeadline": "Workflow Run 15917340969 completed",
+    "aiBlurb": "Workflow run 15917340969 finished at 2025-06-27 03:18. Commit: 066c8e2ab93b212236915b9b4a861a7ca2e23f09. Message: Automated blog update: latest workflow runs and AI summaries (2025-06-27T03:18 UTC)"
+  },
+  {
+    "run_id": 15914740166,
+    "commit": "5981dc1f06ce4e851fafacbeb6edf223fbd0b786",
+    "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T23:42 UTC)",
+    "timestamp": "2025-06-26T23:42:48Z",
+    "aiHeadline": "Workflow Run 15914740166 completed",
+    "aiBlurb": "Workflow run 15914740166 finished at 2025-06-26 23:42. Commit: 5981dc1f06ce4e851fafacbeb6edf223fbd0b786. Message: Automated blog update: latest workflow runs and AI summaries (2025-06-26T23:42 UTC)"
+  },
+  {
+    "run_id": 15912932500,
+    "commit": "12ff717c0918a6758a524592912c7797d135f16c",
+    "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T21:30 UTC)",
+    "timestamp": "2025-06-26T21:32:06Z",
+    "aiHeadline": "Workflow Run 15912932500 completed",
+    "aiBlurb": "Workflow run 15912932500 finished at 2025-06-26 21:32. Commit: 12ff717c0918a6758a524592912c7797d135f16c. Message: Automated blog update: latest workflow runs and AI summaries (2025-06-26T21:30 UTC)"
+  },
+  {
+    "run_id": 15910825469,
+    "commit": "601eec0b34831d03ce111838842613ec94fb6f3f",
+    "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T19:30 UTC)",
+    "timestamp": "2025-06-26T19:31:22Z",
+    "aiHeadline": "Workflow Run 15910825469 completed",
+    "aiBlurb": "Workflow run 15910825469 finished at 2025-06-26 19:31. Commit: 601eec0b34831d03ce111838842613ec94fb6f3f. Message: Automated blog update: latest workflow runs and AI summaries (2025-06-26T19:30 UTC)"
+  },
+  {
+    "run_id": 15910278071,
+    "commit": "7eacabd05f5dfd3ebb08c79faa9555cd3bdf016f",
+    "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T19:00 UTC)",
+    "timestamp": "2025-06-26T19:01:47Z",
+    "aiHeadline": "Workflow Run 15910278071 completed",
+    "aiBlurb": "Workflow run 15910278071 finished at 2025-06-26 19:01. Commit: 7eacabd05f5dfd3ebb08c79faa9555cd3bdf016f. Message: Automated blog update: latest workflow runs and AI summaries (2025-06-26T19:00 UTC)"
+  },
+  {
+    "run_id": 15681421821,
+    "commit": "a0405c7cbffca9de0c333bf481a0b5c744b5893b",
+    "message": "Automated update: latest causal news scan results (2025-06-16T12:54 UTC)",
+    "timestamp": "2025-06-16T12:55:28Z",
+    "aiHeadline": "Workflow Run 15681421821 completed",
+    "aiBlurb": "Workflow run 15681421821 finished at 2025-06-16 12:55. Commit: a0405c7cbffca9de0c333bf481a0b5c744b5893b. Message: Automated update: latest causal news scan results (2025-06-16T12:54 UTC)"
+  },
+  {
+    "run_id": 15677535923,
+    "commit": "768c6c1e22d7f394c9fbc6304088c15eb52238a7",
+    "message": "Update data.json with latest causal news scan results (auto, 2025-06-16T09:48 UTC)",
+    "timestamp": "2025-06-16T09:49:33Z",
+    "aiHeadline": "Workflow Run 15677535923 completed",
+    "aiBlurb": "Workflow run 15677535923 finished at 2025-06-16 09:49. Commit: 768c6c1e22d7f394c9fbc6304088c15eb52238a7. Message: Update data.json with latest causal news scan results (auto, 2025-06-16T09:48 UTC)"
+  },
+  {
+    "run_id": 15671666952,
+    "commit": "0367cf1200a85170711aa50adba4e9f41b323cbc",
+    "message": "Update data.json with latest causal news scan results",
+    "timestamp": "2025-06-16T04:14:07Z",
+    "aiHeadline": "Workflow Run 15671666952 completed",
+    "aiBlurb": "Workflow run 15671666952 finished at 2025-06-16 04:14. Commit: 0367cf1200a85170711aa50adba4e9f41b323cbc. Message: Update data.json with latest causal news scan results"
+  }
+]
