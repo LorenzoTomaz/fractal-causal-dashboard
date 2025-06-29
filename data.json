@@ -1,1 +1,82 @@
-[{"id": 15950443824, "sha": "6c44afdf3d58fae60649e43b53615bfbf2f7bf77", "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-29T02:06 UTC)", "timestamp": "2025-06-29T02:06:47Z", "aiHeadline": "Workflow Run 15950443824 Completed", "aiBlurb": "Workflow run 15950443824 finished successfully at 2025-06-29T02:06:47Z. Commit message: Automated blog update: latest workflow runs and AI summaries (2025-06-29T02:06 UTC)"}, {"id": 15948926870, "sha": "66225f36a49ccd491dd7c028838567597e35ce2f", "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-28T22:48 UTC)", "timestamp": "2025-06-28T22:48:53Z", "aiHeadline": "Workflow Run 15948926870 Completed", "aiBlurb": "Workflow run 15948926870 finished successfully at 2025-06-28T22:48:53Z. Commit message: Automated blog update: latest workflow runs and AI summaries (2025-06-28T22:48 UTC)"}, {"id": 15945993762, "sha": "9ceb41752845481515897660c17a81f9ead2c530", "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-28T16:18 UTC)", "timestamp": "2025-06-28T16:19:01Z", "aiHeadline": "Workflow Run 15945993762 Completed", "aiBlurb": "Workflow run 15945993762 finished successfully at 2025-06-28T16:19:01Z. Commit message: Automated blog update: latest workflow runs and AI summaries (2025-06-28T16:18 UTC)"}, {"id": 15945470277, "sha": "035056aabf91292dba5b7e2ffb6d950cb47eb061", "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-28T15:12 UTC)", "timestamp": "2025-06-28T15:13:05Z", "aiHeadline": "Workflow Run 15945470277 Completed", "aiBlurb": "Workflow run 15945470277 finished successfully at 2025-06-28T15:13:05Z. Commit message: Automated blog update: latest workflow runs and AI summaries (2025-06-28T15:12 UTC)"}, {"id": 15943916988, "sha": "25ef497a7c3ae9f0375fdccf1be3cb40d640c7c0", "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-28T12:00 UTC)", "timestamp": "2025-06-28T12:02:31Z", "aiHeadline": "Workflow Run 15943916988 Completed", "aiBlurb": "Workflow run 15943916988 finished successfully at 2025-06-28T12:02:31Z. Commit message: Automated blog update: latest workflow runs and AI summaries (2025-06-28T12:00 UTC)"}, {"id": 15937381391, "sha": "1a0631cca8dad146bc3033df3a6f65e32840e276", "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T22:48 UTC)", "timestamp": "2025-06-27T22:48:46Z", "aiHeadline": "Workflow Run 15937381391 Completed", "aiBlurb": "Workflow run 15937381391 finished successfully at 2025-06-27T22:48:46Z. Commit message: Automated blog update: latest workflow runs and AI summaries (2025-06-27T22:48 UTC)"}, {"id": 15922821498, "sha": "b29215cb500274ffc5abba78e5fce2b1c2672d2f", "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T09:18 UTC)", "timestamp": "2025-06-27T09:19:08Z", "aiHeadline": "Workflow Run 15922821498 Completed", "aiBlurb": "Workflow run 15922821498 finished successfully at 2025-06-27T09:19:08Z. Commit message: Automated blog update: latest workflow runs and AI summaries (2025-06-27T09:18 UTC)"}, {"id": 15917340969, "sha": "066c8e2ab93b212236915b9b4a861a7ca2e23f09", "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T03:18 UTC)", "timestamp": "2025-06-27T03:18:34Z", "aiHeadline": "Workflow Run 15917340969 Completed", "aiBlurb": "Workflow run 15917340969 finished successfully at 2025-06-27T03:18:34Z. Commit message: Automated blog update: latest workflow runs and AI summaries (2025-06-27T03:18 UTC)"}, {"id": 15914740166, "sha": "5981dc1f06ce4e851fafacbeb6edf223fbd0b786", "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T23:42 UTC)", "timestamp": "2025-06-26T23:42:48Z", "aiHeadline": "Workflow Run 15914740166 Completed", "aiBlurb": "Workflow run 15914740166 finished successfully at 2025-06-26T23:42:48Z. Commit message: Automated blog update: latest workflow runs and AI summaries (2025-06-26T23:42 UTC)"}, {"id": 15912932500, "sha": "12ff717c0918a6758a524592912c7797d135f16c", "message": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T21:30 UTC)", "timestamp": "2025-06-26T21:32:06Z", "aiHeadline": "Workflow Run 15912932500 Completed", "aiBlurb": "Workflow run 15912932500 finished successfully at 2025-06-26T21:32:06Z. Commit message: Automated blog update: latest workflow runs and AI summaries (2025-06-26T21:30 UTC)"}]
+[
+  {
+    "id": 15951605917,
+    "created_at": "2025-06-29T04:42:53Z",
+    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-29T04:42 UTC)",
+    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15951605917",
+    "aiHeadline": "Workflow Run 15951605917 - 2025-06-29 04:42 UTC",
+    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15951605917"
+  },
+  {
+    "id": 15950443824,
+    "created_at": "2025-06-29T02:06:48Z",
+    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-29T02:06 UTC)",
+    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15950443824",
+    "aiHeadline": "Workflow Run 15950443824 - 2025-06-29 02:06 UTC",
+    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15950443824"
+  },
+  {
+    "id": 15948926870,
+    "created_at": "2025-06-28T22:48:54Z",
+    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-28T22:48 UTC)",
+    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15948926870",
+    "aiHeadline": "Workflow Run 15948926870 - 2025-06-28 22:48 UTC",
+    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15948926870"
+  },
+  {
+    "id": 15945993762,
+    "created_at": "2025-06-28T16:19:02Z",
+    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-28T16:18 UTC)",
+    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15945993762",
+    "aiHeadline": "Workflow Run 15945993762 - 2025-06-28 16:19 UTC",
+    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15945993762"
+  },
+  {
+    "id": 15945470277,
+    "created_at": "2025-06-28T15:13:06Z",
+    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-28T15:12 UTC)",
+    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15945470277",
+    "aiHeadline": "Workflow Run 15945470277 - 2025-06-28 15:13 UTC",
+    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15945470277"
+  },
+  {
+    "id": 15943916988,
+    "created_at": "2025-06-28T12:02:32Z",
+    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-28T12:00 UTC)",
+    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15943916988",
+    "aiHeadline": "Workflow Run 15943916988 - 2025-06-28 12:02 UTC",
+    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15943916988"
+  },
+  {
+    "id": 15937381391,
+    "created_at": "2025-06-27T22:48:47Z",
+    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T22:48 UTC)",
+    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15937381391",
+    "aiHeadline": "Workflow Run 15937381391 - 2025-06-27 22:48 UTC",
+    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15937381391"
+  },
+  {
+    "id": 15922821498,
+    "created_at": "2025-06-27T09:19:10Z",
+    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T09:18 UTC)",
+    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15922821498",
+    "aiHeadline": "Workflow Run 15922821498 - 2025-06-27 09:19 UTC",
+    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15922821498"
+  },
+  {
+    "id": 15917340969,
+    "created_at": "2025-06-27T03:18:36Z",
+    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T03:18 UTC)",
+    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15917340969",
+    "aiHeadline": "Workflow Run 15917340969 - 2025-06-27 03:18 UTC",
+    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15917340969"
+  },
+  {
+    "id": 15914740166,
+    "created_at": "2025-06-26T23:42:50Z",
+    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T23:42 UTC)",
+    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15914740166",
+    "aiHeadline": "Workflow Run 15914740166 - 2025-06-26 23:42 UTC",
+    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15914740166"
+  }
+]
