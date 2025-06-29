@@ -1,5 +1,13 @@
 [
   {
+    "id": 15954086377,
+    "created_at": "2025-06-29T10:07:19Z",
+    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-29T10:06 UTC)",
+    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15954086377",
+    "aiHeadline": "Workflow Run 15954086377 - 2025-06-29 10:07 UTC",
+    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15954086377"
+  },
+  {
     "id": 15951605917,
     "created_at": "2025-06-29T04:42:53Z",
     "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-29T04:42 UTC)",
@@ -48,14 +56,6 @@
     "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15943916988"
   },
   {
-    "id": 15937381391,
-    "created_at": "2025-06-27T22:48:47Z",
-    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T22:48 UTC)",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15937381391",
-    "aiHeadline": "Workflow Run 15937381391 - 2025-06-27 22:48 UTC",
-    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15937381391"
-  },
-  {
     "id": 15922821498,
     "created_at": "2025-06-27T09:19:10Z",
     "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-27T09:18 UTC)",
@@ -70,13 +70,5 @@
     "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15917340969",
     "aiHeadline": "Workflow Run 15917340969 - 2025-06-27 03:18 UTC",
     "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15917340969"
-  },
-  {
-    "id": 15914740166,
-    "created_at": "2025-06-26T23:42:50Z",
-    "commit_message": "Automated blog update: latest workflow runs and AI summaries (2025-06-26T23:42 UTC)",
-    "html_url": "https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15914740166",
-    "aiHeadline": "Workflow Run 15914740166 - 2025-06-26 23:42 UTC",
-    "aiBlurb": "Automated workflow run completed successfully. See details: https://github.com/LorenzoTomaz/fractal-causal-dashboard/actions/runs/15914740166"
   }
 ]
