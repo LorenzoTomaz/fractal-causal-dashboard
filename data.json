@@ -1,1 +1,62 @@
-[{"run_id":15962058371,"final_json":"No final JSON output available.","aiHeadline":"Workflow Run 15962058371 - 2025-06-30 01:55 UTC","aiBlurb":"Automated summary for workflow run 15962058371. See details and logs at the GitHub Actions page."},{"run_id":15961772776,"final_json":"No final JSON output available.","aiHeadline":"Workflow Run 15961772776 - 2025-06-30 01:30 UTC","aiBlurb":"Automated summary for workflow run 15961772776. See details and logs at the GitHub Actions page."},{"run_id":15961493574,"final_json":"No final JSON output available.","aiHeadline":"Workflow Run 15961493574 - 2025-06-30 01:06 UTC","aiBlurb":"Automated summary for workflow run 15961493574. See details and logs at the GitHub Actions page."},{"run_id":15960627225,"final_json":"No final JSON output available.","aiHeadline":"Workflow Run 15960627225 - 2025-06-29 23:42 UTC","aiBlurb":"Automated summary for workflow run 15960627225. See details and logs at the GitHub Actions page."},{"run_id":15959439003,"final_json":"No final JSON output available.","aiHeadline":"Workflow Run 15959439003 - 2025-06-29 21:13 UTC","aiBlurb":"Automated summary for workflow run 15959439003. See details and logs at the GitHub Actions page."},{"run_id":15954086377,"final_json":"No final JSON output available.","aiHeadline":"Workflow Run 15954086377 - 2025-06-29 10:07 UTC","aiBlurb":"Automated summary for workflow run 15954086377 . See details and logs at the GitHub Actions page."},{"run_id":15951605917,"final_json":"No final JSON output available.","aiHeadline":"Workflow Run 15951605917 - 2025-06-29 04:42 UTC","aiBlurb":"Automated summary for workflow run 15951605917. See details and logs at the GitHub Actions page."},{"run_id":15950443824,"final_json":"No final JSON output available.","aiHeadline":"Workflow Run 15950443824 - 2025-06-29 02:06 UTC","aiBlurb":"Automated summary for workflow run 15950443824. See details and logs at the GitHub Actions page."},{"run_id":15948926870,"final_json":"No final JSON output available.","aiHeadline":"Workflow Run 15948926870 - 2025-06-28 22:48 UTC","aiBlurb":"Automated summary for workflow run 15948926870. See details and logs at the GitHub Actions page."},{"run_id":15945993762,"final_json":"No final JSON output available.","aiHeadline":"Workflow Run 15945993762 - 2025-06-28 16:19 UTC","aiBlurb":"Automated summary for workflow run 15945993762. See details and logs at the GitHub Actions page."},{"run_id":15945470277,"final_json":"No final JSON output available.","aiHeadline":"Workflow Run 15945470277 - 2025-06-28 15:13 UTC","aiBlurb":"Automated summary for workflow run 15945470277. See details and logs at the GitHub Actions page."}]
+[
+  {
+    "run_id": 15962204097,
+    "final_json": "No final JSON output available.",
+    "aiHeadline": "Workflow Run 15962204097 - 2025-06-30 02:07 UTC",
+    "aiBlurb": "Automated summary for workflow run 15962204097. See details and logs at the GitHub Actions page."
+  },
+  {
+    "run_id": 15962058371,
+    "final_json": "No final JSON output available.",
+    "aiHeadline": "Workflow Run 15962058371 - 2025-06-30 01:55 UTC",
+    "aiBlurb": "Automated summary for workflow run 15962058371. See details and logs at the GitHub Actions page."
+  },
+  {
+    "run_id": 15961772776,
+    "final_json": "No final JSON output available.",
+    "aiHeadline": "Workflow Run 15961772776 - 2025-06-30 01:30 UTC",
+    "aiBlurb": "Automated summary for workflow run 15961772776. See details and logs at the GitHub Actions page."
+  },
+  {
+    "run_id": 15961493574,
+    "final_json": "No final JSON output available.",
+    "aiHeadline": "Workflow Run 15961493574 - 2025-06-30 01:06 UTC",
+    "aiBlurb": "Automated summary for workflow run 15961493574. See details and logs at the GitHub Actions page."
+  },
+  {
+    "run_id": 15960627225,
+    "final_json": "No final JSON output available.",
+    "aiHeadline": "Workflow Run 15960627225 - 2025-06-29 23:42 UTC",
+    "aiBlurb": "Automated summary for workflow run 15960627225. See details and logs at the GitHub Actions page."
+  },
+  {
+    "run_id": 15959439003,
+    "final_json": "No final JSON output available.",
+    "aiHeadline": "Workflow Run 15959439003 - 2025-06-29 21:13 UTC",
+    "aiBlurb": "Automated summary for workflow run 15959439003. See details and logs at the GitHub Actions page."
+  },
+  {
+    "run_id": 15954086377,
+    "final_json": "No final JSON output available.",
+    "aiHeadline": "Workflow Run 15954086377 - 2025-06-29 10:07 UTC",
+    "aiBlurb": "Automated summary for workflow run 15954086377. See details and logs at the GitHub Actions page."
+  },
+  {
+    "run_id": 15951605917,
+    "final_json": "No final JSON output available.",
+    "aiHeadline": "Workflow Run 15951605917 - 2025-06-29 04:42 UTC",
+    "aiBlurb": "Automated summary for workflow run 15951605917. See details and logs at the GitHub Actions page."
+  },
+  {
+    "run_id": 15950443824,
+    "final_json": "No final JSON output available.",
+    "aiHeadline": "Workflow Run 15950443824 - 2025-06-29 02:06 UTC",
+    "aiBlurb": "Automated summary for workflow run 15950443824. See details and logs at the GitHub Actions page."
+  },
+  {
+    "run_id": 15948926870,
+    "final_json": "No final JSON output available.",
+    "aiHeadline": "Workflow Run 15948926870 - 2025-06-28 22:48 UTC",
+    "aiBlurb": "Automated summary for workflow run 15948926870. See details and logs at the GitHub Actions page."
+  }
+]
